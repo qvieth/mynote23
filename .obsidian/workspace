@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "463be9cc41f04f29",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c2ffbea2783f23c",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5eefd21f571f9374",
+    "type": "split",
+    "children": [
+      {
+        "id": "a18f1bf86aac6377",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26ec73d83026f5d3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a6acb004eb47409e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b23ea107b54287f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "77fe8eb8d5997937",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cd03dd0ddd12b2a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9bef22956ae9c06e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2c2ffbea2783f23c",
+  "lastOpenFiles": [
+    "index.md"
+  ]
+}
