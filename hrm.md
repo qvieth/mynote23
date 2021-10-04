@@ -1,4 +1,4 @@
-
+# hrm | 25351    | 25336     | Prof. Conna Yang   | d3:2,3,4 |
 - self study intro to hrm https://www.youtube.com/watch?v=c8_avX9miag
     - nokia -> iphone, google... become the past without innovation
     - knowledge worker: your work will need nothing more than communicating and thinking

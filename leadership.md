@@ -1,4 +1,4 @@
-# leadership
+# leadership | 27351    | 99728     |                    | d2:2,3,4 |
 
 Sep. 28
 The Nature of Leadership

@@ -1,3 +1,4 @@
+# ecom | 91354    | 99524     | Dr. Lynne Lee      | d2:5,6,7 |
 
 group project 20%
 group assignment sep 28
