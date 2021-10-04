@@ -1,4 +1,5 @@
 # research method | 91302    | 99612     | Rrof. Yan Ming Shu | d5:6,7,8 |
+- choose smalelr population, like student of MCU
 Statistics is very big, so try to learn only those topics that are really required to built your stats background.
 - some important topics are:
     1. Types of distribution- normal, chi square, pdf etc

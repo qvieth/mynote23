@@ -1,4 +1,7 @@
 # mcu
+
+team : 08913935@ms1.mcu.edu.tw
+
 - nicky - mail -
 - read reread the course elective information -> each next sem 8 course per
 - study mandarin, focused finance major
@@ -9,7 +12,7 @@
 1. course info & syllabus & student system https://web.mcu.edu.tw/en -> student system -> quicklink -> moodle
 
 [schedule](https://www.mcu.edu.tw/student/enew-query/sel-5.html)
-| course name                        | class id | course id | professor          | time      |
+| COURSE NAME                        | CLASS ID | COURSE ID | PROFESSOR          | TIME      |
 |------------------------------------|----------|-----------|--------------------|-----------|
 | [leadership](leadership)           | 27351    | 99728     |                    | Tue:2,3,4 |
 | [ecom](ecom)                       | 91354    | 99524     | Dr. Lynne Lee      | Tue:5,6,7 |
@@ -23,12 +26,11 @@
                                                     
 
 sem 2
-
-global industry analysis           | 91352    | 99215     | Dr. Yang-Ming Shu      | d1:8,9,40 |
-sopho - financial statement analysis           | 91254    | 91134     | Dr. Yang-Ming Shu      | d5:6,7,8 |
-sopho - money and banking           | 91252    | 99239     | Dr. Yang-Ming Shu      | d5:6,7,8 |
-sopho - industrial psychology           | 91251    | 91137     | Dr. Yang-Ming Shu      | d5:6,7,8 |
-international financial management | 91353    | 99532     | Dr. Yao Ming Li       | d1:8,9,40 |
+| global industry analysis         | 91352 | 99215 | Dr. Yang-Ming Shu | d1:8,9,40 |
+| sopho - financial statement analysis | 91254 | 91134 | Dr. Yang-Ming Shu | d5:6,7,8  |
+| sopho - money and banking            | 91252 | 99239 | Dr. Yang-Ming Shu | d5:6,7,8  |
+| sopho - industrial psychology        | 91251 | 91137 | Dr. Yang-Ming Shu | d5:6,7,8  |
+| international financial management   | 91353 | 99532 | Dr. Yao Ming Li   | d1:8,9,40 |
 
 https://www.mcu.edu.tw/student/enew-query/sel-query/ESecTime.htm
 how to double major

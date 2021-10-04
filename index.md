@@ -1,4 +1,6 @@
 ## what to do next day
+
+- the price of free items
 psychology
     observer effect
     hawthorne effect
