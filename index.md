@@ -2,18 +2,10 @@
 - analytics = computational analysis
 - text analysis
 - the price of free items
-
-psychology
-this is a [test](test)
-test
-test
-
-can this be ok
-
-tests vimwiki sync
-    observer effect
-    hawthorne effect
-
+    
+- psychology 
+    - observer effect
+    - hawthorne effect
 
 the idea of wheel of science is really deserve its own blog
 know what i want - keep my mental strong
