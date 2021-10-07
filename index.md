@@ -26,6 +26,13 @@ what do you find interesting about their blog?
 THIS IS DEFINITELY NOT A SHAMELESS PLUG
 
 thank you qvieth, this blog is so useful it changed my life. - a avid reader of mine
+                Hi! I'm Jason, a Vietnamese, currently a Junior of MCU, Taipei.
+
+                - My interests vary: In free time, I read books📚, play sports or games, or talk to friends debating about different issues. Topics in which I'm most interested are Mathematics, Psychology, and AI.
+
+                - On this channel, you'll find my book reviews, my analysis on social issues or any issue I find captivating.
+
+                - I’m friendly😉, and always open to conversation or social interaction.
 ```
 
 wheel of science
