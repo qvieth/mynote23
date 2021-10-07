@@ -148,3 +148,21 @@ Kirchmeyer (2002) finds masculinity to be positively related to promotion rate b
 Furthermore, leadership literature suggests that femininity has become more universally desirable (Elsesser & Lever, 2011) and that androgynous individuals (those who possess both high masculine and high feminine characteristics) tend to emerge as organizational leaders (Kent & Moss, 1994)
 
 Gendered Communication and Career Outcomes:
+
+```
+A is dependent variable (in our case it's Advancement of positions)
+B C D E F G are independent variable
+
+after doing survey we will have A B C D E F 
+then we create pairs of dependent and independent variables to see which one leads to change
+6 pairs are:  A-B | A-C | A-D | A-E | A-F 
+
+        A ▲                             A ▲                                A ▲                             A ▲                              A ▲
+          │                               │                                  │        .                      │ .                              │
+          │            .                  │  .                               │ .  ..    .                    │  .                             │            .
+          │      .  .                     │   .  . . .                       │   .                           │  .                             │      .  .  
+          │  . .                          │                                  │                               │  . .  .                        │  . .       
+          │                               │                                  │                               │         .                      │            
+          └────────────────►              └────────────────►                 └────────────────►              └────────────────►               └────────────────►
+                          B                               C                                  D                               E                                F
+```
