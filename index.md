@@ -7,6 +7,8 @@ psychology
 this is a [test](test)
 test
 test
+
+tests vimwiki sync
     observer effect
     hawthorne effect
 
