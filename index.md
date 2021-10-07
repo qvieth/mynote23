@@ -3,6 +3,7 @@
 - ok
 - text analysis
 - the price of free items
+- tes
     
 - psychology 
     - observer effect
