@@ -46,7 +46,7 @@ through the about us you will find professor as well as serectary email, you can
 - Research Method team dicussion outline
     - weekly team call
     - common knowledge things don't work out -> arguable decision -> end with vote
-    - 
+
 - [ftu ibt orientation](https://drive.google.com/file/d/1ydJmKatHPk4rCD1MP65nUtRx41eWA6jP/view)
 - add/drop course : 12:30 
 - [ ] service operation manage ->

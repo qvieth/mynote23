@@ -16,7 +16,7 @@ id odd number: ...
 id even number: test start around 10:30 to 11:30
 test content will be the same
 
-# hrm-week1
+# hrm-week2
 ## trends in human resource management
 1. the major trends of the modern work force
 2. ways can hrm support these trends in organizaitional strategy
@@ -45,7 +45,7 @@ test content will be the same
     - the most ethnically diverse generation, tolerance of differnce
 
 - HR implications of an aging workforce
-    - HRM spends much time on retirement planning, retraining and motivating workers.
+    - HRM spends much time on **retirement planning, retraining and motivating workers.**
     - organizations struggle to control rising costs of health care and benefits
     - younger managers will supervise older employees
 - -> organizations must find ways to prepare youth labor force
@@ -55,13 +55,31 @@ test content will be the same
 - cheap labor: undocumented, illegal labor
 - discussion topics 1
 - **employee empowerment**: giving employees responsibility and authority to make decision regarding all aspects of product development. or customer service
+
 ### question 1: what examples of empowerment can you think of college studetn? how do you think this will affect them positively
+
+Introduce : I'm Jason
 Before analyzing employee empowerment in terms of student regarded, I defined student empowerment as anything school or professor done in order to best facilitate student to reach their highest potential.
+the best thing i come up with that help with faciliting student to reach their highest potential is:
+
+grading system -> study should be about expressing oneself's idea, reasoning. focus on writing analytics essay could be a way
+grade the process rather than the result
+my way of empowering student is allowing them to grade theirselves
+the current context:
+exam grading is multiple choice, they don't allow variation in answer
+don't allow student to express their idea much
+may be assignment do like this, this is a good class
+let student do whatever they want and grade themselves at the end of the semester
 
 The current context, which i saw in many "critic article about education", is that the traditional way is actually disempowering students: it's too much theorically heavy, lack of critical debate or feedback from student. One of the main reason, i see, is that grading system has no way for openness or creativity. Difference doesn't lead to higher grade, critics from student about current knowledge doesn't lead to higher grade, perhaps the worst situation, in some education, is no open commucation is encourage.
 
+i will responsible for my progress
+
 So I suggest a way for combating this problem: allow students to grade themselves, or at least allow peer-to-peer grading.
+
 The biggest problems hindering this vision to cometrue is personal honesty which has something to do with morality. But the future is bright, perhaps the advance of technologies, internet of things, AI, would be a potential for us to solve this problem. IOT has application of dealing with realtime data, AI can detect anomaly, cheating,... That's my suggestion!
 
 ### question 2: why do you think employers may be reluctant to practice empowerment?
-technological barriers i think, also maybe the cost is too high.
+relevant to the first question i mean student or to the company?
+
+## HRM week3

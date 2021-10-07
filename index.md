@@ -1,5 +1,6 @@
 ## what to do next day
-
+- analytics = computational analysis
+- text analysis
 - the price of free items
 psychology
     observer effect
