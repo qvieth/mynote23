@@ -1,5 +1,6 @@
 ## what to do next day
 - analytics = computational analysis
+- ok
 - text analysis
 - the price of free items
     
