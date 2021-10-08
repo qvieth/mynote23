@@ -1,4 +1,12 @@
 ## what to do next day
+
+be authenticity and don't give a fuck about what other people think about you
+
+- Best piece of advice my therapist gave me as a young anxious man.
+    - Stop concentrating on how your feeling/thinking and pay attention to what the person is actually saying and THEIR body language.
+    - Takes a bit of practice but it pulls you out of your head and allows you to start being more relaxed, authentic and socially confident.
+    - You'll start noticing other people's little signals and it'll help connect you to them much quicker.
+
 - analytics = computational analysis
 - ok
 - text analysis
