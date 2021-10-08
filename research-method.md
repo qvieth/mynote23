@@ -166,3 +166,9 @@ then we create pairs of dependent and independent variables to see which one lea
           └────────────────►              └────────────────►                 └────────────────►              └────────────────►               └────────────────►
                           B                               C                                  D                               E                                F
 ```
+
+
+- we gathered and discussed topic, after we choose the topic we do some more preliminary reserach to find out which problems interested us
+
+Hello professor, hello class, we are team 6
+MJ can you pls share the screen for our team, thank you
