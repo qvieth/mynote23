@@ -1,4 +1,6 @@
 ## what to do next day
+[draft](draft)
+
 ```
 Warm + strong = confidence
 Cold + strong = arrogance
@@ -6,6 +8,8 @@ Warm + weak = pitty
 Cold + weak = lost cause
 ```
 work ethic
+
+revise thoughts
 
 be authenticity and don't give a fuck about what other people think about you
 
