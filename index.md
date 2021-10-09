@@ -1,4 +1,11 @@
 ## what to do next day
+```
+Warm + strong = confidence
+Cold + strong = arrogance
+Warm + weak = pitty
+Cold + weak = lost cause
+```
+work ethic
 
 be authenticity and don't give a fuck about what other people think about you
 
