@@ -1,5 +1,17 @@
 ## what to do next day
+- Given below are a list of common transition words and phrases, categorized according to their function.
+- argument -> why, which best, comparing and contrasting, question and answer
+- 
 
+| Adding Information | Opposition        | Emphasis/Examples | Comparison        | Consequences | Conclusion    |
+|--------------------|-------------------|-------------------|-------------------|--------------|---------------|
+| In addition        | On the contrary   | In fact           | Similarly         | As a result  | After all     |
+| Moreover           | However           | For example       | Likewise          | Thus         | In conclusion |
+| Furthermore        | Regardless        | Specially         | In like manner    | Therefore    | In summary    |
+| Additionally       | On the other hand | In particular     | Equally important | Hence        | On the whole  |
+| Also               | Nevertheless      | For instance      | Despite that      | Consequently | Overall       |
+
+- transition words and phrases, categorized according to their function.
 
 [draft](draft)
 
