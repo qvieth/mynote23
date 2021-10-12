@@ -1,10 +1,11 @@
 ## what to do next day
+
 - Given below are a list of common transition words and phrases, categorized according to their function.
 - argument -> why, which best, comparing and contrasting, question and answer
-- 
+
 
 | Adding Information | Opposition        | Emphasis/Examples | Comparison        | Consequences | Conclusion    |
-|--------------------|-------------------|-------------------|-------------------|--------------|---------------|
+| ------------------ | ----------------- | ----------------- | ----------------- | ------------ | ------------- |
 | In addition        | On the contrary   | In fact           | Similarly         | As a result  | After all     |
 | Moreover           | However           | For example       | Likewise          | Thus         | In conclusion |
 | Furthermore        | Regardless        | Specially         | In like manner    | Therefore    | In summary    |
@@ -21,6 +22,7 @@ Cold + strong = arrogance
 Warm + weak = pitty
 Cold + weak = lost cause
 ```
+
 work ethic
 
 revise thoughts
@@ -28,19 +30,19 @@ revise thoughts
 be authenticity and don't give a fuck about what other people think about you
 
 - Best piece of advice my therapist gave me as a young anxious man.
-    - Stop concentrating on how your feeling/thinking and pay attention to what the person is actually saying and THEIR body language.
-    - Takes a bit of practice but it pulls you out of your head and allows you to start being more relaxed, authentic and socially confident.
-    - You'll start noticing other people's little signals and it'll help connect you to them much quicker.
+
+  - Stop concentrating on how your feeling/thinking and pay attention to what the person is actually saying and THEIR body language.
+  - Takes a bit of practice but it pulls you out of your head and allows you to start being more relaxed, authentic and socially confident.
+  - You'll start noticing other people's little signals and it'll help connect you to them much quicker.
 
 - analytics = computational analysis
 - ok
 - text analysis
 - the price of free items
 - tes
-    
-- psychology 
-    - observer effect
-    - hawthorne effect
+- psychology
+  - observer effect
+  - hawthorne effect
 
 the idea of wheel of science is really deserve its own blog
 know what i want - keep my mental strong
