@@ -1,5 +1,6 @@
 # research method | 91302 | 99612 | Rrof. Yan Ming Shu | d5:6,7,8 |
 
+- [literature review](literature-review)
 - choose smalelr population, like student of MCU
   Statistics is very big, so try to learn only those topics that are really required to built your stats background.
 - some important topics are:
@@ -107,68 +108,5 @@ WHAT WE CAN SOLVE:
 - we can try to suggest users, platform providers the sustainable use of social media during and after pandemic time
 - https://en.wikipedia.org/wiki/Inverted_pyramid_(journalism)
 
-## gendered communication
-
-women and men communicate differently
-
-- what we think and what we behave are differently
-- Gender Differences in Speech Content:
-  - research into gendered communication started only about 50 years ago
-  - Men tend to a “report” style, meaning they use speech that contains facts, data and aims to solve problems. They tend to leave out personal information or anecdotes. They also tend to try to dominate a conversation
-  - communication researchers have only been examining it for about 50 years. Initially, research centered on the differences between men and women’s language styles
-  - Building on that, we began to analyze the concepts of dominance and control. Today, most research in this area focuses on identity formation, multiplicities, and similarities. 
-  - Gender attitudes are confusing. What does it mean to be masculine? What does it mean to be feminine? What are your attitudes?
-
-https://journals.sagepub.com/doi/abs/10.1177/0093650215590605 Gendered Communication and Career Outcomes:
-- Results generally support our hypotheses that masculine communication style is related to hierarchical advancement
-  - (e.g., number of promotions, advancement to higher managerial levels),
-- whereas feminine communication style is related to non-hierarchical rewards
-  - (e.g., higher compensation, increased span of control)
-- Unexpectedly, feminine communication style also positively predicts two indicators of hierarchical career success.
-- Furthermore, an interaction effect suggests that gendered communication style has more of an impact on women’s compensation than on men’s.
-
-https://www.sciencedirect.com/science/article/abs/pii/S0277953603005902 gendered communication in sexual health, partners
-- Effective communication between partners is crucial for good sexual health, but is often difﬁcult to achieve
-- social pressures that exacerbate gendered communication
-
-
-evidence : 2 ways from other paper, content analysis
-
-Unlike sex, which is classified based on genetic and biological factors, gender is learned and performed (J. T. Wood, 2013)
-
-While extant research has considered gender as a socially constructed, learned concept, it has largely ignored the performative nature of the gender construct, result-
-ing in a rather narrow understanding of the relationship between gender and organizational phenomena (Mumby, 2006).
-
-On one hand, career advancement theory suggests that masculinity tends to predict career success (Fagenson, 1990; Tharenou, 1997b).
-
-These differing theoretical perspectives reflect contrasting alternatives through which to predict career outcomes
-
-Kirchmeyer (2002) finds masculinity to be positively related to promotion rate but not to income
-
-Furthermore, leadership literature suggests that femininity has become more universally desirable (Elsesser & Lever, 2011) and that androgynous individuals (those who possess both high masculine and high feminine characteristics) tend to emerge as organizational leaders (Kent & Moss, 1994)
-
-Gendered Communication and Career Outcomes:
-
-```
-A is dependent variable (in our case it's Advancement of positions)
-B C D E F G are independent variable
-
-after doing survey we will have A B C D E F 
-then we create pairs of dependent and independent variables to see which one leads to change
-6 pairs are:  A-B | A-C | A-D | A-E | A-F 
-
-        A ▲                             A ▲                                A ▲                             A ▲                              A ▲
-          │                               │                                  │        .                      │ .                              │
-          │            .                  │  .                               │ .  ..    .                    │  .                             │            .
-          │      .  .                     │   .  . . .                       │   .                           │  .                             │      .  .  
-          │  . .                          │                                  │                               │  . .  .                        │  . .       
-          │                               │                                  │                               │         .                      │            
-          └────────────────►              └────────────────►                 └────────────────►              └────────────────►               └────────────────►
-                          B                               C                                  D                               E                                F
-```
-
-
-- we gathered and discussed topic, after we choose the topic we do some more preliminary reserach to find out which problems interested us
-
-Hello professor, hello class, we are team 6
-MJ can you pls share the screen for our team, thank you
+[gendered communication](gendered-communication)
+[literature review](literature-review)

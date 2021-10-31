@@ -82,3 +82,11 @@ Patrick Awuah: How to Educate Leaders? (video)
 - ppt:
 - five practices for leadership
     - adam : think again, the power of knowing what you don't know
+
+## Tue Oct 26
+next week is the week before midterm
+midterm exam will be take home exam
+next week prof will give the question as the take home exam
+next next week don't have class
+comeback on november 16 to answer sheet, type, with your name and student number on
+next week pls be attentive, 

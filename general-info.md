@@ -3,6 +3,15 @@
 
 ---
 
+- department code : 91 international business and trade, 25 fashion and innovation management program, 27 Journalism and mass communications program
+- drop box oritentation pdf
+how to double major
+attendance results recorded on moodle
+enter freshman registration information : parents, home address, photos,.. **before oct 10** -> for id card making
+contact your program Secretary if you have any question
+through the about us you will find professor as well as serectary email, you can then emaile them
+- [ftu ibt orientation](https://drive.google.com/file/d/1ydJmKatHPk4rCD1MP65nUtRx41eWA6jP/view)
+
 1. regular semester -> dang ky mon
       - individual course selection -> coi nhung mon da dk trong hoc ki
            - -> square-format class schedule -> tkb

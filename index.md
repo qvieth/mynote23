@@ -1,5 +1,71 @@
 ## what to do next day
 
+- dog barks - dogs bark - s in 1 of 2
+- mail example :
+  - https://wiu.libguides.com/c.php?g=394881&p=2683271
+  - https://www.perkinselearning.org/technology/blog/ten-form-emails-send-your-professors
+* add to the writing framework: how to think: list out ideas -> [text structure](https://dpi.wi.gov/sites/default/files/imce/ela/images/Text%20Structures.pdf) -> add transtion
+  1. narrative
+  2. **description**: features(functions), characteristics(variables), examples(instances)
+  3. **sequence**: steps to follow
+  4. **cause and effect** : effect - what happened, cause - why happened
+  5. **problem solution**: give one problem and one or more solutions
+  6. **compare and contrast**: compare - how things are **similar** || contrast - how things are different
+* [introduction to text structures](https://www.youtube.com/watch?v=-_yfqT35sHs)
+- Periodic vs. Loose Sentences: What Are the Differences?
+  - Both feature independent clauses and dependent clauses
+  - The periodic sentence places the main clause at the end of the sentence and the dependent clause at the beginning.
+  - Inversely, a loose sentence, also known as a cumulative sentence, places the main clause at the beginning of the sentence and the dependent clause precedes it.
+- [text structure](https://dpi.wi.gov/sites/default/files/imce/ela/images/Text%20Structures.pdf): compare and contrast, cause and effect, problem solution
+- narrative vs thematic
+- management vs influence: power vs influence
+- https://www.youtube.com/watch?v=Q-B_ONJIEcE
+- language is not thought but it can affect thought
+- https://www.youtube.com/watch?v=cSAW4FSA8Dg
+- the way to think:
+  - not one idea then the next ideas and so on...
+  - but many ideas at the same times then think of transitions or conjunctions to connect them
+- The main difference between conjunctions and transitions is that conjunctions connect two clauses, but transitions connect two sentences or paragraphs.
+- conjunction: coordinating conjunctions(FANBOYS) and subordinating conjunctions.
+- transition connect ideas : they can be words, phrases, or sentences.
+- https://writing.wisc.edu/handbook/style/transitions/
+  * think of ideas first then think of transition words later to connect 
+- mail professor midterm
+- orgranzie [mcu](mcu)
+[draft](draft)
+
+Put first things first - clean the quadrant I. When done, focus on quadrant II
+|            | URGENT                      | !URGENT                             |
+|------------|-----------------------------|-------------------------------------|
+| IMPORTANT  | QUADRANT I - Activities     | QUADRANT II - Activities            |
+|            | * crises                    | * relationship building             |
+|            | * pressing problems         | * recognizing new opportunities     |
+|            | * deadline-driven projects  | * planning                          |
+|------------|-----------------------------|-------------------------------------|
+| !IMPORTANT | QUADRANT III - Activities   | QUADRANT IV - Activities            |
+|            | * interruptions             | * trivial busywork                  |
+|            | * some calls, meetings      | * time wasters                      |
+|            | * popular activities        | * pleasant activities               |
+
++ PARETO PRINCIPLE 80/20
+
+* This study examined the relationship between proactive personality and career success by surveying a sample of 496 employees (320 men and 176 women) from a diverse set of occupations and organizations. **Proactive personality was positively associated with both self-reported objective (salary and promotions) and subjective (career satisfaction) indicators of career success**. Hierarchical regression analyses showed that proactive personality explained additional variance in both objective and subjective career success even after controlling for several relevant variables (demographic, human capital, motivational, organizational, and industry) that have previously been found to be predictive of career outcomes. These findings were consistent using both self-report and significant-other ratings of proactive personality. (PsycINFO Database Record (c) 2016 APA, all rights reserved)
+advancement in posistion : ask them a chan dung 1 leader, ceo ban nguong mo, so sanh your boss with that
+- ask professor for recommendation letter
+
+## grammar
+[What is another word for in other words?](https://www.wordhippo.com/what-is/another-word-for/in_other_words.html)
+* don't write outline, write outline question.
+  - think of how you answer 3 case study question in ECOM class so quickly
+
+- Actually, theories are very practical. They help us understand, explain, and predict what happens in our real lives and in the world around us. understand why the what becomes easier to understand
+- **courage** is not to feel no doubt or fear, but to act in spite of them
+- [how to never run out of things to say](https://www.youtube.com/watch?v=oxOih6GwSXI)
+  - purpose driven: must have a purpose, the purpose must be right
+  - structure of a story: situation -> interruption -> change
+  - specific -> show don't tell
+  - don't be a clown, dancing monkey
+
 - Given below are a list of common transition words and phrases, categorized according to their function.
 - argument -> why, which best, comparing and contrasting, question and answer
 - test
@@ -52,15 +118,6 @@ MUST NOT TEXT HER, WAIT FOR HER TO TEXT ME FIRST!! -> SHE WILL FIGURE OUT MY INT
 i want you back MH, i won't let my rage push you away
 
 ```
-screw you, thanks for loi tien tri, V cha viet dc gi may ngay lien roi
-any meo de viet better?
-
-do you have any other friend who do blogging?
-ban cua H co ai viet blog k nhi,
-what do you find interesting about their blog?
-
-THIS IS DEFINITELY NOT A SHAMELESS PLUG
-
 thank you qvieth, this blog is so useful it changed my life. - a avid reader of mine
                 Hi! I'm Jason, a Vietnamese, currently a Junior of MCU, Taipei.
 
@@ -154,7 +211,10 @@ know or don't know -> don't know: ask more question gain more information
 - [Different models of basic emotions proposed by theorists.](https://www.researchgate.net/figure/Different-models-of-basic-emotions-proposed-by-theo-rists_tbl1_325642734)
 
 ### atomic habits : automatic actions
-
+- https://www.youtube.com/watch?v=PZ7lDrwYdZc
+- tiny changes leads to complete differnt destination : think of plane fly
+- systems over goals
+- habit loops : cue -> craving -> response -> reward
      - the purpose of setting goals is to win the game. the purpose of building systems is to continue playing the game.
           > the ultimate form of intrinsic motivation is when a habit becomes part of our identity
 
@@ -258,7 +318,7 @@ Our brains store experiences in a way that not only records facts, but also our 
   - Aronson’s First Law: “People who do crazy things are not necessarily crazy” i.e. some situational variables can move a great proportion of us “normal” adults to behave in very unappetizing ways.
   - **An opinion with an emotional component can be called an attitude**. Compared the only evaluative opinions, attitudes are extremely difficult to change.
   - To **stereotype** is to assign identical characteristics to any person in a group, regardless of the actual variation among groups members.
-  - If a person goes through a painful experience in order to attain some goal or object, that goal or object becomes more attractive.
+  - **If a person goes through a painful experience in order to attain some goal or object, that goal or object becomes more attractive.**
   - If two people are genuinely fond of each other, they will have a more satisfying and exciting relationship over a longer period of time if they are able to express whatever negative feelings they may have than if they are completely “nice” to each other. In the long run, **authenticity** is essential for the maintenance and growth of the attraction between people!
   - Most people are motivated to justify their own actions, beliefs, and feelings.
   - **Cognitive Dissonance**: a state of tension that occurs whenever an individual simultaneously holds two cognitions (ideas, attitudes, beliefs, opinions) that are psychologically inconsistent.

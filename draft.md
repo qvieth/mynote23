@@ -63,3 +63,43 @@ Also, could you let me know the expected time when you would be here? I shall pr
 
 Sincerely,
 Ho Tan Tai
+
+
+# Case Study Questions
+```
+- internet traffic
+- threshold of patience is very low
+- users leave a page that takes more than three seconds to load
+- problem stems from the underlying infrastructure of the Internet.
+- The Internet is a collection of networks that has to pass information from one network to another 
+- expediting Internet traffic to overcome these limitations
+- storing copies of web content such as pictures or video clips at many different locations around the Internet so that one could always retrieve a nearby copy, making web pages load faster.
+- the akamai intelligent platform has many products: block security threads, allow customer to move their online content closer to end users
+- has a wide range of large corporate and government clients -> creditbility
+- Web sites that are “Akamaized” can be delivered anywhere from 4 to 10 times as fast as nonAkamaized content
+- Image Manager tool
+- advertising based on user location and zip code, content security, business intel-
+ligence, disaster recovery, on-demand bandwidth and computing capacity during spikes
+in Internet traffic, storage, global traffic management, and streaming services
+- announced it would launch a blockchain-based payment network for credit cards and
+other financial transactions
+- The network is expected to perform one million transactions
+per second at latencies of less than two seconds,
+- the growth of streaming video has also created new challenges for Akamai, challenge from amazon, cloudfare
+- Akamai is in a very strong position to sell security services and analytics to its customers.
+- The improvements in Akamai’s security businesses have offset much of the slowdown in its content delivery business.
+- support higher-growth areas like cloud security.
+```
+1. Why does Akamai need to geographically disperse its servers to deliver its customers’ web content?
+In the modern internet era, internet user's patience for loading website is very low. Reports state that users would leave a page of which loadtime is greater than 3 seconds. Akamai solve the content delivery network problem by move the server to near the user so that copies of web content at many different locations can be serve to a nearest user. Therefore the web is loaded faster.
+
+2. If you wanted to deliver software content over the Internet, would you sign up for Akamai’s service? Why or why not?
+website served by Akamai service are 4 to 10 times faster than the non-service-used one. This is a attractive reason for using akamai service. but as a business owner, one has to do cost-benefit analysis to decide whether the service is worth using.
+
+3. Do you think Internet users should be charged based on the amount of bandwidth they consume, or on a tiered plan where users would pay in rough proportion to their usage?
+From the standpoint of user, i will pick whatever solution is more benefit for me. As a heavy-use internet user, i prefer the pay for bandwidth i consume solution.
+
+68 43 29
+
+id full name
+
