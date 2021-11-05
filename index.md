@@ -1,5 +1,13 @@
 ## what to do next day
+- entrepeenerur sell on amazon
 
+## information to add to google calendar
+- [ ] leadership: take home exam, presentation
+- [ ] ecom : 11/10 midterm
+- [ ] hr done
+- [ ] research method : project 2 on progress
+
+- categorize + generalize = stereotype
 - dog barks - dogs bark - s in 1 of 2
 - mail example :
   - https://wiu.libguides.com/c.php?g=394881&p=2683271

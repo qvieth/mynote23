@@ -1,4 +1,8 @@
 # leadership | 27351    | 99728     |                    | d2:2,3,4 |
+- email answer to professor before 5pm twtime nov 16
+- next week no class
+- google presentation design
+- state shocking research
 
 Sep. 28
 The Nature of Leadership
