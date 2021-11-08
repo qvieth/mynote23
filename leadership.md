@@ -1,4 +1,6 @@
 # leadership | 27351    | 99728     |                    | d2:2,3,4 |
+[draft](draft)
+[test](test)
 - email answer to professor before 5pm twtime nov 16
 - next week no class
 - google presentation design

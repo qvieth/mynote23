@@ -1,12 +1,26 @@
 ## what to do next day
+
+- [fireship - 7 Cryptography Concepts EVERY Developer Should Know](https://www.youtube.com/watch?v=NuyzuNBFWxQ)
+
+- **WHEN THAT URGE COMES, READ THIS:**
+  - life skills to build confidence:
+    - **mindfulness** and **self-control** not engouh, must add **preventing depression**
+      - learn writting
+      - Learn how to apply for a job and prepare well for interviews
+      - Financial capability – learning to budget and if possible, save
+    - know that i will sometimes fail at sexual things again, i will use porn for stress relieve, <- MUST STOP THIS PATTERN
+    - https://www.reddit.com/r/NoFap/
+
 - entrepeenerur sell on amazon
 
 ## information to add to google calendar
-- [ ] leadership: take home exam, presentation
+
+- [ ] [leadership](leadership): take home exam, presentation
 - [ ] ecom : 11/10 midterm
-- [ ] hr done
+- [X] hr done
 - [ ] research method : project 2 on progress
 
+- [psychology](psychology)
 - categorize + generalize = stereotype
 - dog barks - dogs bark - s in 1 of 2
 - mail example :
@@ -76,7 +90,7 @@ advancement in posistion : ask them a chan dung 1 leader, ceo ban nguong mo, so 
 
 - Given below are a list of common transition words and phrases, categorized according to their function.
 - argument -> why, which best, comparing and contrasting, question and answer
-- test
+- [test](test)
 
 
 | Adding Information | Opposition        | Emphasis/Examples | Comparison        | Consequences | Conclusion    |
@@ -355,7 +369,7 @@ Our brains store experiences in a way that not only records facts, but also our 
 ### thinking fast and slow - daniel kahneman
 
 - [thinking fast and slow - daniel kahneman](https://www.youtube.com/watch?v=uqXVAo7dVRU) : 1. fast, automatic, irrational, automatic vs slow, logic -> 2. anchoring -> 3. the science of availability -> 4. loss aversion -> 5. framing -> 6. sunk cost fallacy (your past decisions shouldn't affect what is good for you now)
-- outlier - malcom gladwell -> 10000 hours rule has been proven wrong - language matters - month of birth matters - hardworking matters in math
+- outlier - malcom gladwell -> 10000 hours rule - language matters - month of birth matters - hardworking matters in math
 
 ### blink
 
