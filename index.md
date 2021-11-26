@@ -1,5 +1,5 @@
 ## what to do next day
-- 
+- https://cristianpb.github.io/  -> learn from this guy
 - [stevejob 2005 standford](https://news.stanford.edu/news/2005/june15/jobs-061505.html)
 ```stevejob-2005standford
 Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make the big choices in life.
@@ -47,7 +47,6 @@ You are already naked. There is no reason not to follow your heart.
       - learn writting
       - Learn how to apply for a job and prepare well for interviews
       - Financial capability – learning to budget and if possible, save
-    - know that i will sometimes fail at sexual things again, i will use porn for stress relieve, <- MUST STOP THIS PATTERN
     - https://www.reddit.com/r/NoFap/
 
 - entrepeenerur sell on amazon
@@ -275,11 +274,11 @@ know or don't know -> don't know: ask more question gain more information
   2.  **craving**: provide motivational thoughts
   3.  **response**: habits we perform
   4.  **reward**: endgoal
-- 4 laws of behavior change | vs current bad situation:
-  1.  make cues **obvious** | invisible
-  2.  make it **attractive** | fugly
-  3.  make it **easy** | hard
-  4.  make rewards **satisfy** | unsatisfied
+- 4 laws of behavior change - vs current bad situation:
+  1.  make cues **obvious** - invisible
+  2.  make it **attractive** - fugly
+  3.  make it **easy** - hard
+  4.  make rewards **satisfy** - unsatisfied
 - emphasis places on
   - systems rather than goals
   - identity rather than outcomes
