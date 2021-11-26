@@ -1,4 +1,12 @@
 ## what to do next day
+- 
+- [stevejob 2005 standford](https://news.stanford.edu/news/2005/june15/jobs-061505.html)
+```stevejob-2005standford
+Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make the big choices in life.
+Because almost everything — all external expectations, all pride, all fear of embarrassment or failure — these things just fall away in the face of death, leaving only what is truly important.
+Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose.
+You are already naked. There is no reason not to follow your heart.
+```
 - quickly look into stranger eyes (not too far away) and ask: what eyes color, what are they looking at, what is their mood? other?
 - Remember, the person who holds the gaze longer shows power
 - DECEMBER 10 handin second RM project
@@ -88,6 +96,7 @@
 [draft](draft)
 
 Put first things first - clean the quadrant I. When done, focus on quadrant II
+
 |            | URGENT                      | !URGENT                             |
 |------------|-----------------------------|-------------------------------------|
 | IMPORTANT  | QUADRANT I - Activities     | QUADRANT II - Activities            |
