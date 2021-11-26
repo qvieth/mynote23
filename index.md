@@ -1,6 +1,37 @@
 ## what to do next day
-
+- quickly look into stranger eyes (not too far away) and ask: what eyes color, what are they looking at, what is their mood? other?
+- Remember, the person who holds the gaze longer shows power
+- DECEMBER 10 handin second RM project
+- APPLY VACINATION PROOF ON SYSTEM
+- bring back book review corner
+- how to piss sb off: break their expectation(anticipation)
+- if you ask for favor, always ask for color of the inquiree
+- LEADERSHIP
+  - presentation note:
+    - how to tell a story with slide : character involve slide
+    - retell the story for everyone to listen -> many slide with little words
+    - summary & review -> quora, google,...
+    - go into the textbook and see what relevant or helpful
+    - solution by experts
+  - group 1: potential good study friends
+    - Helen (07270036) 
+    - Jessica (07270072) 
+    - Katherine (07270134)
+- asking am i better than yesterday is ok, but better question: how to better than yesterday?
+  - i read books a lot today but didn't feel any better than myself of yesterday,
+  - -> accumulative knowledge is better than lateral knowledge
+- philosophy (armchair thinking) - words, logic, debates vs science(experimental thinking) - observation
+- 謝謝你我是很好
+- https://www.youtube.com/watch?v=5Ip4VjlD7Ew - chinese:
+  - recognize character is a more important skill - many chinese don't even know how to write
+  - reading + typing
+  - Just find a topic that you want to learn about and take notes, listen and repeat and review, review review
 - [fireship - 7 Cryptography Concepts EVERY Developer Should Know](https://www.youtube.com/watch?v=NuyzuNBFWxQ)
+- take a home test kit - don't have to pay for it
+- When we're nervous, we're paying more attention to ourselves than to the other person
+- [test](test)
+
+
 
 - **WHEN THAT URGE COMES, READ THIS:**
   - life skills to build confidence:
@@ -139,17 +170,6 @@ right now the ending was beautiful, i just need more time, a few months
 MUST NOT TEXT HER, WAIT FOR HER TO TEXT ME FIRST!! -> SHE WILL FIGURE OUT MY INTENTION RIGHT AWAY IF I DO SO, RIGHT NOW JUST FORCUS ON MYSELF
 i want you back MH, i won't let my rage push you away
 
-```
-thank you qvieth, this blog is so useful it changed my life. - a avid reader of mine
-                Hi! I'm Jason, a Vietnamese, currently a Junior of MCU, Taipei.
-
-                - My interests vary: In free time, I read books📚, play sports or games, or talk to friends debating about different issues. Topics in which I'm most interested are Mathematics, Psychology, and AI.
-
-                - On this channel, you'll find my book reviews, my analysis on social issues or any issue I find captivating.
-
-                - I’m friendly😉, and always open to conversation or social interaction.
-```
-
 wheel of science
 wheel of emotion
 
@@ -178,16 +198,16 @@ know or don't know -> don't know: ask more question gain more information
 - [ ] [blog](blog)
 
 - checklist
-  - [ ] sua tam + ban chai danh rang + **chi nha khoa**
-  - [ ] perspirex
+  - [X] sua tam + ban chai danh rang + **chi nha khoa**
+  - [X] perspirex
   - [ ] 2 kinh can
   - [ ] hop but + so
-  - [ ] vali
-  - [ ] quan ao + ao lanh
-  - [ ] thuoc
-  - [ ] balo
-  - [ ] sua rua mat serum
-  - [ ] giay dep + tat
+  - [X] vali
+  - [X] quan ao + ao lanh
+  - [X] thuoc
+  - [X] balo
+  - [X] sua rua mat serum
+  - [X] giay dep + tat
   - [ ] laptop + sac pin
 
 ## fleeting notes
@@ -505,3 +525,5 @@ Here are the 6 main principles explored in this book:
 - The term psychologist is a protected term, meaning that you cannot legally call yourself a psychologist unless you meet specific educational and training requirements.
 
 [se for middle school](https://www.youtube.com/watch?v=D6ABgVHNRWc)
+
+[archive](archive)
