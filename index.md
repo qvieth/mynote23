@@ -1,7 +1,10 @@
 ## what to do next day
-- https://cristianpb.github.io/  -> learn from this guy
+ds
+[draft](draft)
 - [stevejob 2005 standford](https://news.stanford.edu/news/2005/june15/jobs-061505.html)
 ```stevejob-2005standford
+s
+
 Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make the big choices in life.
 Because almost everything — all external expectations, all pride, all fear of embarrassment or failure — these things just fall away in the face of death, leaving only what is truly important.
 Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose.
@@ -30,6 +33,7 @@ You are already naked. There is no reason not to follow your heart.
   - -> accumulative knowledge is better than lateral knowledge
 - philosophy (armchair thinking) - words, logic, debates vs science(experimental thinking) - observation
 - 謝謝你我是很好
+- 
 - https://www.youtube.com/watch?v=5Ip4VjlD7Ew - chinese:
   - recognize character is a more important skill - many chinese don't even know how to write
   - reading + typing
