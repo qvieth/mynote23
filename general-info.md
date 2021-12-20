@@ -1,26 +1,28 @@
 # MCU
 
-
 ---
 
-- department code : 91 international business and trade, 25 fashion and innovation management program, 27 Journalism and mass communications program
+- department code :
+  - 91 international business and trade,
+  - 25 fashion and innovation management program,
+  - 27 Journalism and mass communications program
 - drop box oritentation pdf
-how to double major
-attendance results recorded on moodle
-enter freshman registration information : parents, home address, photos,.. **before oct 10** -> for id card making
-contact your program Secretary if you have any question
-through the about us you will find professor as well as serectary email, you can then emaile them
+  how to double major
+  attendance results recorded on moodle
+  enter freshman registration information : parents, home address, photos,.. **before oct 10** -> for id card making
+  contact your program Secretary if you have any question
+  through the about us you will find professor as well as serectary email, you can then emaile them
 - [ftu ibt orientation](https://drive.google.com/file/d/1ydJmKatHPk4rCD1MP65nUtRx41eWA6jP/view)
 
 1. regular semester -> dang ky mon
-      - individual course selection -> coi nhung mon da dk trong hoc ki
-           - -> square-format class schedule -> tkb
-      - grade details query : coi diem
-      - fee query -> itemized fees query
-      - right tab -> student e-portfolio -> coi thong tin -> graduation check
-           - exam schedule -> moi thi giua ki, cuoi ki, bam vo bang do de tra cuu ngay thi, phong thi, co nhung mon thay co cho thi trong lop, cho thi tap trung
-           - absent and final make up -> coi thay co nao dang tai lieu on thi
-      - attendance info -> attendance system
+   - individual course selection -> coi nhung mon da dk trong hoc ki
+     - -> square-format class schedule -> tkb
+   - grade details query : coi diem
+   - fee query -> itemized fees query
+   - right tab -> student e-portfolio -> coi thong tin -> graduation check
+     - exam schedule -> moi thi giua ki, cuoi ki, bam vo bang do de tra cuu ngay thi, phong thi, co nhung mon thay co cho thi trong lop, cho thi tap trung
+     - absent and final make up -> coi thay co nao dang tai lieu on thi
+   - attendance info -> attendance system
 2. quan tam toi cot ben trai
 
 # Registration Procedures for International Degree-Seeking Students in Fall Semester 2021
@@ -56,10 +58,9 @@ https://web.mcu.edu.tw/en
 - check the time its different from taoyoan vs taipei
 - add courses/ drop courses
 - elective course selection
-     - sep 22 system open
-     - sep 30 system close
+  - sep 22 system open
+  - sep 30 system close
 - don't choose 2 course at the same time / the same course twice
-
 
 focus course program
 after sep 30 click first semester
