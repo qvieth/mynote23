@@ -1,9 +1,20 @@
 ## what to do next day
+- Autonomy - feel a sense of choice => their actions are volitional (Deci & Ryan, 2008).
+  - Deci and Ryan distinguish between autonomy and independence whereby individuals act volitionally with a sense of choice,
+  - whereas those who are independent prefer to work alone.
+  - Autonomous individuals can choose to work alone
+  - or can rely on others yet still gain a sense of intrinsic motivation from engaging in tasks
+- children who found their teachers to be cold and uncaring were less intrinsically motivated because the teachers did not fulfill their needs of relatedness
+  
+- https://thesisguide.org/2015/03/04/how-to-draft-your-presentation/ how to draft your presentation
+- https://www.skillsyouneed.com/present/writing-your-presentation.html writing your presentation
+[probability](probability)
 ds
 [draft](draft)
+[leadership](leadership)
 - [stevejob 2005 standford](https://news.stanford.edu/news/2005/june15/jobs-061505.html)
 ```stevejob-2005standford
-s
+
 
 Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make the big choices in life.
 Because almost everything — all external expectations, all pride, all fear of embarrassment or failure — these things just fall away in the face of death, leaving only what is truly important.
