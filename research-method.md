@@ -110,3 +110,14 @@ WHAT WE CAN SOLVE:
 
 [gendered communication](gendered-communication)
 [literature review](literature-review)
+
+Before 1920, women could not vote, attend college, or pursue training for most professions
+Gender stereotype or sexism is one of the issues that are controversial and consistently appears across cultures(Williams & Best, 1990)
+Although attitudes of people in our current time are much more advanced than those of the past, the scurf of yesterday's prejudice remains
+There is still unequal power distribution between men and women among organizational hierarchies
+Many top positions of companies are still filled with men
+
+Among the skills used in the workplace to determine whether one advances or not in their career position, communication is considered the single most important
+Ultimately, there is a close relationship found between culture, gender, and communication (T Wood & Oraiz, 2018)
+Therefore, by using the defined styles of gendered communication from the previous research
+We step further to investigate whether and what communication traits lead to the unequal distribution of power among the two genders

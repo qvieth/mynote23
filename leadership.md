@@ -113,3 +113,7 @@ next week pls be attentive,
 ## challenge the boss or standdown
 
 tom frank
+
+- 48 laws of power: commit harmless mistake and **ask for Frank help**,
+  - if your ideas are more creative, ascribe them to him, make it clear that your advice is merely an echo of his advice
+  - tone down your humor

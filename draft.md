@@ -181,5 +181,4 @@ every individual (e.g., Bindman, et al. 2015; Di Domenico et al., 2013). If basi
 there is alternatively fragmentation and defense rather than integration
 internalization or integration: assimilate social norms and regulations
 
-
 growth and defense

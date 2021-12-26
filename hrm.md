@@ -24,3 +24,7 @@ management process - 5 functions:
 - For example
   - manager who have attention to detail should create special treatment for woman who is pregnant like they should be prioritized in parking lot or elevator.  
   - facilitate consolidarity or have warning towards employee who discriminate or uncooperate with other employee of LGBTQ or minorities groups.
+ 
+1. self report inflated the associations among the study variables -> field study
+2. cross-sectional design -> longitudinal
+3. homogeneous sample of Chinese medical professionals. These professionals worked at only 4 different hospitals, same medium size city in china -> the correlation might be strongly affected by the cultural and working environment of these company, also the nature of the job position nurse and physician
