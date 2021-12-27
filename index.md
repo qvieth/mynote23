@@ -1,4 +1,15 @@
 ## what to do next day
+[hrm](hrm)
+- 544 nurse - 538 female
+- https://www.mindtools.com/pages/article/job-demands-resources-model.htm : mind tools JDR
+- JDR model states that even if you work in a demanding role, you can experience less stress if your organization provides resources to support you.
+  -  use JDR to analyze and improve your team's well-being and engagement.
+  - to replace existing models of employee well-being: these only addressed a limited number of variables, and did not apply to all people or sectors
+  - job demands: emotion stress factors
+  - job resources: physical, emotional factors that reduce stress or help you to achive goal
+  - The JD-R Model states that when job demands are high and job positives are low, stress and burnout are common
+  - Conversely, good job positives can offset the effects of extreme job demands, and encourage motivation and engagement.
+  - step to apply jdr: **identify** demands/resources => promote/reduce them
 - https://www.youtube.com/watch?v=VRJzvJ5XPQI
     - talk in cadence(and pause) => they have temporal control over this and they are not in hurry
     - confidence is about being comfortable but controlled
