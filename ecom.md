@@ -15,7 +15,7 @@ restructure the business plan:(we can also use this structure for the presentati
   6. What do you need to get started?
   7. Appendix:
 
-new structure for the business plan, i think it is easier to read and more logical, also each part i have suggestion what to add(the box untick is the suggestion, for example the competitive advantage part we should use SWOT or porter five factor to analyze the situation)
+new structure for the business plan, i think it is easier to read and more logical, also each part i have suggestion what to add(the box untick is the suggestion, for example the competitive advantage part we should use SWOT or porter five factor to analyze the situation), also there is still a lot of things need ading using this new structure, read the checklist of each part to see what to add
 
 so we will still keep the ideas which has been already written, we will just to reposition them to the new structure for example
 
