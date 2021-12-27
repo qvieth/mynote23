@@ -32,7 +32,9 @@ also each part in the new structure have a checklist question so we need to make
 
 # business plan:
 
-## 6 Critical Questions Your Business Plan Must Answer https://www.entrepreneur.com/article/242596 <- the structure taken from here
+## 6 Critical Questions Your Business Plan Must Answer
+
+https://www.entrepreneur.com/article/242596 <- the structure taken from here
 
 ### 1. What need are you addressing?
 
