@@ -1,25 +1,28 @@
 ## what to do next day
-[hrm](hrm)
-- 544 nurse - 538 female
-- https://www.mindtools.com/pages/article/job-demands-resources-model.htm : mind tools JDR
-- JDR model states that even if you work in a demanding role, you can experience less stress if your organization provides resources to support you.
-  -  use JDR to analyze and improve your team's well-being and engagement.
-  - to replace existing models of employee well-being: these only addressed a limited number of variables, and did not apply to all people or sectors
-  - job demands: emotion stress factors
-  - job resources: physical, emotional factors that reduce stress or help you to achive goal
-  - The JD-R Model states that when job demands are high and job positives are low, stress and burnout are common
-  - Conversely, good job positives can offset the effects of extreme job demands, and encourage motivation and engagement.
-  - step to apply jdr: **identify** demands/resources => promote/reduce them
+
+- my current goal: to be fanancially stable
+
+- [read people eyes](https://www.scienceofpeople.com/read-people-eyes/)
+- [wiki managing up and managing down](https://en.wikipedia.org/wiki/Managing_up_and_managing_down)
+- detail and big picture
+- [business case](business-case)
+- [leadership](leadership)
+- case study research <- read books about these things
+
+- [draft](draft)
+- crisis bring you what truly important
 - https://www.youtube.com/watch?v=VRJzvJ5XPQI
-    - talk in cadence(and pause) => they have temporal control over this and they are not in hurry
-    - confidence is about being comfortable but controlled
-    - convey not convice(say it once)
-    - the person in charge controls time” no need to speed up for anyone or anything
-    - do not hesitate, be smooth(naturally need practice)
-    - **Having knowledge of whatever subject you're talking about or being asked about will automatically give you confidence.**
-      - (This goes with physical activity too like sports )
+  - talk in cadence(and pause) => they have temporal control over this and they are not in hurry
+  - confidence is about being comfortable but controlled
+  - convey not convice(say it once)
+  - the person in charge controls time” no need to speed up for anyone or anything
+  - do not hesitate, be smooth(naturally need practice)
+  - **Having knowledge of whatever subject you're talking about or being asked about will automatically give you confidence.**
+    - (This goes with physical activity too like sports )
 - walk in to a room, pause, raise your eyebrows, scan the room, smile while talking
+- fear -> fronzen -> must act
 - [how to handle question in presentation](https://www.youtube.com/watch?v=b4kLTqbxVUU)
+
   - direct question:
     - binary
     - multiple choice(which)
@@ -28,28 +31,27 @@
     - essay
   - two-part question:
   - **IMPORTANT: direct question require direct answer**
+
+- autonomous, controlled motivation and amotivation
+- basic needs theory: social contexts that fail to support and/or actively thwart these basic psychological needs **tend to promote** **controlled motivation** or **amotivation**, which in turn yields poorer performance and ill-being.
 - Autonomy - feel a sense of choice => their actions are volitional (Deci & Ryan, 2008).
   - Deci and Ryan distinguish between autonomy and independence whereby individuals act volitionally with a sense of choice,
   - whereas those who are independent prefer to work alone.
   - Autonomous individuals can choose to work alone
   - or can rely on others yet still gain a sense of intrinsic motivation from engaging in tasks
 - children who found their teachers to be cold and uncaring were less intrinsically motivated because the teachers did not fulfill their needs of relatedness
-  
 - https://thesisguide.org/2015/03/04/how-to-draft-your-presentation/ how to draft your presentation
 - https://www.skillsyouneed.com/present/writing-your-presentation.html writing your presentation
-[probability](probability)
-ds
-[draft](draft)
-[leadership](leadership)
+- [probability](probability)
 - [stevejob 2005 standford](https://news.stanford.edu/news/2005/june15/jobs-061505.html)
+
 ```stevejob-2005standford
-
-
 Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make the big choices in life.
 Because almost everything — all external expectations, all pride, all fear of embarrassment or failure — these things just fall away in the face of death, leaving only what is truly important.
 Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose.
 You are already naked. There is no reason not to follow your heart.
 ```
+
 - quickly look into stranger eyes (not too far away) and ask: what eyes color, what are they looking at, what is their mood? other?
 - Remember, the person who holds the gaze longer shows power
 - DECEMBER 10 handin second RM project
@@ -65,15 +67,13 @@ You are already naked. There is no reason not to follow your heart.
     - go into the textbook and see what relevant or helpful
     - solution by experts
   - group 1: potential good study friends
-    - Helen (07270036) 
-    - Jessica (07270072) 
+    - Helen (07270036)
+    - Jessica (07270072)
     - Katherine (07270134)
 - asking am i better than yesterday is ok, but better question: how to better than yesterday?
   - i read books a lot today but didn't feel any better than myself of yesterday,
   - -> accumulative knowledge is better than lateral knowledge
 - philosophy (armchair thinking) - words, logic, debates vs science(experimental thinking) - observation
-- 謝謝你我是很好
-- 
 - https://www.youtube.com/watch?v=5Ip4VjlD7Ew - chinese:
   - recognize character is a more important skill - many chinese don't even know how to write
   - reading + typing
@@ -83,9 +83,8 @@ You are already naked. There is no reason not to follow your heart.
 - When we're nervous, we're paying more attention to ourselves than to the other person
 - [test](test)
 
-
-
 - **WHEN THAT URGE COMES, READ THIS:**
+
   - life skills to build confidence:
     - **mindfulness** and **self-control** not engouh, must add **preventing depression**
       - learn writting
@@ -99,7 +98,7 @@ You are already naked. There is no reason not to follow your heart.
 
 - [ ] [leadership](leadership): take home exam, presentation
 - [ ] ecom : 11/10 midterm
-- [X] hr done
+- [x] hr done
 - [ ] research method : project 2 on progress
 
 - [psychology](psychology)
@@ -108,6 +107,7 @@ You are already naked. There is no reason not to follow your heart.
 - mail example :
   - https://wiu.libguides.com/c.php?g=394881&p=2683271
   - https://www.perkinselearning.org/technology/blog/ten-form-emails-send-your-professors
+
 * add to the writing framework: how to think: list out ideas -> [text structure](https://dpi.wi.gov/sites/default/files/imce/ela/images/Text%20Structures.pdf) -> add transtion
   1. narrative
   2. **description**: features(functions), characteristics(variables), examples(instances)
@@ -116,6 +116,7 @@ You are already naked. There is no reason not to follow your heart.
   5. **problem solution**: give one problem and one or more solutions
   6. **compare and contrast**: compare - how things are **similar** || contrast - how things are different
 * [introduction to text structures](https://www.youtube.com/watch?v=-_yfqT35sHs)
+
 - Periodic vs. Loose Sentences: What Are the Differences?
   - Both feature independent clauses and dependent clauses
   - The periodic sentence places the main clause at the end of the sentence and the dependent clause at the beginning.
@@ -133,49 +134,53 @@ You are already naked. There is no reason not to follow your heart.
 - conjunction: coordinating conjunctions(FANBOYS) and subordinating conjunctions.
 - transition connect ideas : they can be words, phrases, or sentences.
 - https://writing.wisc.edu/handbook/style/transitions/
-  * think of ideas first then think of transition words later to connect 
+  - think of ideas first then think of transition words later to connect
 - mail professor midterm
 - orgranzie [mcu](mcu)
-[draft](draft)
+  [draft](draft)
 
 Put first things first - clean the quadrant I. When done, focus on quadrant II
 
-|            | URGENT                      | !URGENT                             |
-|------------|-----------------------------|-------------------------------------|
-| IMPORTANT  | QUADRANT I - Activities     | QUADRANT II - Activities            |
-|            | * crises                    | * relationship building             |
-|            | * pressing problems         | * recognizing new opportunities     |
-|            | * deadline-driven projects  | * planning                          |
-|------------|-----------------------------|-------------------------------------|
-| !IMPORTANT | QUADRANT III - Activities   | QUADRANT IV - Activities            |
-|            | * interruptions             | * trivial busywork                  |
-|            | * some calls, meetings      | * time wasters                      |
-|            | * popular activities        | * pleasant activities               |
+|              | URGENT                        | !URGENT                               |
+| ------------ | ----------------------------- | ------------------------------------- |
+| IMPORTANT    | QUADRANT I - Activities       | QUADRANT II - Activities              |
+|              | \* crises                     | \* relationship building              |
+|              | \* pressing problems          | \* recognizing new opportunities      |
+|              | \* deadline-driven projects   | \* planning                           |
+| ------------ | ----------------------------- | ------------------------------------- |
+| !IMPORTANT   | QUADRANT III - Activities     | QUADRANT IV - Activities              |
+|              | \* interruptions              | \* trivial busywork                   |
+|              | \* some calls, meetings       | \* time wasters                       |
+|              | \* popular activities         | \* pleasant activities                |
 
-+ PARETO PRINCIPLE 80/20
+- PARETO PRINCIPLE 80/20
 
 * This study examined the relationship between proactive personality and career success by surveying a sample of 496 employees (320 men and 176 women) from a diverse set of occupations and organizations. **Proactive personality was positively associated with both self-reported objective (salary and promotions) and subjective (career satisfaction) indicators of career success**. Hierarchical regression analyses showed that proactive personality explained additional variance in both objective and subjective career success even after controlling for several relevant variables (demographic, human capital, motivational, organizational, and industry) that have previously been found to be predictive of career outcomes. These findings were consistent using both self-report and significant-other ratings of proactive personality. (PsycINFO Database Record (c) 2016 APA, all rights reserved)
-advancement in posistion : ask them a chan dung 1 leader, ceo ban nguong mo, so sanh your boss with that
+  advancement in posistion : ask them a chan dung 1 leader, ceo ban nguong mo, so sanh your boss with that
+
 - ask professor for recommendation letter
 
 ## grammar
+
 [What is another word for in other words?](https://www.wordhippo.com/what-is/another-word-for/in_other_words.html)
-* don't write outline, write outline question.
+
+- don't write outline, write outline question.
   - think of how you answer 3 case study question in ECOM class so quickly
 
-- Actually, theories are very practical. They help us understand, explain, and predict what happens in our real lives and in the world around us. understand why the what becomes easier to understand
-- **courage** is not to feel no doubt or fear, but to act in spite of them
-- [how to never run out of things to say](https://www.youtube.com/watch?v=oxOih6GwSXI)
+* Actually, theories are very practical. They help us understand, explain, and predict what happens in our real lives and in the world around us. understand why the what becomes easier to understand
+* **courage** is not to feel no doubt or fear, but to act in spite of them
+* [how to never run out of things to say](https://www.youtube.com/watch?v=oxOih6GwSXI)
+
   - purpose driven: must have a purpose, the purpose must be right
   - structure of a story: situation -> interruption -> change
   - specific -> show don't tell
   - don't be a clown, dancing monkey
 
-- Given below are a list of common transition words and phrases, categorized according to their function.
-- argument -> why, which best, comparing and contrasting, question and answer
-- [test](test)
+* Given below are a list of common transition words and phrases, categorized according to their function.
+* argument -> why, which best, comparing and contrasting, question and answer
+* [test](test)
 
-
+```
 | Adding Information | Opposition        | Emphasis/Examples | Comparison        | Consequences | Conclusion    |
 | ------------------ | ----------------- | ----------------- | ----------------- | ------------ | ------------- |
 | In addition        | On the contrary   | In fact           | Similarly         | As a result  | After all     |
@@ -183,6 +188,7 @@ advancement in posistion : ask them a chan dung 1 leader, ceo ban nguong mo, so 
 | Furthermore        | Regardless        | Specially         | In like manner    | Therefore    | In summary    |
 | Additionally       | On the other hand | In particular     | Equally important | Hence        | On the whole  |
 | Also               | Nevertheless      | For instance      | Despite that      | Consequently | Overall       |
+```
 
 - transition words and phrases, categorized according to their function.
 
@@ -249,19 +255,6 @@ know or don't know -> don't know: ask more question gain more information
 - [ ] tuition fees
 - [ ] [blog](blog)
 
-- checklist
-  - [X] sua tam + ban chai danh rang + **chi nha khoa**
-  - [X] perspirex
-  - [ ] 2 kinh can
-  - [ ] hop but + so
-  - [X] vali
-  - [X] quan ao + ao lanh
-  - [X] thuoc
-  - [X] balo
-  - [X] sua rua mat serum
-  - [X] giay dep + tat
-  - [ ] laptop + sac pin
-
 ## fleeting notes
 
 - https://online.uwa.edu/news/emotional-psychology/
@@ -305,12 +298,14 @@ know or don't know -> don't know: ask more question gain more information
 - [Different models of basic emotions proposed by theorists.](https://www.researchgate.net/figure/Different-models-of-basic-emotions-proposed-by-theo-rists_tbl1_325642734)
 
 ### atomic habits : automatic actions
+
 - https://www.youtube.com/watch?v=PZ7lDrwYdZc
 - tiny changes leads to complete differnt destination : think of plane fly
 - systems over goals
 - habit loops : cue -> craving -> response -> reward
-     - the purpose of setting goals is to win the game. the purpose of building systems is to continue playing the game.
-          > the ultimate form of intrinsic motivation is when a habit becomes part of our identity
+
+  - the purpose of setting goals is to win the game. the purpose of building systems is to continue playing the game.
+    > the ultimate form of intrinsic motivation is when a habit becomes part of our identity
 
 - when we solve problems in term of outcomes or result, we only solve them temporarily, but the chagne the system in a longer term, as a system level, we need to change our identity
 - how to build habit:

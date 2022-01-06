@@ -103,6 +103,8 @@ Patrick Awuah: How to Educate Leaders? (video)
 
 ## Tue Oct 26
 
+be succinct, clear, concise
+
 next week is the week before midterm
 midterm exam will be take home exam
 next week prof will give the question as the take home exam
@@ -112,8 +114,22 @@ next week pls be attentive,
 
 ## challenge the boss or standdown
 
-tom frank
+frank: "You’re thinking like a lone-gun account executive when you should be focusing on regional strategy development, teamwork, and clear communication up and down the chain of command"
 
-- 48 laws of power: commit harmless mistake and **ask for Frank help**,
-  - if your ideas are more creative, ascribe them to him, make it clear that your advice is merely an echo of his advice
-  - tone down your humor
+https://www.youtube.com/watch?v=oeqPrUmVz-o
+[business case](business-case)
+
+now i will share our findings on these problems which Tom is facing
+
+After considering we came to the solution that Tom should negotiate with Shannon for another position in the company
+tom seems very good at a saleman but since he's promoted it's been a bit of challenge for him
+
+tom has a lot of good ideas,
+it's was like frank was out to get him
+
+decision criteria:
+
+- tom is creative and talent, he has the need to be autonomous
+- tom is knowledgeable about kisoks business -> has the position to negotiate with Shannon/ leaving the compny would be a loss for both company and Tom himself
+-
+- shannon warrant tom from the beginning

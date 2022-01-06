@@ -1,4 +1,9 @@
 # ecom | 91354 | 99524 | Dr. Lynne Lee | d2:5,6,7 |
+- business model: now we use business model canvas to look at high level on how our business operate
+- subscription based service -> deliver the organic product to customer house every week -> the fresh, cheapest and convient
+- customer segment: young to middle age, they have access to the internet, high to middle income, they care about the environment -> they a littele high tech, value convient and environment
+
+
 
 restructure the business plan:(we can also use this structure for the presentation)
 
