@@ -1,0 +1,12 @@
+
+- [Culinary Classroom Lesson 4: Cooking Methods](https://www.youtube.com/watch?v=_QuU6rs-n5Q)
+  - saute
+  - boil
+    - boiling
+    - rolling boiling
+    - simmer : hot water with steamer(not buble)
+    - poach
+- [COOKING BASICS | The FIRST thing you need to learn - different knife methods](https://www.youtube.com/watch?v=yOgQIEywEWg)
+  - slice
+  - dice
+  - chop

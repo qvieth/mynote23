@@ -1,4 +1,13 @@
 ## what to do next day
+- lost book calibre: BOOK ABOUT WHEEL OF SCIENCE
+[cooking](cooking)
+- resurrect QVIETH BLOG
+- [fast fashion](https://en.wikipedia.org/wiki/Fast_fashion#Supply_chain)
+  - 2 types of supply chains:
+    - agile
+    - lean
+- restaurant conversation: https://www.youtube.com/watch?v=SIEC4vUvrP0
+- pinyin : https://www.youtube.com/watch?v=9XbQJPF817I
 
 - my current goal: to be fanancially stable
 
