@@ -1,6 +1,30 @@
 ## what to do next day
+
+```
+PRONUNCIATION -> VOCAB -> GRAMMAR
+```
+- do not let your face gaunt -> google
+- people bet more money on games of chance when their opponents seem incompetent than competent
+- [chinese word stress](https://www.youtube.com/watch?v=6DxaWw9RudQ)
+- [grace madarin](https://www.youtube.com/watch?v=dpQ3IMd4AMg)
+  - prononciation:
+    - zh ch, sh r : tongue farther front teeth
+    - z c s: near front teeth
+- elon musk:
+  - micro-scheduling method
+  - take risk, do something bold, you won't regret it
+- 4 component of good cooking: salt, fat, acid and heat
+  - flavor lies at the intersection of **taste aroma and sensory elements** (sound, appearance, temperature)
+  * osmosis & diffusion
+  * fat are slow to cool or heat -> add more room temperature oil to cool down, don't have to relex fast
+  * use all of your sense to check for doness
+  * think about salt, fat, acid, and heat everytime you set out to cook
+    - choose the right type of heat for particular foods you're cooking
+    - taste and adjust salt, fat, and acid as you go
+- [Become Unconquerable | Stoic Philosophy](https://www.youtube.com/watch?v=teqOInIwoUI)
+  - do not let this one thing be conquered: ability to choose
 - lost book calibre: BOOK ABOUT WHEEL OF SCIENCE
-[cooking](cooking)
+  [cooking](cooking)
 - resurrect QVIETH BLOG
 - [fast fashion](https://en.wikipedia.org/wiki/Fast_fashion#Supply_chain)
   - 2 types of supply chains:
