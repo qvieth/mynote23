@@ -1,15 +1,31 @@
 ## what to do next day
-
+- social comparison theory
+  - we try to compare ourselves to those in our peer group or with whom we are similar
+- why i keep sleeping in the morning:
+  - don't know WHY i should get out of bed -> the night before: plan the next morning
+- the problem with me is that i forget things
+  - before i do anything, ask why i shouldn't
+- 5 principles:
+  1. kanban board
+  2. time blocking
+  3. urgent important matrix
+  4. DRY
+  5. single tasking
+- app like tinder that match people on what they likes, interest, passsion
+  - type anything that show who you are and this app will analyze the word and match you
 ```
 PRONUNCIATION -> VOCAB -> GRAMMAR
 ```
+- [money: humanity's biggest illusion](https://www.youtube.com/watch?v=MFO6OtnmEDo)
 - do not let your face gaunt -> google
 - people bet more money on games of chance when their opponents seem incompetent than competent
 - [chinese word stress](https://www.youtube.com/watch?v=6DxaWw9RudQ)
-- [grace madarin](https://www.youtube.com/watch?v=dpQ3IMd4AMg)
-  - prononciation:
-    - zh ch, sh r : tongue farther front teeth
-    - z c s: near front teeth
+- [grace madarin - prononciation playlist](https://www.youtube.com/playlist?list=PLwFUKjRMEUxw2IRsDA8GZGW1AZdgCoiAA)
+    - zh ch, sh r(cong luoi) : near top front teeth block the air then let it out, ch exactly same as zh just exhale more strongly
+    - z c s(khong cong luoi): middle of upper teeth and lower teeth
+  - [grace madarin - Pronunciation](https://www.youtube.com/watch?v=05BMKdxHjp8)
+    - “j q x”: top tongue to lower teeth, middle tongue to top, q exactly same as j just exahle stronger
+    - and “zh ch sh”: near top front teeth
 - elon musk:
   - micro-scheduling method
   - take risk, do something bold, you won't regret it
