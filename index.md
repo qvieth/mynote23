@@ -1,5 +1,6 @@
 ## what to do next day
 
+- if i'm exhausted, then the other human must be exhausted, if you feel angry, the guy who later replace you he will must exhausted -> the current situation is something wrong
 - berry, breadcummb, cheese -> put at first
 - paste a note at the in the freezer, ex: 1 potato = shrimp 
 - recipe -> should be documented so anyone could read, shouldn't be write on the go
