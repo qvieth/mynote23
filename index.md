@@ -5,6 +5,7 @@
 - recipe -> should be documented so anyone could read, shouldn't be write on the go
 - smaller toilet cleaner
 - you should try to sit at the customer seat and feel
+- learn the menu
 
 - paste something on the top of the freezer
 - [international trade practices](international-trade-practices)
