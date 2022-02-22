@@ -7,8 +7,19 @@
 - smaller toilet cleaner
 - you should try to sit at the customer seat and feel
 - learn the menu
-
 - paste something on the top of the freezer
+
+Class      Course          Course 	                                R/E      	 Classroom 	 	Day 	Start End
+91302	　   99211　         International Trade Practices (E) 	      Required	 H404 	      2	    06	  08
+91353	　   99228　         International Financial Management (E) 	Elective	 D301 	      3	    02	  04
+91357	　   99243　         International Asset Management (E) 	    Elective	 H604 	      3	    05	  07
+91257	　   91137　         Industrial Psychology (E) 	              Elective	 D301 	      4	    02	  04
+91157	　   99760　         Basic Mandarin II (E) 	                  Required	 D103 	      4	    08	  09
+91302	　   00997　         Class Meeting 	                          Required	 B303 	      4	    20	  20
+91157	　   99760　         Basic Mandarin II (E) 	                  Required	 D103 	      4	    40	  40
+91302	　   00999　         Weekly Meeting 	                        Required	  		        5	    05	  05
+91302	　   99236　         Operations Management (E) 	              Required	 B301 	      5	    06	  08
+ 
 - [international trade practices](international-trade-practices)
 - discipline
 - don ra o 1 minh
