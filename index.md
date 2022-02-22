@@ -1,4 +1,20 @@
 ## what to do next day
+
+- berry, breadcummb, cheese -> put at first
+- paste a note at the in the freezer, ex: 1 potato = shrimp 
+- recipe -> should be documented so anyone could read, shouldn't be write on the go
+- smaller toilet cleaner
+- you should try to sit at the customer seat and feel
+
+- paste something on the top of the freezer
+- [international trade practices](international-trade-practices)
+- discipline
+- don ra o 1 minh
+- To achieve a simmer, first bring water to the boiling point and then lower the temperature.
+- make pan hot(pan had pore structure, the pore get larger and grip the food more) then add oil -> oil start to shimmer or ripple -> add food
+- Food sticks to the pan less if you add the oil to a hot pan
+- should you wash meat before cooking or freezing
+- food safety
 - social comparison theory
   - we try to compare ourselves to those in our peer group or with whom we are similar
 - why i keep sleeping in the morning:
