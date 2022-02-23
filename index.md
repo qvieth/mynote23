@@ -10,17 +10,6 @@
 - learn the menu
 - paste something on the top of the freezer
 
-|   |   |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|---|
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
 - discipline
 - don ra o 1 minh
 - To achieve a simmer, first bring water to the boiling point and then lower the temperature.
