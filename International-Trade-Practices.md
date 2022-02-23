@@ -11,8 +11,6 @@ a multinational company will assign a **buy mission** to visit the country to un
 
 in order to attract this buy mission to buy the comparative advantage goods/products and invest in the (country), your team will do a project report and represent the (country) to make the presentation in front of the **buy mission**
 
-
-
 many characteristics of international trade
 
 1. a
@@ -25,4 +23,3 @@ many characteristics of international trade
 8. higher difficulty in market and credit investigation
 9. more complicated i nthe procedure of cargo transportation
 10. higher risks
-
