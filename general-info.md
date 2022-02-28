@@ -7,11 +7,11 @@
   - 25 fashion and innovation management program,
   - 27 Journalism and mass communications program
 - drop box oritentation pdf
-  how to double major
-  attendance results recorded on moodle
-  enter freshman registration information : parents, home address, photos,.. **before oct 10** -> for id card making
-  contact your program Secretary if you have any question
-  through the about us you will find professor as well as serectary email, you can then emaile them
+  - how to double major
+  - attendance results recorded on moodle
+  - enter freshman registration information : parents, home address, photos,.. **before oct 10** -> for id card making
+  - contact your program Secretary if you have any question
+  - through the about us you will find professor as well as serectary email, you can then emaile them
 - [ftu ibt orientation](https://drive.google.com/file/d/1ydJmKatHPk4rCD1MP65nUtRx41eWA6jP/view)
 
 1. regular semester -> dang ky mon
@@ -62,21 +62,21 @@ https://web.mcu.edu.tw/en
   - sep 30 system close
 - don't choose 2 course at the same time / the same course twice
 
-focus course program
-after sep 30 click first semester
+- focus course program
+- after sep 30 click first semester
 
-moodle system
-download professor's teaching materials (PPT or handouts) <- when prof said students download my handout
-upload your homeword
-online quiz
-online discussion
+- moodle system
+- download professor's teaching materials (PPT or handouts) <- when prof said students download my handout
+- upload your homeword
+- online quiz
+- online discussion
 
-team online classroom
-contact your Departmental Secretary for information about course seletion
-IBT secretary -> Nicky Chen
-con
-registration -> 1st tab for uploading photo
-25 credit (require and selective) is the max number in a sem
-20 is comfortable
-early graduation : certain requirements : -> ask secretary
-sep 17 1:30pm
+- team online classroom
+- contact your Departmental Secretary for information about course seletion
+- IBT secretary -> Nicky Chen
+- con
+- registration -> 1st tab for uploading photo
+- 25 credit (require and selective) is the max number in a sem
+- 20 is comfortable
+- early graduation : certain requirements : -> ask secretary
+- sep 17 1:30pm
