@@ -1,4 +1,6 @@
 ## what to do next day
+- add event to google calendar
+- sim card -> bank account -> scholarship -> quarantine
 - [mcu](mcu)
 
 - if i'm exhausted, then the other human must be exhausted, if you feel angry, the guy who later replace you he will must exhausted -> the current situation is something wrong

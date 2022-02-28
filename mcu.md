@@ -1,8 +1,10 @@
 # mcu
 
+- IMPORTANT: add midterm&final exam date to calendar
+
 - jason - 08913935 - IBT team : 08913935@ms1.mcu.edu.tw
 - course info & syllabus & student system https://web.mcu.edu.tw/en -> student system -> quicklink -> moodle
--
+
 
 - [junior sem1](junior-sem1)
 - [junior sem2](junior-sem2)
