@@ -100,11 +100,13 @@ a multinational company will assign a **buy mission** to visit the "country" to 
 in order to attract this **buy mission** to buy the comparative advantage goods/products and invest in the (country), your team will do a project report and represent the (country) to make the presentation in front of the **buy mission**
 
 the main contents for the presentataion
-the itnernational busiess and trade envrionemnt of the ocuntry
-1 overall information
-macroeconomic
-internaitonal trade: the majortarding partners, exports and import in major products and markets, index of openness, trade barriers, etc..
-the comparative advantage goods/ over the other cuntryies
-international logisticss infrastructure
-analysis/methods of entry into the market: FTZ, FTA,etc
-bilateral investment and trade relation between taiwan and the country
+- the itnernational busiess and trade envrionemnt of the ocuntry
+1. overall information
+2. macroeconomic
+3. internaitonal trade: the majortarding partners, exports and import in major products and markets, index of openness, trade barriers, etc..
+4. the comparative advantage goods/ over the other cuntryies
+5. international logisticss infrastructure
+6. analysis/methods of entry into the market: FTZ, FTA,etc
+7. bilateral investment and trade relation between taiwan and the country
+more...
+ask for photos/ or ppt
