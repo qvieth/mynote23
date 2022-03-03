@@ -55,3 +55,16 @@
 - IV - DV
 - gender - job rank
 - men - promotion
+
+## week2
+
+- look at one pair of variable -> univariate
+- multivariate
+
+| IV | DV | How to summarize the relationship | which statistical test can you use to make sure differences are statistically significant |
+| | | | |
+| ------------- | ------------- | ----------------------------------- | ------------------------------------------------------------------------------------------- |
+| Categorical | Categorical | compare frequencies | s |
+| Categorical | Numerical | compare means | |
+| Numerical | Categorical | look at probability | |
+| Numerical | Numerical | look at correlation | |
