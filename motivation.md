@@ -1,0 +1,8 @@
+- autonomous, controlled motivation and amotivation
+- basic needs theory: social contexts that fail to support and/or actively thwart these basic psychological needs **tend to promote** **controlled motivation** or **amotivation**, which in turn yields poorer performance and ill-being.
+- Autonomy - feel a sense of choice => their actions are volitional (Deci & Ryan, 2008).
+  - Deci and Ryan distinguish between autonomy and independence whereby individuals act volitionally with a sense of choice,
+  - whereas those who are independent prefer to work alone.
+  - Autonomous individuals can choose to work alone
+  - or can rely on others yet still gain a sense of intrinsic motivation from engaging in tasks
+- children who found their teachers to be cold and uncaring were less intrinsically motivated because the teachers did not fulfill their needs of relatedness

@@ -15,3 +15,6 @@ PRONUNCIATION -> VOCAB -> GRAMMAR
 
 - restaurant conversation: https://www.youtube.com/watch?v=SIEC4vUvrP0
 - pinyin : https://www.youtube.com/watch?v=9XbQJPF817I
+
+- chinese for dummies
+  - https://dummies-wp-content.dummies.com/book-extras/chinese-for-dummies-3rd-edition-resource-center/

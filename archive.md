@@ -1,11 +1,27 @@
 # [myarchive](https://qvieth.github.io/mynote/)
-11001-27351領導與統馭（英）
-11001-91251行為經濟學（英）
-11001-91301班會
-11001-91301研究方法（英）
-11001-91352服務業經營管理（英）
-11001-91355電子商務（英）
 ---
+- why i keep sleeping in the morning:
+  - don't know WHY i should get out of bed -> the night before: plan the next morning
+- the problem with me is that i forget things
+  - before i do anything, ask why i shouldn't
+- [money: humanity's biggest illusion](https://www.youtube.com/watch?v=MFO6OtnmEDo)
+- do not let your face gaunt -> google
+- people bet more money on games of chance when their opponents seem incompetent than competent
+- lost book calibre: BOOK ABOUT WHEEL OF SCIENCE
+- resurrect QVIETH BLOG
+- [fast fashion](https://en.wikipedia.org/wiki/Fast_fashion#Supply_chain)
+  - 2 types of supply chains:
+    - agile
+    - lean
+
+- [wiki managing up and managing down](https://en.wikipedia.org/wiki/Managing_up_and_managing_down)
+- [business case](business-case)
+- quickly look into stranger eyes (not too far away) and ask: what eyes color, what are they looking at, what is their mood? other?
+- Remember, the person who holds the gaze longer shows power
+- if you ask for favor, always ask for color of the inquiree
+- philosophy (armchair thinking) - words, logic, debates vs science(experimental thinking) - observation
+- [fireship - 7 Cryptography Concepts EVERY Developer Should Know](https://www.youtube.com/watch?v=NuyzuNBFWxQ)
+
 # Essay Questions
 
 **A. Learning to be aware of yourself isn’t always easy, but practicing this skill can help you become a true leader. (70%)**

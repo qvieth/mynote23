@@ -79,7 +79,6 @@ Accept bad writing as a way of priming the pump, a warm-up exercise that allows 
 
 * Given below are a list of common transition words and phrases, categorized according to their function.
 * argument -> why, which best, comparing and contrasting, question and answer
-* [test](test)
 
 ```
 | Adding Information | Opposition        | Emphasis/Examples | Comparison        | Consequences | Conclusion    |

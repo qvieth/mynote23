@@ -1,21 +1,26 @@
 ## what to do next day
 
-- [portal](portal)
+- [mcu](mcu)
+- [portal2](portal2)
 
 ## fleeting notes
 
+- learning chinese by radical is not an effective method
+  - -> learn radical by naturally facing them when learning vocabulary
 - [ ] hoi ban xem ai co Joe lam advisor k
 - [ ] add event to google calendar
 - [ ] sim card -> bank account -> scholarship -> quarantine
 
 ## fleeting notes
 
+- https://www.mdbg.net/chinese/dictionary?page=radicals
+
 ## principles
 
 - snapshot system(chronological-based) vs categorize system(relevant-based) : i'm testing the new way to organize knowledge
 
 1. ask what to learn and can it be practiced daily
-2. book review: write subjective reations, not objective truths
+2. book review: write subjective reactions, not objective truths
 3. name it to tame it
    - constantly ask: what is this emotion -> what tone of voice? -> what facial expression?
    - emotion tells us what to pay attention to

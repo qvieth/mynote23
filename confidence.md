@@ -1,4 +1,4 @@
-# confindence
+# confidence
 
 - [presentation](presentation)
 
@@ -23,3 +23,11 @@
     - essay
   - two-part question:
   - **IMPORTANT: direct question require direct answer**
+- https://thesisguide.org/2015/03/04/how-to-draft-your-presentation/ how to draft your presentation
+- https://www.skillsyouneed.com/present/writing-your-presentation.html writing your presentation
+- When we're nervous, we're paying more attention to ourselves than to the other person
+- life skills to build [confidence](confidence):
+  - **mindfulness** and **self-control** not engouh, must add **preventing depression**
+    - learn writting
+    - Learn how to apply for a job and prepare well for interviews
+    - Financial capability – learning to budget and if possible, save
