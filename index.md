@@ -4,7 +4,11 @@
 - [portal2](portal2)
 
 ## fleeting notes
-
+- continue practice pinyin
+- internship suggestion from pamela
+  - hpe
+  - dell **summer** intern
+- argument - assumpt
 - learning chinese by radical is not an effective method
   - -> learn radical by naturally facing them when learning vocabulary
 - [ ] hoi ban xem ai co Joe lam advisor k

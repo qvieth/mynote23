@@ -8,8 +8,7 @@
 - [junior sem1](junior-sem1)
 - [junior sem2](junior-sem2)
 
-- [schedule](https://www.mcu.edu.tw/student/enew-query/sel-5.html)
-- https://www.mcu.edu.tw/student/enew-query/sel-query/ESecTime.htm
+- [class timetable](https://www.mcu.edu.tw/student/enew-query/sel-query/ESecTime.htm)
 - [general info](general-info)
 
 ## todo
