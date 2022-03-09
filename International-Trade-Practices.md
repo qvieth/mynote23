@@ -58,6 +58,7 @@ many characteristics of international trade
 - export trading company(ETC) https://www.investopedia.com/terms/e/export-trading-company-etc.asp
 
 #### section 3: international trade theory
+
 - https://en.wikipedia.org/wiki/International_trade_theory
 - identify the "main player" in world trade
 - table of international merchanise trade volume
@@ -75,6 +76,7 @@ many characteristics of international trade
 - free-trade area(FTA)
 - global major regional ecnomic integration
 - image: world economic outlook databases (WEO) 2014 source IMF:
+
   - RCEP <- midterm list the 10 country included in here
   - CPTPP
   - CJK
@@ -100,7 +102,9 @@ a multinational company will assign a **buy mission** to visit the "country" to 
 in order to attract this **buy mission** to buy the comparative advantage goods/products and invest in the (country), your team will do a project report and represent the (country) to make the presentation in front of the **buy mission**
 
 the main contents for the presentataion
+
 - the itnernational busiess and trade envrionemnt of the ocuntry
+
 1. overall information
 2. macroeconomic
 3. internaitonal trade: the majortarding partners, exports and import in major products and markets, index of openness, trade barriers, etc..
@@ -108,5 +112,28 @@ the main contents for the presentataion
 5. international logisticss infrastructure
 6. analysis/methods of entry into the market: FTZ, FTA,etc
 7. bilateral investment and trade relation between taiwan and the country
-more...
-ask for photos/ or ppt
+   more...
+   ask for photos/ or ppt
+
+## week3
+
+- internaitional trade
+- total trade
+- merchandise trade
+- services trade
+- preferential trade arrangement
+- theory of absolute addvantage
+- theory of factor endowment
+- international product life cycle theory: many stage- stage 1, stage 2
+- cluster theory
+- porter's cluster theory(1980)
+- well developed industry clusters(IC) in taiwan map -> midterm
+- logistics cluster theory
+- FTZs: free-trade zone
+
+KEYTERMS:
+- international trade
+- constanat dollars
+- current dollars 
+- WTO
+- Bretton-Woods

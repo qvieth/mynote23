@@ -2,6 +2,7 @@
 
 ---
 
+- [schedule](https://www.mcu.edu.tw/student/enew-query/sel-5.html)
 - department code :
   - 91 international business and trade,
   - 25 fashion and innovation management program,

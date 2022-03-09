@@ -4,6 +4,13 @@
 - [portal2](portal2)
 
 ## fleeting notes
+
+- inflaiton rate -> how to measure, effect, how it connect to current war
+  - key word: Russian war, US inflation rate, oil price
+  - 城市: city
+- Iternational financial assets - Mar 16 do multiple choice question on moodle 
+- industry - branch of a economy that produce set of **raw** materials, goods, or services
+  - economy: an area of the production, distribution and trade, as well as consumption of goods and services by different agents
 - continue practice pinyin
 - internship suggestion from pamela
   - hpe
