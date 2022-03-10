@@ -1,16 +1,20 @@
 # IOPdraft
 
-think about every part time ob you've ever had
+# PART TIME JOBS: WORK AT A BOARDGAME COFFEE
 
-boardgame cafe
-play boardgames
+## duties && tasks && imortant activities
 
-- explain boardgame rules to customer
-- give menu to the customer
+- make sure customer have good experience with enjoying coffee and playing boardgames
+- tasks:
+  - cleaning: 30 minutes
+  - serving coffee: when customer needs
+  - learning new boardgames rules: every weekend 4 hours
+  - instruct customers with the rules: when custoemr needs
 
-- part time jobs: work at a boardgame coffee
-- duties
-  - make sure customer have good experience with enjoying coffee and playing boardgames
-- tasks
-- imortant activities
-- rating for how important each key task was
+## rating for how important each key task was
+
+- importance not impant at all(1-4)really important:
+  - [2] cleaning
+  - [3] serving coffee
+  - [4] learning new boardgames rules
+  - [4] instruct customers with the rules
