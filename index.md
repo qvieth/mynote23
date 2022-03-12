@@ -5,10 +5,22 @@
 
 ## fleeting notes
 
+- 帮助 can be a verb or a noun, 帮 is only a verb.
+  - 你帮了我很多。
+  - 你去帮助他一下吧。
+  - 我不需要你的帮助，谢谢
+- 帮忙 is a verb+object pair (帮 is a verb and 忙 is a noun),
+  - which means one, it functions as both verb and noun,
+  - and two, it can be split.
+  - 你可以幫我這忙馬？- can you help me with this (matter/problem)
+  - 我能幫什麼忙嗎？- is there anything I can help with?
+- set goal/motivation - longterm/shortterm
+- [TOCFL Level 1 Vocabulary Word List](https://www.rulinmandarin.com/tocfl-level-1-vocabulary-word-list/)
+- kuaiyao vs jiuyao
 - inflaiton rate -> how to measure, effect, how it connect to current war
   - key word: Russian war, US inflation rate, oil price
   - 城市: city
-- Iternational financial assets - Mar 16 do multiple choice question on moodle 
+- Iternational financial assets - Mar 16 do multiple choice question on moodle
 - industry - branch of a economy that produce set of **raw** materials, goods, or services
   - economy: an area of the production, distribution and trade, as well as consumption of goods and services by different agents
 - continue practice pinyin

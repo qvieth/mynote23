@@ -49,3 +49,23 @@
     - and environmental criteria
 - business analytics:
   - the use of current business data to solve business problems using mathematical analysis
+
+## Mar 13
+
+- chapter 3 forecasting
+- problem: how do you forecast demand for starbuck coffee
+- logistic system
+- forecasting
+  - production(what we will study today)
+- **production** uses forecasts to
+  - select suppliers,
+  - select process,
+  - plan capacity,
+  - design facility layout,
+  - and decide on purchasing,
+  - production planning,
+  - scheduling,
+  - and inventory
+- simple moving average
+- weighted moving average
+- exponential smoothing

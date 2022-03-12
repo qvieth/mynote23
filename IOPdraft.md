@@ -1,6 +1,7 @@
 # IOPdraft
 
 # PART TIME JOBS: WORK AT A BOARDGAME COFFEE
+Company Name: Tabletop Coffee and Boardgame
 
 ## duties && tasks && imortant activities
 

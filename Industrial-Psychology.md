@@ -1,5 +1,7 @@
 # Industrial Psychology
 
+[IOPdraft](IOPdraft)
+
 - Textbook: Paul E. Spector, Industrial and Organizational Psychology: Research and Practice (6th Edition International Student Version).
 
 ## WEEK 1
@@ -33,7 +35,6 @@
   - core topics and tools of IOP
   - psychological traits related to workplace
 - week3: form a team with 4 members
-
 - concepts aka:
   - conceptual variables
   - theoretical variables
@@ -68,3 +69,20 @@
 | Categorical | Numerical | compare means | |
 | Numerical | Categorical | look at probability | |
 | Numerical | Numerical | look at correlation | |
+
+## team project
+
+imagine that your company is expanding operations. it will hire
+your team is responsible for hiring training and avaluating the preformance of thes emploee
+
+## hw report
+
+company job:
+
+- next week 2 page report:
+- job analysis plan
+  1. sources
+  2. methods: PDTA or KSAO
+- write company name and position today, the rest discuss with Alice tommorow
+
+
