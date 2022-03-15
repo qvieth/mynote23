@@ -6,6 +6,8 @@
 
 ## basics
 
+# Practical Audio Visual Chinese I
+
 - S + (在 PW) + V + O
 - (在)PW 的Ｎ：　(在)桌子上 的 那本書
 - after 在 -> place word = noun + positional noun
@@ -13,10 +15,18 @@
     thanh 1 vs thanh 4 => 1 thanh 2
 - before 有　->　 placeword
 - book1: 第五課 syntax practice:
-
   - **when a DEM is preceded by a noun or pronoun, then 的 can be omitted**
-
   * book1: 第九課 syntax practice: 他家在學校後面(的)那個大樓的五樓
+- positional suffix 面邊頭 can be interchanged altogether
+- If city, country or proper nouns occur after 在，they never take the positional suffix 裡面 or 裡
+  - 在臺灣裡有很多有名的畫家 (correct)
+  - 在臺 j 彎裡面有很多有名的畫家。(incorrect)
+- Note that some place nouns such as 家 or 學校也 at occur after 在 can also omit the localizer 裡
+- 是的 more formal than 是阿
+- 屋子 and 房間 both mean“room" in English.
+
+  - 屋于 is generally use to describe any kind of rooms，
+  - where as 房間 is usually used to describe room in home, hotel or dormitory,etc
 
 - [chinese word stress](https://www.youtube.com/watch?v=6DxaWw9RudQ)
 - [grace madarin - prononciation playlist](https://www.youtube.com/playlist?list=PLwFUKjRMEUxw2IRsDA8GZGW1AZdgCoiAA)
