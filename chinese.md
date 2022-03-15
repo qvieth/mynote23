@@ -4,8 +4,6 @@
 - [test](v/vMyVocab.md)
 -
 
-## basics
-
 # Practical Audio Visual Chinese I
 
 - S + (在 PW) + V + O
@@ -27,6 +25,45 @@
 
   - 屋于 is generally use to describe any kind of rooms，
   - where as 房間 is usually used to describe room in home, hotel or dormitory,etc
+
+# 第十課
+
+- coverbs
+  - 從: from + 來
+  - 到: to + 去
+- If a verb in a sentence carries a simple object，
+  - then 了 can be placed both after the main verb and at the end of the sentence
+  - indicate the action has already been completed
+  - 我已經吃了飯了
+  - 媽媽已經做了飯了
+- 還沒（有）。。。呢
+  - 我還沒吃午飯呢
+- emphasize the time／place/subjects/means => place:
+  - 是 in front of stressed word
+  - 的 at the end of sentence or after main verb
+  - This pattern is often used when the action took place in the past.
+  - In a positive sentence 是 can be omitted from the pattern(negative can't)
+    - 我（是）昨天賣（的）書
+    - 這本書（是）我賣（的）
+    - 我（是）在那家書店買（的）書
+    - 我（是）跟我姐姐去買（的）書
+    - more example
+    - 你是不是坐汽車來的?
+    - 我是從法國來的，不是從英國來的
+    - 他是昨夫中午來的，不是晚上來的
+    - 我昨天是在飯館兒吃的晚飯
+    - 今天我是跟朋友一塊兒吃的中飯
+  - When using 從,到 or 在
+    - if there is no place word after the noun (the object of the sentence)
+    - then 這兒 or 那兒 must be added after the noun or the object
+    - 請在我這兒吃飯
+    - 你要不要到他那兒去?
+
+## 第十一課
+
+- continue tommorow
+
+## basics
 
 - [chinese word stress](https://www.youtube.com/watch?v=6DxaWw9RudQ)
 - [grace madarin - prononciation playlist](https://www.youtube.com/playlist?list=PLwFUKjRMEUxw2IRsDA8GZGW1AZdgCoiAA)
