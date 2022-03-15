@@ -1,10 +1,22 @@
 # Chinese
 
 - textbook: [Practical Audio Visual 2](Practical-Audio-Visual-2)
+- [test](v/vMyVocab.md)
+-
 
 ## basics
 
-thanh 1 vs thanh 4 => 1 thanh 2
+- S + (在 PW) + V + O
+- (在)PW 的Ｎ：　(在)桌子上 的 那本書
+- after 在 -> place word = noun + positional noun
+  - posional noun: - 上面、下面、裡面、外面、前面、後面 - 上邊、下邊、裡邊、 外邊、 前邊、 後邊、旁邊 - 這裡、那裡 - 當中 、底下， etc.
+    thanh 1 vs thanh 4 => 1 thanh 2
+- before 有　->　 placeword
+- book1: 第五課 syntax practice:
+
+  - **when a DEM is preceded by a noun or pronoun, then 的 can be omitted**
+
+  * book1: 第九課 syntax practice: 他家在學校後面(的)那個大樓的五樓
 
 - [chinese word stress](https://www.youtube.com/watch?v=6DxaWw9RudQ)
 - [grace madarin - prononciation playlist](https://www.youtube.com/playlist?list=PLwFUKjRMEUxw2IRsDA8GZGW1AZdgCoiAA)
