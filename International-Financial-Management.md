@@ -37,5 +37,14 @@ chapter 2
 - def => : leads to
 - inflation -> up => goods price -> up => import -> up because foreign price is cheaper => export -> down => trade deficits become worse
 - logic : deductive reasoning using demand/ supply model
-- shouldn't care about trade deficit because it will be automatically corrected by exchange rate 
+- shouldn't care about trade deficit because it will be automatically corrected by exchange rate
 - next week do multiple choice on moodle
+
+## Mar 16
+things professor will ask on midterm:
+- Bid/Ask spread = (ask_rate-bid_rate)/ask_rate
+- factors that affect the spread:
+  - spread = f(+order costs, +inventory costs, -competition, -volume, +currency risk)
+- give direct rate -> calculate indirect rate
+- indicate which one is direct quote which is indirect one
+- cross exchange rate

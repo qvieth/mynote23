@@ -85,4 +85,5 @@ company job:
   2. methods: PDTA or KSAO
 - write company name and position today, the rest discuss with Alice tommorow
 
-
+- do not write the scale, just tell how
+- how to make it legally defensible

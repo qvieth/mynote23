@@ -3,6 +3,12 @@
 - textbook: [Practical Audio Visual 2](Practical-Audio-Visual-2)
 - [test](v/vMyVocab.md)
 -
+- z: zai
+- c: like z but produce airflow
+- j q x
+  - j: top tongue to lower teeth, middle tongue to top of mouth
+  - q: like j but produce strong air flow
+  - x: like j but produce weak air flow
 
 # Practical Audio Visual Chinese I
 
@@ -89,6 +95,7 @@
   - 我能幫什麼忙嗎？- is there anything I can help with?
 - [TOCFL Level 1 Vocabulary Word List](https://www.rulinmandarin.com/tocfl-level-1-vocabulary-word-list/)
 - kuaiyao vs jiuyao
+- 搜尋：search
 
 ```
 PRONUNCIATION -> VOCAB -> GRAMMAR

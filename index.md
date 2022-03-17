@@ -1,5 +1,6 @@
 ## what to do next day
 
+- when receive a question, try to ask another question
 - [mcu](mcu)
 - [portal2](portal2)
 - [language](language)
@@ -73,3 +74,4 @@
 - DRY
 - single tasking
   [archive](archive)
+-
