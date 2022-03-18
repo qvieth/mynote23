@@ -42,3 +42,28 @@ principle of marketing: a review p.27
 - start 100% localization => high cost
 - 100% globalization => many issues
   - => marketing mix
+
+## Mar17
+
+- chapter 2
+- SWOT
+  - business evironment:
+    - external: OT
+    - internal: SW
+- GDP per capita -> developed/developing country
+
+```
+CHINA's income distribution
+ number of people
+    ▲
+    │
+    │.              .
+    │ .            .
+    │  .         .
+    │   .      .
+    │    .  ..
+    │     .
+    ┴────────────────────────►
+     L    M         H        income
+CHINA is counted as developing country
+```
