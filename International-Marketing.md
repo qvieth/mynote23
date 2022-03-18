@@ -67,3 +67,9 @@ CHINA's income distribution
      L    M         H        income
 CHINA is counted as developing country
 ```
+
+- do trading market research to know overall tradng market here in taiwan
+- keyword to do market research: statistics database query taiwan
+- 2 implication when find that the market have no one did it:
+  - profit is marketable
+  - profit is there's no need
