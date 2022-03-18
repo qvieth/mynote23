@@ -41,8 +41,10 @@ III. Questions with a question word(QW)
 - `N/QW (neg-)V N/QW`
   - 誰是王先生？
   - 王先生是哪國人？
-- IV. Abbreviated Questions with the particle 呢
-  - `Statement, N/PN + 呢？`
+
+IV. Abbreviated Questions with the particle 呢
+
+- `Statement, N/PN + 呢？`
 
 **NOTE**:
 
@@ -174,23 +176,28 @@ II. 多 as an indefinite number
 
 III. Nouns modified by stative verb
 
-- 1. Omit 的
-  - Simple **unqualified** stative verbs in their adjectival function more often omit 的
-    - 小錶
-- 2. Use 的
-  - must use 的
-    - when place modifying adverb before a **modified** stative verb
-      - 他們是很好的朋友
-    - or when use two or more syllable stative verb
-      - 有名的人都很忙
-  - often ommit 的
-    - if the stative verb is 多 or 小
-      - 我有很多(的)日本東西
-    - or is a disyllabic stative verb like 便宜(cheap)，
-      - 他喜歡買便宜(的)東西
-- 3. 的 is required when the **modified noun** is **understood**.
-  - 新的好看，舊的不好看
-  - 我要買便宜的，不要貴的
+1. Omit 的
+
+- Simple **unqualified** stative verbs in their adjectival function more often omit 的
+  - 小錶
+
+2. Use 的
+
+- must use 的
+  - when place modifying adverb before a **modified** stative verb
+    - 他們是很好的朋友
+  - or when use two or more syllable stative verb
+    - 有名的人都很忙
+- often ommit 的
+  - if the stative verb is 多 or 小
+    - 我有很多(的)日本東西
+  - or is a disyllabic stative verb like 便宜(cheap)，
+    - 他喜歡買便宜(的)東西
+
+3. 的 is required when the **modified noun** is **understood**.
+
+- 新的好看，舊的不好看
+- 我要買便宜的，不要貴的
 
 **NOTE**:
 
@@ -225,17 +232,26 @@ IV. 好 and 難 as adverbial prefixes
 
 V. Predicative Complements: describing the manner or the degree of the **verb**
 
-- 1. `S V 得 (A) SV`
-  - 他 說 得 (很) 大
-- 2. SVO as the Topic
-  - `S V O, V 得 (A) SV`
-  - 他 說 台灣話， 說 得 (很) 好
-- 3. Subject as the Topic
-  - 他，日本說的很好
-- 4. S 的 O as the Topic
-  - `S 的 O, V-得 (A) SV`
-  - 李老師 的 中國畫兒， 畫得 很 好看
-    **NOTE**:
+1. `S V 得 (A) SV`
+
+- 他 說 得 (很) 大
+
+2. SVO as the Topic
+
+- `S V O, V 得 (A) SV`
+- 他 說 台灣話， 說 得 (很) 好
+
+3. Subject as the Topic
+
+- 他，日本說的很好
+
+4. S 的 O as the Topic
+
+- `S 的 O, V-得 (A) SV`
+- 李老師 的 中國畫兒， 畫得 很 好看
+
+  **NOTE**:
+
 - 可以,能,會:
   - 可以: ask for permission
   - 能: physical ability or possibility of sth
@@ -264,4 +280,24 @@ III. Clausal Expressions which Have Become Independent Noun
 
 # 第九課
 
-- I.
+I. Place words
+
+1. Proper Noun used as PW: 中國、美國、 日本,...
+2. Positional Noun used as a Place Word: 上面、下面、裡面、外面、前面、後面、上邊、下邊、裡邊、 外邊、 前邊、 後邊、旁邊、這裡、那裡、當中 、底下， etc.
+3. Noun + Positional Noun used as a Place Word: 桌子上(面) 、房子裡(面) 、學校前面、椅子底下、我家
+   後面、我這兒、你旁邊， etc.
+
+II. 在 as main verb(with PW as complement)
+
+- `S 在 PW`
+
+III. 有 after PW
+
+- `PW 有 N`
+
+IV. 在 as coverb of location
+
+- 在(coverb or preposition) placed together with its object(PW) infront of the main verb
+  - to show where the action of the subject is taking place
+  - `S 在 PW VO`
+  - 他 在 大學 念書
