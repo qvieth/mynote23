@@ -19,15 +19,15 @@ ind./dir. O: indirect/direct O
 
 ## 第一顆
 
-- 1. Sentences with Verbs 姓,叫 or 崎
-- 2. Simple question with particle 嗎
+- I. Sentences with Verbs 姓,叫 or 是
+- II. Simple question with particle 嗎
   - Statement + 嗎?
-- 3. Questions with a question word(QW)
-  - N/QW (neg-)V N/QW
+- III. Questions with a question word(QW)
+  - `N/QW (neg-)V N/QW`
     - 誰是王先生？
     - 王先生是哪國人？
-- 4. Abbreviated Questions with the particle 呢
-  - Statement, N/PN + 呢？
+- IV. Abbreviated Questions with the particle 呢
+  - `Statement, N/PN + 呢？`
 - **NOTE**:
   - stative verb: no involved action happen
     - translated into English as the "to be" + adjective
@@ -40,12 +40,12 @@ ind./dir. O: indirect/direct O
 
 ## 第二課
 
-- 1. simple sentences with SV
-  - N/PN (Neg-) SV
+- I. simple sentences with SV
+  - `N/PN (Neg-) SV`
     - 我(不)忙
-- 2. N/PN (Neg-) Ａ SV
+- II. `N/PN (Neg-) Ａ SV`
   - 我(不)很忙
-- 3. N (Neg-) (A) SV, N 也 (Neg-) (A) (SV)
+- III. `N (Neg-) (A) SV, N 也 (Neg-) (A) (SV)`
   - 你很忙，我也很忙
   - 天氣不冷，也不熱
 - **NOTE**:
@@ -60,13 +60,13 @@ ind./dir. O: indirect/direct O
 - I.
   - 1. SVO sentences:
        － 他不看書
-  - 2. S+(沒)+有+O
+  - 2. `S+(沒)+有+O`
 - II. V not V questions
-  - 1. S V Neg V O?
-  - 2. S V O Neg V?
+  - 1. `S V Neg V O?`
+  - 2. `S V O Neg V?`
   - Transformation (1)-> (2)
 - III. Sentences with the Axiliary Verb(AV)
-  - S (Neg) AV V 0
+  - `S (Neg) AV V 0`
     - AV: 要，喜歡，。。。
     - 我不要買筆
 - IV. Transposed Objects
@@ -97,7 +97,7 @@ ind./dir. O: indirect/direct O
     - 這兩個人
 - IV. Prices
   - When asking or giving prices， age， time， etc.， verb equivalents such as “to be"， etc. are usually left out
-- S + V + ind. O + dir. O
+- `S + V + ind. O + dir. O`
   - 他給我一枝筆
   - **NOTE**:
     - Using question words 幾 and 多少:
@@ -129,7 +129,7 @@ ind./dir. O: indirect/direct O
 ## 第六課
 
 - II. 多 as an indefinite number
-  - NU- 多 -M N
+  - `NU- 多 -M N`
   - 三百 多 塊 錢: approximate 300-400
 - II. Nouns modified by stative verb
   - 1. Omit 的
@@ -163,24 +163,24 @@ ind./dir. O: indirect/direct O
 - II. Progressive Aspect
   - progressive marker 在 in front of the verb: the action is in progress.
   - place particle 呢 at the end of the sentence: the situations/state is being sustain
-  - S 在 V O 呢
+  - `S 在 V O 呢`
   - 你 在 做 什麼 呢?
 - III. Verb Object as the Topic
-  - V + O + Comment
+  - `V + O + Comment`
   - 學中文不難
 - IV. 好 and 難 as adverbial prefixes
   - 1. good or bad
   - 2. easy or difficult
 - V. Predicative Complements: describing the manner or the degree of the **verb**
-  - 1. S V 得 (A) SV
+  - 1. `S V 得 (A) SV`
     - 他 說 得 (很) 大
-    - 2. SVO as the Topic
-    - S V O, V 得 (A) SV
+  - 2. SVO as the Topic
+    - `S V O, V 得 (A) SV`
     - 他 說 台灣話， 說 得 (很) 好
   - 3. Subject as the Topic
     - 他，日本說的很好
   - 4. S 的 O as the Topic
-    - S 的 O, V-得 (A) SV
+    - `S 的 O, V-得 (A) SV`
     - 李老師 的 中國畫兒， 畫得 很 好看
 - **NOTE**:
   - 可以,能,會:
@@ -193,7 +193,7 @@ ind./dir. O: indirect/direct O
 - I. Nouns modified by clauses with 的
   - must place **modifying clause** before the noun it modifies
     - add 的 after the modifying clause.
-  - 1. Noun Phrase: S V 的 N
+  - 1. Noun Phrase: `S V 的 N`
     - 他畫的畫兒
-  - 2. (AV) V O 的 N
+  - 2. `(AV) V O 的 N`
     - 喜歡 畫 畫兒 的 人
