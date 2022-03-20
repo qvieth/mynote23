@@ -4,6 +4,7 @@
 - [mcu](mcu)
 - [portal2](portal2)
 - [language](language)
+- [IFM presentation](IFM-presentation)
 
 ## fleeting notes
 
