@@ -1,14 +1,20 @@
 ## what to do next day
 
+- [ifmjason](https://drive.google.com/file/d/1zx2UpnE5Ctu5bwJBkCM4J2hT3QuxbGjJ/view?usp=sharing)
+- tra no 1000
+- speak with emotion -> facial expression
 - when receive a question, try to ask another question
 - [mcu](mcu)
 - [portal2](portal2)
 - [language](language)
 - [IFM presentation](IFM-presentation)
+- [IFM draft](IFM-draft)
+- [homework](homework)
+-
 
 ## fleeting notes
 
-- Iternational financial assets - Mar 16 do multiple choice question on moodle
+- International financial assets - Mar 16 do multiple choice question on moodle
   - inflaiton rate -> how to measure, effect, how it connect to current war
     - key word: Russian war, US inflation rate, oil price
 - industry - branch of a economy that produce set of **raw** materials, goods, or services

@@ -1,6 +1,6 @@
 Jason:
 
-1. Inflation of the status quo in US
+1. Inflation of the status quo in US -> great recession
 2. Economic Background
 3. Effects of Inflation - Balance of Trade and Exchange rate
 
@@ -37,9 +37,9 @@ On a monthly basis, the CPI increased a seasonally adjusted 0.5% in December fro
 
 The last time consumer prices clocked in at such an annual increase was in June 1982, **but the circumstances were very different from today**. While inflation right now is rising, back then it was falling after peaking at 14.8% in 1980, when Jimmy Carter was still president and the Iranian revolution had pushed up oil prices.
 
-By then, newly installed Federal Reserve Chairman Paul Volcker had set out to crush inflation by raising interest rates dramatically, causing a brief recession in 1980. As rates reached 19% in 1981, a much deeper recession began. By the summer of 1982, both inflation and interest rates were falling sharply.
+By then, newly installed Federal Reserve Chairman Paul Volcker had set out to crush inflation by raising **interest rates** dramatically, causing a **brief recession** in 1980. As rates reached 19% in 1981, a much deeper recession began. By the summer of 1982, both inflation and interest rates were falling sharply.
 
-Today, the Covid-19 pandemic has caused supply-chain disruptions, and a shortage of goods and materials—particularly autos—coupled with strong demand from consumers flush with the benefits of government stimulus are behind the inflation surge.
+Today, the Covid-19 pandemic has caused **supply-chain disruptions,** and a shortage of goods and materials—particularly autos—coupled with strong demand from consumers flush with the benefits of government stimulus are behind the inflation surge.
 
 Prices for autos, furniture and other durable goods continue to drive much of the inflationary surge, fueled by largely pandemic-related imbalances of supply and demand that most economists expect to fade as Covid-19’s impact on economic activity eases. Prices of used cars and trucks soared 37.3% in December from a year earlier, while living room, kitchen and dining room furniture jumped 17.3%.
 
