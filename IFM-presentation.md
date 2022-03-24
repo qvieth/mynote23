@@ -1,6 +1,6 @@
 Jason:
 
-1. Inflation of the status quo in US -> great recession
+1. Inflation of the status quo in US -> great recession -> find article
 2. Economic Background
 3. Effects of Inflation - Balance of Trade and Exchange rate
 

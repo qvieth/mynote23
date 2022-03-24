@@ -41,10 +41,20 @@ chapter 2
 - next week do multiple choice on moodle
 
 ## Mar 16
+
 things professor will ask on midterm:
+
 - Bid/Ask spread = (ask_rate-bid_rate)/ask_rate
 - factors that affect the spread:
   - spread = f(+order costs, +inventory costs, -competition, -volume, +currency risk)
 - give direct rate -> calculate indirect rate
 - indicate which one is direct quote which is indirect one
 - cross exchange rate
+
+## Mar 23
+
+- how inflaiton rate in 1 country -> demand of 1 country goods in another country?
+- Q 19 page 126 <- lam lai
+- e. two of the scenari
+- we are doing investiment based purely on interest rate => should look at exchange rate also
+- how to convert annual rate to monthly

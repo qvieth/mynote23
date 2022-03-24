@@ -1,7 +1,10 @@
 ## what to do next day
 
-- [ifmjason](https://drive.google.com/file/d/1zx2UpnE5Ctu5bwJBkCM4J2hT3QuxbGjJ/view?usp=sharing)
-- tra no 1000
+- [IOPHW2](https://docs.google.com/document/d/1pZH4kXiES25YcOqL-DO3ivw-S5z7zn8ybTTy8_WW2K4/edit?usp=sharing)
+- 3blue1brown: baysian
+- [ ] tra no 1000
+- [ ] IFM ppt jerry team
+
 - speak with emotion -> facial expression
 - when receive a question, try to ask another question
 - [mcu](mcu)
