@@ -87,3 +87,30 @@ company job:
 
 - do not write the scale, just tell how
 - how to make it legally defensible
+
+## mar 24
+
+- use ONET to get a basic list of KSAO
+
+- where wil you look
+  - linked in
+  - jobfairs
+  - 1111
+- best source
+
+- linked
+
+- on each ppt content,
+- how do we meaasure
+  - certificate
+- on our hw tell professor:
+  - what test we gonna use:?
+    - IQ test
+- skill test
+  - code test
+- big 5 personality test
+- what biograpcal information we gonna use? -> read the ppt slide "biograpcal information"
+- do not do validation
+
+- outline for report 3
+- slide 9 : format for selecting employees -> skip validating

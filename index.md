@@ -1,5 +1,6 @@
 ## what to do next day
 
+- https://www.canva.com/design/DAE77g9uD3g/45lAVtuommCXsJ3xPUahlA/view?utm_content=DAE77g9uD3g&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 - [IOPHW2](https://docs.google.com/document/d/1pZH4kXiES25YcOqL-DO3ivw-S5z7zn8ybTTy8_WW2K4/edit?usp=sharing)
 - 3blue1brown: baysian
 - [ ] tra no 1000
