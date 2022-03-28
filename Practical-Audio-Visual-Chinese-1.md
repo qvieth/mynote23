@@ -568,6 +568,7 @@ example:
 ## III. Single and Double 了with Time Spent
 - use once -> past simple
 - after verb and end of sentence -> past present
+  - 已經
 
 **NOTE**:
 - Can ommit the verb 是 when predicate are time-when expression
