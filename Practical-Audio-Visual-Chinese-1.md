@@ -66,13 +66,13 @@ PN: pronoun
 QW: question word
 A: adjective
 SV: stative verb = to be adjective
-AV: auxiliary verb
+AV: auxiliary verb: 要，喜歡,...
 DEM: 這,那
 ind./dir. O: indirect/direct O
 modifier
 statement
 quantified: amounted
-coverb: preposition
+coverb: preposition: 從，到，...
 ```
 
 # 第一顆
