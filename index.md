@@ -1,24 +1,24 @@
 ## what to do next day
 
-- [resumePDF](https://drive.google.com/file/d/1HGb3jv5hRjtzANzMfN0J4SyaclrkGwtz/view?usp=sharing)
-- [resumeCanvaWEB](https://www.canva.com/design/DAE77g9uD3g/45lAVtuommCXsJ3xPUahlA/view?utm_content=DAE77g9uD3g&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-- [IOPHW2](https://docs.google.com/document/d/1pZH4kXiES25YcOqL-DO3ivw-S5z7zn8ybTTy8_WW2K4/edit?usp=sharing)
-- 3blue1brown: baysian
-- [ ] tra no 1000
-- [ ] IFM ppt jerry team
-
-- speak with emotion -> facial expression
-- when receive a question, try to ask another question
+- [How The Economic Machine Works by Ray Dalio](https://www.youtube.com/watch?v=PHe0bXAIuk0)
+  - principles by ray dalio
+  - must watch until understand -> rewatch and take note
 - [mcu](mcu)
 - [portal2](portal2)
 - [language](language)
-- [IFM presentation](IFM-presentation)
-- [IFM draft](IFM-draft)
-- [homework](homework)
--
 
 ## fleeting notes
 
+- [homework](homework)
+- [imcHW](imcHW)
+- find money to study more
+- [PR](PR)
+  - crisis management - IMC
+- ## [invest](invest)
+- [IFM presentation](IFM-presentation)
+- 3blue1brown: baysian
+- speak with emotion -> facial expression
+- when receive a question, try to ask another question
 - International financial assets - Mar 16 do multiple choice question on moodle
   - inflaiton rate -> how to measure, effect, how it connect to current war
     - key word: Russian war, US inflation rate, oil price

@@ -71,6 +71,7 @@ DEM: 這,那
 ind./dir. O: indirect/direct O
 modifier
 statement
+quantified: amounted
 ```
 
 # 第一顆
@@ -563,6 +564,10 @@ example:
 - `S V 0, V 了Time-Spent (了)`
   - 我去年學中文,學了三個月
   - 我學中文,已經學了三個月了
+
+## III. Single and Double 了with Time Spent
+- use once -> past simple
+- after verb and end of sentence -> past present
 
 **NOTE**:
 - Can ommit the verb 是 when predicate are time-when expression

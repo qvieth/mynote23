@@ -1,0 +1,38 @@
+# PR
+
+- biola university pr introduction https://www.youtube.com/watch?v=8uRh4XYa__M&list=PLVHY3HvnI6yPwHQMXC_jeaeIBOixEggPk
+- [JOUR 111] What is Public Relations? Part 1
+  - if crisis happen you're gonan look at the people impacted by that crisis
+  - if you do nothing -> you send a message that you're hiding/ you've lied
+  - so how do you interact with that? how do you respond to something like this?
+  - how do you admit fault but carrying your brand forward
+  - how do you point back to the values that your organization is founded on?
+  - how can you influence values, beliefs, opinions, and behaviors
+  - **RPIE**: research, programming, implementation, evaluation
+  - different sectors: government vs corporate, crisis vs communication
+- part 2
+  - pr people write speech script
+  - model of communication
+    - 2way communicating -> send and receive(feedback)
+  - to see the **difference** between pr vs journalism, advertising, marketing compare:
+    - scope
+    - objective
+    - audience
+    - channel
+  - difference of journal vs pr: scope, objective, audience, channel
+    - for pr, scope is broad(internal + external), channel-multiple, objective - advocate, audience - segmented
+    - advertising: scope - look at external customer, channel - medium they advertise in, objective - help sell a product, audience - semimass, large group
+    - marketing: scope, objective - advocate segment - very well, channel - multiple -> quite same as pr
+- summary of pr process https://www.youtube.com/watch?v=GTmNaLpkP14&list=RDLV8uRh4XYa__M&index=7
+  - research -> problem statement
+  - programming
+    - goal
+    - objective has to be SMART -> object tive should have 2 or 3 strategy and couple tactics supporting that
+    - strategy/tactics
+    - budget
+  - implementation
+  - evaluation
+- professionalism
+  - -> really influence people's opinion of your work
+  - what is the impression
+- printed RPIE

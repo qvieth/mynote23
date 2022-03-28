@@ -1,0 +1,68 @@
+# invest
+
+- [consumer price index](consumer-price-index)
+- [weighted average](weighted-average)
+- [basket of goods](basket-of-goods)
+- [recession](recession)
+
+---
+
+- interest rate https://www.investopedia.com/terms/i/interestrate.asp
+  - While governments prefer lower interest rates,
+    - they eventually lead to market **disequilibrium**
+    - where demand exceeds supply causing inflatio
+  - Low interest rates encourage borrowing and business activity,
+    - just as higher rates discourage it
+- stock definiition by rose: trade history -> capital is so big for any individual -> stock as an agreement of asset ownership
+- what is the divsor in sp500 index formula https://quant.stackexchange.com/questions/55631/how-are-the-divisor-of-sp500-determined
+- stock market index definition https://www.youtube.com/watch?v=TyZsemV_0YA
+  - index: in invest - anything that calculate average of many different components
+    - indicator, sign or measure of sth
+    - free-float market capitalization weighted
+    - there are index for everything not just stock market
+    - weight =(company's free-float market capital)/index marketcap
+- 4 main asset class https://www.youtube.com/watch?v=znRyjYlHruE
+  - open a **brokerage account** -> like **bank account** e.g. vanguard,fidelity vs vietcombank
+    - can buy bonds thourgh brokerage account too
+- option trading https://www.youtube.com/watch?v=TyZsemV_0YA
+  - option give the buyer option to buy/sell the underlying stock at a strike price, expiry date
+  - calll -> right to buy
+  - put -> right to sell
+- asset are categorized as real, intangible or financial
+  - financial asset: Financial assets derive their value from a contractual claim on an underlying asset.
+  - common types of financial assets that investors encounter are:
+    - cash
+    - stock: certificate for company ownership, no set ending or expiration date, can be held indefinitely or sold to other investors.
+    - bond: one way that companies or governments finance short-term projects.
+    - certificate of deposit: allows an investor to deposit an amount of money at a bank for a specified period with a guaranteed interest rate
+- liquidity is the ability to change a financial asset into cash quickly.
+- ROI is the profit you receive from an asset divided by the cost of owning that asset
+- youtube - investing with rose https://www.youtube.com/watch?v=vGcOGYkttI4
+- by invest in a mutual fund you get to
+  - own a bunch of differnt stocks
+  - all in one easy package
+- in a world without mutual fund, if you wanted to have say
+  - a hundred different stocks in your portfolio
+  - you will have to make a 100 purchase
+  - waste a lot of time sitting in front of computer
+- diversification: a strategy that reduces your investing risk
+  - by spreading out your eggs
+- mutual funds usaully consist of 90 stocks minimum
+- rather than pay for a fund manager to do active management
+- the fund follow a fixed formula that
+  - eliminates the need for someone to make buying and selling decisions
+  - the formula that it follows is based on an index
+  - -> where the term index fund comes from
+- index:
+  - a representative of the stock market and indexes were
+    - created as a tool to quickly measure stock market performance
+    - rather than looking at thousands of stocks individually
+  - an index is just 1 simple thing you can look at to see
+    - how the market did that day
+  - all index fund are mutual funds, but not all mutual funds are index funds
+  - for example: mutual funds that is not index funds:
+    - each advisor independently selects and maintains a portfolio of
+    - common stocks for the fund
+  - mutual funds came first and they offer the benefits of pooled investing
+  - then index funds came along as a special type of mutual funds with much smaller fees and type of management called passive management
+  - and finnaly ETF came on the scene which trades like a stock and offers everything that index funds offer except automatic reinvestment
