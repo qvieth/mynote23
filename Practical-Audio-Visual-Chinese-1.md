@@ -72,6 +72,7 @@ ind./dir. O: indirect/direct O
 modifier
 statement
 quantified: amounted
+coverb: preposition
 ```
 
 # 第一顆
