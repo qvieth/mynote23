@@ -73,7 +73,7 @@ modifier
 statement
 quantified: amounted
 coverb: preposition - 從，到，...
-indefinite: not exactly known - 多 - stand where number can stand
+indefinite: not exactly known - 多 - stand where number(e.g. 兩個) can stand
 ```
 
 # 第一顆
