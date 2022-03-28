@@ -555,6 +555,8 @@ example:
   - 幾天?
 
 ## II. Single and Double 了with Quantified Objects
+- single 了 -> past simple
+- doube 了 -> present perfect
 - `S (A) V 了 Time-Spent (了)`
   - 我們只休息了十分鐘
   - 我們已經休息了半個鐘頭了,你還累嗎?
@@ -567,7 +569,7 @@ example:
 
 ## III. Single and Double 了with Time Spent
 - use once -> past simple
-- after verb and end of sentence -> past present
+- after verb and end of sentence -> present perfect
   - 已經
 
 **NOTE**:
