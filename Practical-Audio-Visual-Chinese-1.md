@@ -1,5 +1,21 @@
 Practical Audio Visual Chinese 1
 
+```def
+N: noun
+PN: pronoun
+QW: question word
+A: adjective
+SV: stative verb = to be adjective
+AV: auxiliary verb - 要，喜歡,...
+DEM: 這,那
+ind./dir. O: indirect/direct O
+modifier
+statement
+quantified: amounted
+coverb: preposition - 從，到，...
+indefinite: not exactly known - 多 - stand where number(e.g. 兩個) can stand
+```
+
 # Contents
 
 - [第一顆](#第一顆)
@@ -59,22 +75,6 @@ Practical Audio Visual Chinese 1
 - [第十二課](#第十二課)
   - [I. Time expression with year, month, day, and week](#第十二課#I. Time expression with year, month, day, and week)
   - [II. Single and Double 了with Quantified Objects](#第十二課#II. Single and Double 了with Quantified Objects)
-
-```def
-N: noun
-PN: pronoun
-QW: question word
-A: adjective
-SV: stative verb = to be adjective
-AV: auxiliary verb - 要，喜歡,...
-DEM: 這,那
-ind./dir. O: indirect/direct O
-modifier
-statement
-quantified: amounted
-coverb: preposition - 從，到，...
-indefinite: not exactly known - 多 - stand where number(e.g. 兩個) can stand
-```
 
 # 第一顆
 
