@@ -1,5 +1,7 @@
 # junior sem2
 
+- [jun sem2 midterm](jun-sem2-midterm)
+
 | id  | Class    | Course   | Course                                 | Professor            | R/E      | Classroom | D:s,e    |
 | --- | -------- | -------- | -------------------------------------- | -------------------- | -------- | --------- | -------- |
 | 1   | 91351 　 | 91351 　 | Integrated Marketing Communication (E) | Pei-Ju Tung          | Elective | B404      | Mon:2,4  |

@@ -14,6 +14,7 @@ statement
 quantified: amounted
 coverb: preposition - 從，到，...
 indefinite: not exactly known - 多 - stand where number(e.g. 兩個) can stand
+MA: movable adverb - use like other time words
 ```
 
 # Contents

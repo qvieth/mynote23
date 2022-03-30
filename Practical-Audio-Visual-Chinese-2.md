@@ -1,5 +1,9 @@
 # 第一課
 
+```
+MA: movable adverb - use like other time words
+```
+
 ## I. Question words as Indefinites
 
 - question words as indefinites(stand where number(一個) can stand)
@@ -116,3 +120,30 @@
   - 他們對我們很好。
   - 那個人對我不太客氣
   - 這個東西對我很有用
+
+## NOTE
+
+- 來 can be used as a substitute for a verb of concrete meaning.
+  - 我自己來: i'll do it myself
+  - 再來一碗
+- 哪裡哪裡 is used to reply to a compliment, or to an apology to convey polite response
+- 哪兒的話- don't mention it
+
+# 第四課
+
+## II. Specific relative time
+
+- Specific relative time" precedes the main verb in the sentence. -> like time-when, but stand after time when
+  - I.
+    - a. 以前: ago
+      - 三個月以前,他到日本去了
+    - b. 以前: before
+      - 十月以前，天氣都很熱
+      - 他來以前，給我打了一個電話。
+  - II. 的時候
+
+## III. 次(or 回)as a verbal measure
+
+- “DEM-NU-次/田"follows the time-when pattern and comes before the verb to indicate “which time".
+  - `S DEM-NU-次 V`
+  - 我 那(一)次 去，沒看見他
