@@ -93,3 +93,7 @@ skip
 - google how to look at statistics stat on yahoo finance
   - valuation
     - real option: what they can invest and bring to reality
+
+## mar 30
+
+- posterior = likelihood \* prior

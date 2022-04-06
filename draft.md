@@ -1,80 +1,37 @@
-- choose levicbaby case
-- stake holders:
-  - media
-  - employees
-  - the financial community
-  - stockholder
-  - competitor
-  - supplier
-  - bank/insurer
-  - government,
-  - customer
-  - board of directors
-- https://en.wikipedia.org/wiki/Situational_crisis_communication_theory
-- https://instituteforpr.org/wp-content/uploads/CoombsFinalWES.pdf
-- table 3: Crisis Communication Channel Preparation Best Practices
-- Table 4: Initial Crisis Response Best Practices -> make public reponse number 1 priority -> already been done by the case
-- Table 6: Crisis Types by Attribution of Crisis Responsibility -> chemical incidnet -> what type of crisis?
-- table 7: -> how to resolve crisis
-  - The second step is to review the **\*intensifying factors** of crisis history and prior reputation. If an organization has a history of similar crises or has a negative prior reputation, the reputational threat is intensified.
-    - For crises with low attributions of crisis responsibility and no intensifying factors, add excuse and/or justification strategies to the instructing information and care response.
-    - use this strategy -> [X] For crises with low attributions of crisis responsibility and an intensifying factor, add compensation and/or apology strategies to the instructing information and care response.
+腳色扮演
+C: Hà, D: Thy
+A: Dzinh, B: Việt (trùm)
+H: 快要放假了,日本哦我來了
 
-Crisis management is a process designed to prevent or lessen the damage a crisis can inflict on an organization and its stakeholders. As a process, crisis management is not just one thing.
-Crisis management can be divided into three phases:
-stakeholder: lawyers , employee
+- THY: 別急。我們的飛機今天晚上才起飛，好好準備你的東西吧，否則的話會忘了這個忘了那個，到時候一定很麻煩。
+- VINH: 大哥，記得把護照放在書包。
+- **TRÙM** 記住了，你提醒我不少次了。你需要準備你的東西吧。
+- VINH: 好，到時候別叫我啊。
+- THY: 輕榮，你的臉色不太好。還好嗎?
+- VINH: 我昨天被困雨和發燒，可能感冒了。但是你們放心，我已經吃藥了。希望明天我會好一點。
+- H：啊，到日本了，我要去爬山。
+- VINH:欸，不是我們已打算一起去鄉下安安靜靜過假日嗎？為什麼又去爬山？
+- **TRÙM** 對對，這跟我們的計劃不一樣。
+- THY: 我們在飛機上再想一想了，還是去爬山吧，鄉下沒有什麼興趣哦。反正我們是放七天假的，不怕沒有時間去鄉下休息嘛。
+- VINH: 我看國曆了，明天是禮拜六，是周末。人去爬山，我想，也許特別多.再説，你們日文一句也不會説，如果發生事故就怎麽辦？
+- THY: 放心，雖然我們日文一字也不可說，但是我們還有手機，可以打開 Google 翻譯，讓它幫助我們哦。語言的方面，我想你們不必擔心。
+- H: 芳詩説得不錯。現在下雪了，去鄉下會很無聊，不如去滑雪吧。
+- **TRÙM** 但是我們不可不管，你們兩個女子，沒有男生一起出去也狗讓我們擔心了，我覺得鄉下比山上舒服多。如果你的手機壞了…
+- H+THY （Chen ngang）：小心你的嘴口，縂説倒霉的東西.
+- VINH: 好了，別吵架吧。若是他們要去就讓他們去，但是我有幾句話，請你們清楚聼。第一句，現在是寒冬，天氣多麽冷，出去得好好照顧你們自己，萬一生了病例如感冒或是頭痛會要看醫生，還要吃藥，會要花錢花得不怎麽少，因爲我們各個人還沒有健康保險署。第二句，要是發生問題，你們得立即跟我們打電話。
+- H+THY：對不起你，我們讓你們倖了。
+- VINH: 沒關係。開心地去玩兒吧。
+- **TRÙM**: 好了，公車差 2 分鐘就要來了。好好準備行李吧。
 
-We use Situational crisis communication theory(SCCT), a theory in crisis communication, to categorize what type of crisis the company is facing, also the best strategy to deal with that specific crisis.
+TRÙM: 記住了，你提醒我不少次了。你需要準備你的東西吧。
+TRÙM: 對對，這跟我們的計劃不一樣。
+TRÙM: 但是我們不可不管，你們兩個女子，沒有男生一起出去也狗讓我們擔心了，我覺得鄉下比山上舒服多。如果你的手機壞了…
+TRÙM: 好了，公車差 2 分鐘就要來了。好好準備行李吧。
 
-Defined by Coombs in his SCCT research, there are three identified types of crises or “crisis cluster”: the victim cluster, the accidental cluster, and the intentional cluster.
-
-## (1) pre-crisis
-
-already happen
-Preparation involves creating the crisis management plan
-
-## (2) crisis response
-
-- That research has been divided into two sections: (1) the initial crisis response and (2) reputation repair and behavioral intentions.
-- what management does and says after the crisis hits
-- initial crisis response guidelines focus on three points:
-- (1) be quick
-  - the need for the organization to tell its side of the story.
-  - appreciate the value preparation and templates
-  - news media will lead the charge to fill the information vacuum and be a key source of initial crisis information
-    - WHAT -> manage relation with news media -> open an interview -> stealing thunder
-      - be honest, take responsibility
-      - correct the mistake
-      - The philosophy of IMC **speaking with one** voice in a crisis is a way to maintain accuracy.
-      - it is physically impossible to expect one person to speak for an organization if a crisis lasts for over a day.
-      - crisis team needs to share information so that different people can still convey a consistent message
-      - news media is not the only channel crisis managers can and should use to reach stakeholders.
-      - WHY
-        - If the organization having the crisis does not speak to the news media, other people will be happy to talk to the media.
-        - These people may have inaccurate information or may try to use the crisis as an opportunity to attack the organization
-        - As a result, crisis managers must have a quick response
-    - express concern/sympathy for any victims of the crisis
-    - never forget employees are important publics during a crisis
-- (2) be accurate
-- (3) be consistent
-  - Form refers to the basic structure of the response
-- Table 4: Initial Crisis Response Best Practices
-- Bill Benoit (1995; 1997) has done the most to identify the reputation repair strategies
-- assess the reputational threat of a crisis
-
-## (3) post-crisis
-
-if the company we suggest it form a crisis management team -> pre crisis mangement plan
-have a designated crisis management team
-conduct exercises to test the plans and teams at least annually,
-concerned with prevention and preparation
-Both Barton (2001) and Coombs (2006) document that organizations are better able to handle crises when they
-(1) have a crisis management plan that is updated at least annually,
-(2) have a designated crisis management team that is properly trained
-(3) conduct exercises to test the plans and teams at least annually, and
-(4) pre-draft some crisis messages.
-public relations, legal, security, operations, finance, and human resources
-
-1.  Deliver all information promised to stakeholders as soon as that information is known.
-2.  Keep stakeholders updated on the progression of recovery efforts including any corrective measures being taken and the progress of investigations.
-3.  Analyze the crisis management effort for lessons and integrate those lessons in to the organization’s crisis management system
+記住 (Jì zhù)
+提醒 (Tíxǐng)
+準備 (Zhǔnbèi)
+計劃 (Jìhuà)
+準備行李 (Zhǔnbèi xínglǐ)
+也狗讓 (Yě gǒu ràng)
+擔心 (Dānxīn)

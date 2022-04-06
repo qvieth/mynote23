@@ -2,6 +2,9 @@
 
 ```
 MA: movable adverb - use like other time words
+auxiliary verb + coverb + verb - 他很喜歡跟孩子們玩兒
+DV: direction verb 
+PV: post verb
 ```
 
 ## I. Question words as Indefinites
@@ -147,3 +150,6 @@ MA: movable adverb - use like other time words
 - “DEM-NU-次/田"follows the time-when pattern and comes before the verb to indicate “which time".
   - `S DEM-NU-次 V`
   - 我 那(一)次 去，沒看見他
+
+# 第六課
+- directional verb

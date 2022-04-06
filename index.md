@@ -1,8 +1,13 @@
 ## what to do next day
 
-- [How The Economic Machine Works by Ray Dalio](https://www.youtube.com/watch?v=PHe0bXAIuk0)
-  - principles by ray dalio
-  - must watch until understand -> rewatch and take note
+- kiem hoc bong
+- 104 -> kiem viec phu hop
+- gdp?
+- living standard
+- mantain profit margin
+- [draft](draft)
+- [economy](economy)
+
 - [mcu](mcu)
 - [portal2](portal2)
 - [language](language)
@@ -14,7 +19,7 @@
 - find money to study more
 - [PR](PR)
   - crisis management - IMC
-- ## [invest](invest)
+- [invest](invest)
 - [IFM presentation](IFM-presentation)
 - 3blue1brown: baysian
 - speak with emotion -> facial expression

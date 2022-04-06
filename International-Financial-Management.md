@@ -58,3 +58,10 @@ things professor will ask on midterm:
 - e. two of the scenari
 - we are doing investiment based purely on interest rate => should look at exchange rate also
 - how to convert annual rate to monthly
+
+## mar 30
+
+april 14 -> mid term -> quiz chapter 1 to 4
+
+- spot rate
+- know the difference between forward vs future
