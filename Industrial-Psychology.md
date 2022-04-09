@@ -114,3 +114,11 @@ company job:
 
 - outline for report 3
 - slide 9 : format for selecting employees -> skip validating
+
+## April 7
+- reliability & validity: use a lot in your life time
+- not much error, consistency, replicateable
+- qc - check ppt slide:
+  1.  content valildation
+  2.  criterion validation
+  3.  reliability check

@@ -1,5 +1,9 @@
 ## what to do next day
 
+- good study resource
+  - https://www.chineseclass101.com
+- the art of clean code with python
+  - https://wiki.python.org/moin/IntroductoryBooks
 - kiem hoc bong
 - 104 -> kiem viec phu hop
 - gdp?
