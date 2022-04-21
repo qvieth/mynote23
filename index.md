@@ -1,5 +1,4 @@
 ## what to do next day
-- https://moodle.mcu.edu.tw/
 - where does money come from part 2 - the rest of us https://www.youtube.com/watch?v=jAg1YxW30Eg
   - value creation - money
   - debt - money
