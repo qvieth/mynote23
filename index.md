@@ -1,5 +1,15 @@
 ## what to do next day
-
+- https://moodle.mcu.edu.tw/
+- where does money come from part 2 - the rest of us https://www.youtube.com/watch?v=jAg1YxW30Eg
+  - value creation - money
+  - debt - money
+- [changing world order Ray Dalio](https://www.youtube.com/watch?v=xguam0TKMw8)
+- [health](health)
+- [draft](draft)
+- [draft2](draft2) <- finish this, then ask for help for the draft3
+- [draft3](draft3)
+- https://wiki.python.org/moin/IntroductoryBooks
+- 歡迎光臨
 - good study resource
   - https://www.chineseclass101.com
 - the art of clean code with python

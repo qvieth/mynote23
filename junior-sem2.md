@@ -18,11 +18,11 @@
 | 7   | 91302 　 | 99236 　 | International Marketing (E)            | Pei-Ju Tung          | Elective | F202      | Fri:2,4  |
 | 8   | 91302 　 | 99236 　 | Operations Management (E)              | Iris Chang           | Required | B301      | Fri:6,8  |
 
-- [Integrated Marketing Communication](Integrated-Marketing-Communication)
-- [International Trade Practices](International-Trade-Practices)
-- [International Financial Management](International-Financial-Management)
+- [Integrated Marketing Communication](Integrated-Marketing-Communication) <- 04/19
+- [International Trade Practices](International-Trade-Practices) <- midterm 04/26.
+- [International Financial Management](International-Financial-Management) <- 04/18
 - [International Asset Management](International-Asset-Management)
-- [Industrial Psychology](Industrial-Psychology)
-- [Basic Madarin II](Basic-Madarin-II)
-- [International Marketing](International-Marketing)
-- [Operations Management](Operations-Management)
+- [Industrial Psychology](Industrial-Psychology) <- 04/20
+- [Basic Madarin II](Basic-Madarin-II) <-
+- [International Marketing](International-Marketing) <- 04/20
+- [Operations Management](Operations-Management) <- postponed until 4/29
