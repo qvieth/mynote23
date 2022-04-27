@@ -1,0 +1,3 @@
+# math
+
+- [statistics](statistics)

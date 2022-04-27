@@ -10,6 +10,12 @@
 - RMR
 - weight management
 
+- 5 exercise
+  1. Push ups
+  2. Squats
+  3. Planks
+  4. Glutes bridges
+  5. Burpees
 - https://www.healthline.com/nutrition/10-ways-to-boost-metabolism
 - Metabolism is a term that describes all the chemical reactions in your body.
   - These chemical reactions keep your body alive and functioning.

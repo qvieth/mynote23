@@ -1,12 +1,40 @@
 ## what to do next day
+
+- [IFM presentation](IFM-presentation)
+  - What causes an economic recession? - Richard Coffin https://www.youtube.com/watch?v=SwaCg7Gwtzw
+    - [how does the stock market work](https://www.youtube.com/watch?v=p7HKvqRI_Bo)
+    - [what cause economic bubles](https://www.youtube.com/watch?v=SwaCg7Gwtzw)
+      - price too high to actual value
+    - [what is inflation - ted ed](https://www.youtube.com/watch?v=UMAELCrJxt0)
+      - 3 types:
+        - cost-push inflation <- when cost of raw material rise
+        - demand-pull inflation <- when people has much money to spend
+        - built-in inflation
+      - inflation is bad for saving
+      - keep inflation low -> good for long term planning
+- [The dirty secret of capitalism -- and a new way forward | Nick Hanauer](https://www.youtube.com/watch?v=th3KE_H27bs)
+- 26/4 -> i got angry at Dung, couldn't control the out burst emotion <- what the fuck
+
+  - lost your trust again
+    page 168
+
+- [statistics](statistics)
+- 5 exercise
+  1. Push ups
+  2. Squats
+  3. Planks
+  4. Glutes bridges
+  5. Burpees
+- introduction to probability and statistics metric edition book page 131
+- [draft](draft)
+- https://hbr.org/1964/07/decision-trees-for-decision-making
+  - In this article I shall present one recently developed concept called the “decision tree,” which has tremendous potential as a decision-making tool
+  - google: top decision making tool
 - where does money come from part 2 - the rest of us https://www.youtube.com/watch?v=jAg1YxW30Eg
   - value creation - money
   - debt - money
 - [changing world order Ray Dalio](https://www.youtube.com/watch?v=xguam0TKMw8)
 - [health](health)
-- [draft](draft)
-- [draft2](draft2) <- finish this, then ask for help for the draft3
-- [draft3](draft3)
 - https://wiki.python.org/moin/IntroductoryBooks
 - 歡迎光臨
 - good study resource
@@ -18,7 +46,6 @@
 - gdp?
 - living standard
 - mantain profit margin
-- [draft](draft)
 - [economy](economy)
 
 - [mcu](mcu)
