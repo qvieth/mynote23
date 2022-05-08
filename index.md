@@ -1,5 +1,19 @@
-## what to do next day
+# what to do next day
 
+- data science video
+  - youtube keyword: how to learn data science by kaggle
+  - How I Would Learn Data Science in 2022 (If I Had to Start Over) https://www.youtube.com/watch?v=xpIFS6jZbe8
+    - Do a project with a Generative Adversarial Neural Net
+- must read for trade practice and intenational marketing https://opentext.wsu.edu/cpim/chapter/7-1-international-entry-modes/
+- [draft](draft)
+- [mcu](mcu)
+- [teamwork](teamwork)
+- goods produced in the country soon become more expensive than similar goods produced abroad
+- [menstrual cycle](menstrual-cycle)
+- [draft trade practice](draft-trade-practice)
+- chesse - wine - 1 economy
+- chesse - chesseForeign - 2 economy -> 1 economy
+- page 58 - international economics
 - [IFM presentation](IFM-presentation)
   - What causes an economic recession? - Richard Coffin https://www.youtube.com/watch?v=SwaCg7Gwtzw
     - [how does the stock market work](https://www.youtube.com/watch?v=p7HKvqRI_Bo)
