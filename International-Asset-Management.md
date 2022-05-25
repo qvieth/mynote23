@@ -97,3 +97,16 @@ skip
 ## mar 30
 
 - posterior = likelihood \* prior
+
+## May 25
+
+### -> black-literman model
+https://www.youtube.com/watch?v=0Pq0VVHKBAE
+combine information from 2 sources to create an estimate of expected returns:
+- source 1: what does the current market tell us about expected returns? - implied excess equilibrium returns
+- source 2: what view does the investment manager have about particular stocks, sectors, asset classes, or countries?
+
+The BL model combines these different sources to produce estimates of expected returns
+
+
+

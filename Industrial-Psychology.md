@@ -1,5 +1,15 @@
 # Industrial Psychology
 
+## REST OF THE SEMESTER
+Weeks 11-13: Joe will summarize seminal research on our topics
+
+Weeks 14-16: Give a PPT presentation summarizing and discussing your research article
+
+Week 17: Give a PPT presentation on your research design
+
+Week 18: Submit your written research design via Turnitin
+---
+
 [IOPdraft](IOPdraft)
 
 - Textbook: Paul E. Spector, Industrial and Organizational Psychology: Research and Practice (6th Edition International Student Version).
@@ -122,3 +132,5 @@ company job:
   1.  content valildation
   2.  criterion validation
   3.  reliability check
+
+

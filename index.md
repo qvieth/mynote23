@@ -1,5 +1,21 @@
 # what to do next day
+- [research design](research-design)
+- phai chiu trach nhiem, khong duoc tre con, watch your emotion 
+- https://www.quora.com/What-is-the-simplest-explanation-of-Bayesian-statistics
+- investment made by investor to a country outside of their own
+- online game that teach data science https://analyticsindiamag.com/8-online-games-that-can-teach-kids-data-science-amid-this-lockdown/
+- [data sciencce](data-sciencce)
+- FOCUS current task
+        - look for syllubus/book name of asset management
+        - i'm losing concentration
 
+```python
+print("hello")
+if a > b:
+    pass
+```
+- tips to learn things faster https://www.youtube.com/watch?v=9rGweuLdook
+- good coursera ML course https://www.coursera.org/learn/machine-learning/home/week/1
 - data science video
   - youtube keyword: how to learn data science by kaggle
   - How I Would Learn Data Science in 2022 (If I Had to Start Over) https://www.youtube.com/watch?v=xpIFS6jZbe8

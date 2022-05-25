@@ -8,7 +8,6 @@
 | --  | -------- | -------- | -------------------------------------- | -------------------- | -------- | --------- | -------  |
 | 2   | 91302 　 | 99211 　 | International Trade Practices (E)      | Ming-Hsiang Chen     | Required | H404      | Tue:6,8  |
 | --  | -------- | -------- | -------------------------------------- | -------------------- | -------- | --------- | -------  |
-| 3   | 91353 　 | 99228 　 | International Financial Management (E) | Yao,Min Li           | Elective | D301      | Wed:2,4  |
 | 4   | 91357 　 | 99243 　 | International Asset Management (E)     | Yang-Min Shu         | Elective | H604      | Wed:5,7  |
 | --  | -------- | -------- | -------------------------------------- | -------------------- | -------- | --------- | -------  |
 | 5   | 91257 　 | 91137 　 | Industrial Psychology (E)              | Joseph Lavallee(Joe) | Elective | D301      | Thu:2,4  |
@@ -18,11 +17,14 @@
 | 7   | 91302 　 | 99236 　 | International Marketing (E)            | Pei-Ju Tung          | Elective | F202      | Fri:2,4  |
 | 8   | 91302 　 | 99236 　 | Operations Management (E)              | Iris Chang           | Required | B301      | Fri:6,8  |
 
-- [Integrated Marketing Communication](Integrated-Marketing-Communication) <- 04/19
-- [International Trade Practices](International-Trade-Practices) <- midterm 04/26.
-- [International Financial Management](International-Financial-Management) <- 04/18
-- [International Asset Management](International-Asset-Management)
-- [Industrial Psychology](Industrial-Psychology) <- 04/20
-- [Basic Madarin II](Basic-Madarin-II) <-
-- [International Marketing](International-Marketing) <- 04/20
-- [Operations Management](Operations-Management) <- postponed until 4/29
+- [ ] [Integrated Marketing Communication](Integrated-Marketing-Communication)
+- [ ] [International Trade Practices](International-Trade-Practices)
+- [X] [International Asset Management](International-Asset-Management)
+- [X] [Industrial Psychology](Industrial-Psychology)
+- [X] [Basic Madarin II](Basic-Madarin-II)
+- [ ] [International Marketing](International-Marketing)
+- [ ] [Operations Management](Operations-Management)
+
+
+| 3   | 91353 　 | 99228 　 | International Financial Management (E) | Yao,Min Li           | Elective | D301      | Wed:2,4  |
+- -> dropped [International Financial Management](International-Financial-Management) <- 04/18
