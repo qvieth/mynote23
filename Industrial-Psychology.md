@@ -1,14 +1,16 @@
 # Industrial Psychology
 
+- [research design](research-design)
+
 ## REST OF THE SEMESTER
+
 Weeks 11-13: Joe will summarize seminal research on our topics
 
 Weeks 14-16: Give a PPT presentation summarizing and discussing your research article
 
 Week 17: Give a PPT presentation on your research design
 
-Week 18: Submit your written research design via Turnitin
----
+## Week 18: Submit your written research design via Turnitin
 
 [IOPdraft](IOPdraft)
 
@@ -126,11 +128,67 @@ company job:
 - slide 9 : format for selecting employees -> skip validating
 
 ## April 7
+
 - reliability & validity: use a lot in your life time
 - not much error, consistency, replicateable
 - qc - check ppt slide:
   1.  content valildation
   2.  criterion validation
-  3.  reliability check
+  3.  reliability checkk
+
+## May 26
+
+Despite steady improvement in people perspective about equality, there are many studies show that there are still discrimination, the tendency in which people treat two qualified individuals differently based on their account of their gender, ethnicity, age, disability, religion, etc, in a conscious or unconcious way.
+
+Greenwald(1998) had Korean-American and Japanese-American labeling names whether they are pleasant or unpleasant, janese or korean, and japanese unpleaseant or korean pleasant. The result suggests that for the names associating with the subject, there is a delay in performance of labeling.
+
+Baert (2018) reviewed 90 studies, conducted between 2005 and 2016, which used identical job resumes, only use different identity of the applicant. The responses among the studies showed there is discrimination among countries about in many categories like ethnicity, age, gender,...
+
+Hall(2015) ask people to compare the salary and position of the same man based on two different description, Black and African-American. The result showed that people think "African-American man" had higher salary and position than the "black man"; this indicate there is steoreotypes towards black people.
+
+Galinsky(2015) had 3 groups describe a picture of an old person. Group 1 was given no further instruction, while group 2 was requested to suppress any biases they might have, and group 3 was told to think from the other persons perspective. Results showed that group 3, who took people's perspective into consideration, showed least stereotypes and most positive result, while the group 2 and group 1 show more steoreotype, and less positive result, in respective order.
+
+Put your summaries together into a mini literature review (or as an email to a boss or teacher, etc.). Summarize the challenges to diversity and suggest a solution. For extra points, outline a research design to test your idea.
+
+SEND TO ME ASAP. Best by 1300. I will accept them anytime by end of day today. Send to me via a private Teams chat message. (Cut and paste into the chatbox – no Word files!!)
 
 
+Greenwald(1998) had Korean-American and Japanese-American labeling names whether they are pleasant or unpleasant, janese or korean, and japanese unpleaseant or korean pleasant. The result suggests that for the names associating with the subject, there is a delay in performance of labeling.
+
+Baert (2018) also try to replicated discrimination researches in world scale in different forms: ethnicity, gender, age, sexual orientation, etc.
+
+Galinsky(2015) had 3 groups describe a picture of an old person. Group 1 was given no further instruction, while group 2 was requested to suppress any biases they might have, and group 3 was told to think from the other persons perspective. Results showed that group 3 showed least stereotypes and most positive result, while the group 2 and group 1 show more steoreotype, and less positive result, in repective order. This result suggest taking people perspective into consideration reduces the stereotypes a person have about them.
+
+These research was the evidence for what called discrimination is still exist: People, intentionally or unintentionally, show prejudice through treating people based on their grounds of race, age, sex, or disability. To combat this problem, company or people should influence or educate people about empathy, the ability of thinking in other's perspective, as it help reduce the stereotype people might have about other(Galinsky, 2015).
+
+Also another approach for dealing with this problem could be identifying what kind of stereotype, in what situation, will appear. By understand the why and how of discrimination in a thorough way, we will have a more specific way to prevent or reduce it from happen. We will design a study with this purpose in the scope of our Ming Chuan university.
+
+We start our research with the question: "What type of discrimination are there in Ming Chuan University?". 
+Also "when" are these discrimination happen.
+We will use mix-approach which is use quantitative and qualitative method: we will use survey methods as our data collection method, the method is quick and cost-effective which is suitable for our purpose of describing the characteristics of studied phenomenon. We ask question about whether the students feel discriminated by other student or teacher. What they think why it did happen, what do they want to happen,... The data gathered will be in text written form, also multiple choice question. Based on the result gathered, we will group or form what type of discrimination are there based on their different characteristics. Further investigation for understanding the why of the discovered discrimination types can later be develop by using the result of the last research, also experimental approach as it allow us to understand cause-and-effect relationship of the subject.
+
+Despite steady improvement in people perspective about equality, there are still many studies showing that there are discrimination, the tendency in which people treat two qualified individuals differently based on their account of their gender, ethnicity, age, disability, religion, etc, in a conscious or unconcious way, among people.
+
+
+
+Greenwald(1998) had Korean-American and Japanese-American labeling names whether they are pleasant or unpleasant, janese or korean, and japanese unpleaseant or korean pleasant. The result suggests that for the names associating with the subject, there is a delay in performance of labeling.
+
+
+
+Also, Baert (2018) reviewed 90 studies, conducted between 2005 and 2016, which used identical job resumes, only use different identity of the applicant. The responses among the studies showed there is discrimination among countries about in many categories like ethnicity, age, gender,...
+
+
+
+In addition, Hall(2015) ask people to compare the salary and position of the same man based on two different description, Black and African-American. The result showed that people think "African-American man" had higher salary and position than the "black man"; this indicate there is steoreotypes towards black people.
+
+
+
+Furthermore, Galinsky(2015) had 3 groups describe a picture of an old person. Group 1 was given no further instruction, while group 2 was requested to suppress any biases they might have, and group 3 was told to think from the other persons perspective. Results showed that group 3, who took people's perspective into consideration, showed least stereotypes and most positive result, while the group 2 and group 1 show more steoreotype, and less positive result, in respective order.
+
+These research was the evidence for what called discrimination is still exist: People, intentionally or unintentionally, show prejudice through treating people based on their grounds of race, age, sex, or disability. To combat this problem, company or people should influence or educate people about empathy, the ability of thinking in other's perspective, as it help reduce the stereotype people might have about other(Galinsky, 2015).
+
+Also another approach for dealing with this problem could be identifying what kind of stereotype, in what situation, will appear. By understand the why and how of discrimination in a thorough way, we will have a more specific way to prevent or reduce it from happen. We will design a study with this purpose in the scope of our Ming Chuan university.
+
+We start our research with the question: "What type of discrimination are there in Ming Chuan University?". 
+Also "when" are these discrimination happen.
+We will use mix-approach which is use quantitative and qualitative method: we will use survey methods as our data collection method, the method is quick and cost-effective which is suitable for our purpose of describing the characteristics of studied phenomenon. We ask question about whether the students feel discriminated by other student or teacher. What they think why it did happen, what do they want to happen,... The data gathered will be in text written form, also multiple choice question. Based on the result gathered, we will group or form what type of discrimination are there based on their different characteristics. Further investigation for understanding the why of the discovered discrimination types can later be develop by using the result of the last research, also experimental approach as it allow us to understand cause-and-effect relationship of the subject.

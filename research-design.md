@@ -37,3 +37,25 @@ how will you select a sample to collect data from
 
 - how will you reliably measure your variables
 - what step will you take in collecting and managing your data
+
+### step 6: your data analysis strategies
+
+- choosing statistical tests that match your variables
+- planning your approach to coding & interpreting the data
+
+---
+
+- https://www.youtube.com/watch?v=eJK1L6E1uFU
+  - adapted form merriam & tisdell(2016):
+    - quantitative:
+      - experimental research: divide people into groups and test which intervention works best on each
+      - survey: describe 'what is', and see how variables are diestributed across a phenomenon
+      - randomized controlled trials: large-scale tests with blind control groups unknown to research
+    - qualitative
+      - case study: a close observation and analysis of a small group or bounded situation
+      - ethnography: extended period of embedded observation and understanding in a social environment
+      - action research: reflective process of engaged, practical exploration of new ways to practice
+  - analysis evidence(telling a story)
+    - what happened? look through it to see what kind of story it tell
+      - qualitative: themes, narratives, ideas
+      - quantitaive: effects, patterns, outcomes

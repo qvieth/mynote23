@@ -43,3 +43,7 @@ wo jiu shuo bu shi wo shi 他
 # May 19
 
 - 對不起我不知道
+
+# May 26
+他告訴李文徳，美英無點半以後回來
+
