@@ -1,8 +1,19 @@
 # what to do next day
 
-- university \_
-- job
-- travel
+- market value https://www.investopedia.com/terms/m/marketvalue.asp
+
+  - Market value (also known as OMV, or "open market valuation")
+  - is the price an asset would fetch in the marketplace,
+  - or the value that the **investment community** gives to a particular equity or business
+  - is also commonly used to refer to the **market capitalization** of a publicly traded company
+  - calculated by multiplying the number of its outstanding shares by the current share price.
+
+- 3 things to focus:
+
+  - [research](research)
+  - [job](job)
+  - [photography](photography)
+
 - [thesis](thesis)
 - [research design](research-design)
 - phai chiu trach nhiem, khong duoc tre con, watch your emotion

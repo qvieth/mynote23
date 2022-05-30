@@ -192,3 +192,9 @@ Also another approach for dealing with this problem could be identifying what ki
 We start our research with the question: "What type of discrimination are there in Ming Chuan University?". 
 Also "when" are these discrimination happen.
 We will use mix-approach which is use quantitative and qualitative method: we will use survey methods as our data collection method, the method is quick and cost-effective which is suitable for our purpose of describing the characteristics of studied phenomenon. We ask question about whether the students feel discriminated by other student or teacher. What they think why it did happen, what do they want to happen,... The data gathered will be in text written form, also multiple choice question. Based on the result gathered, we will group or form what type of discrimination are there based on their different characteristics. Further investigation for understanding the why of the discovered discrimination types can later be develop by using the result of the last research, also experimental approach as it allow us to understand cause-and-effect relationship of the subject.
+
+
+## research design
+- page 14 SDT
+- consider the varied effects of different types of motivation on such relevant outcomes
+- a **central dimension** used within SDT to differentiate types of motivation is the autonomous-control continuum

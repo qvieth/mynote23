@@ -14,6 +14,13 @@
 
 
 ---
+- Examples of the questions to ask during your first meeting with a potential supervisor:
+    - How promising do you find my research topic? 
+    - Are there particular directions you think I should explore in developing a research question?
+    - How often do you like to meet with advisees?
+    - How many drafts are you willing to read? How many days do you require to read a draft?
+    - [ ] What is your preferred method of maintaining regular contact?
+    - [ ] Do you have any books or journal articles that you think I need to read before our next meeting?
 
 what is fintech
 
@@ -38,3 +45,7 @@ what can we solve
 
 - financial literacy
 - financial health
+
+- attend academic conference
+- sample : 
+  broader range, after some reserach, narrow down, present in our next meeting
