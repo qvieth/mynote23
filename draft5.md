@@ -4,9 +4,10 @@
 - and implementation
 
 ## industry
-overview: page 3
-auto industry was composed of two major segments: passenger cars and commercial
+- auto industry was composed of two major segments: passenger cars and commercial
 vehicles
+
+...read page 3 to add more
 
 
 ## internal & external analysis
