@@ -2,8 +2,6 @@
 
 - [research design](research-design)
 
-- [fintech](fintech)
-
 ---
 
 # UDEMY A-Z guide to writing a rockstar Research Paper with a bulletproof Research Methodology!

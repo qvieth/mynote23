@@ -1,4 +1,5 @@
 # thesis
+
 - create a graph, write words
 - literature review
 - big goals, mini goal
@@ -12,15 +13,15 @@
 - https://www.thoughtfulminds.org/top-100-finance-dissertation-topics-trending-in-the-year-2021/
 - accounting
 
-
 ---
+
 - Examples of the questions to ask during your first meeting with a potential supervisor:
-    - How promising do you find my research topic? 
-    - Are there particular directions you think I should explore in developing a research question?
-    - How often do you like to meet with advisees?
-    - How many drafts are you willing to read? How many days do you require to read a draft?
-    - [ ] What is your preferred method of maintaining regular contact?
-    - [ ] Do you have any books or journal articles that you think I need to read before our next meeting?
+  - How promising do you find my research topic?
+  - Are there particular directions you think I should explore in developing a research question?
+  - How often do you like to meet with advisees?
+  - How many drafts are you willing to read? How many days do you require to read a draft?
+  - [ ] What is your preferred method of maintaining regular contact?
+  - [ ] Do you have any books or journal articles that you think I need to read before our next meeting?
 
 what is fintech
 
@@ -31,15 +32,16 @@ what problem does it solve
 what can we solve
 
 - https://www.researchgate.net/publication/359056397_Fintech_and_Financial_Health_in_Vietnam_during_the_COVID-19_Pandemic_In-Depth_Descriptive_Analysis
-  - This study investigates ﬁnancial literacy, ﬁntech adoption, and the impact of the COVID-19 crisis on the ﬁnancial health of consumers in Vietnam
-  - are found to be signiﬁcantly correlated with ﬁntech adoption in Vietnam
+
+  - This study investigates financial literacy, fintech adoption, and the impact of the COVID-19 crisis on the financial health of consumers in Vietnam
+  - are found to be significantly correlated with fintech adoption in Vietnam
     - Perceived ease of use,
     - perceived usefulness,
     - trust, brand image,
     - government support,
     - user innovativeness,
     - and attitude
-  - while ﬁnancial literacy was found to be not signiﬁcantly correlated with ﬁntech adoption.
+  - while financial literacy was found to be not significantly correlated with fintech adoption.
   - financial literacy
   - fintech adoption
 
@@ -47,5 +49,10 @@ what can we solve
 - financial health
 
 - attend academic conference
-- sample : 
+- sample :
   broader range, after some reserach, narrow down, present in our next meeting
+
+## fintech
+
+- [youtube - More Recent Academic Fintech Research - Fintech and the New Financial Landscape](https://www.youtube.com/watch?v=vSrlD8OPLRI)
+- https://www.youtube.com/results?search_query=fintech+research
