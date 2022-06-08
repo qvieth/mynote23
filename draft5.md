@@ -16,47 +16,47 @@ Hypothetical Tengzhong SWOT Matrix
 
 |            | opportunity | threat |
 |------------|-------------|--------|
-|            | 1           | 2      |
-| strength   | *3          | *4     |
-| weaknesses | 5           | 6      |
+|            | a           | b      |
+| strength   | c           | d      |
+| weaknesses | e           | f      |
 
-- 1. central government policies benefits domestic manufacturers increasing economies of scale and global competitivenes
+- a. central government policies benefits domestic manufacturers increasing economies of scale and global competitivenes
   - set up a manufacturing base in China to cater to the local market
   - China's infrastructure of roads and buildings have been improving
   - special-use vehicles division manufactured heavy-duty of tengzhong vehicles used in construction, mining, oil and gas industry, and garbage disposal.
-- 2. competition from emerging & foreign automaker who focused on fuel efficient and sedans
-- 3. rapid growth in China benefit tengzhong 5 product division.
-- 4. Chinese government provide policies supporting their dosmestic company
-- 5. management team spoke little english
-- 6. no prior experience in the light vehicle industry or in managing a major auto brand
+- b. competition from emerging & foreign automaker who focused on fuel efficient and sedans
+- c. rapid growth in China benefit tengzhong 5 product division.
+- d. Chinese government provide policies supporting their dosmestic company
+- e. management team spoke little english
+- f. no prior experience in the light vehicle industry or in managing a major auto brand
 
 Hypothetical GM's Hummer SWOT Matrix
-  - Hummer was primarily a US-focused brand of rugged SUVs and SUTs
 
 |            | opportunity | threat |
 |------------|-------------|--------|
-|            | 1           | 2      |
-| strength   | 3           | 4      |
-| weaknesses | 5           | 6      |
-- 1. opportunity for Hummer in China: 
+|            | a           | b      |
+| strength   | c           | d      |
+| weaknesses | e           | f      |
+
+- a. opportunity for Hummer in China: 
   - China's infrastructure of roads and buildings have been improving lately
   - China had been building its infrastructure of roads and buildings at an unprecedented rate
-- 2. competition from new & foreign automaker
+- b. competition from new & foreign automaker
   - demand is limited in china due to premium pricing and taxes of 100% from chinese government imposed on foreign-produce-vehicles
   - model size differcult to get through narrow and congested roads
   - government polices were not favourable to Hummer
   - Attack by Environmentalists
   - Oil Spike
-- 3. as china's road improving, SUVs model size becoming suitable
-- 4. Hummer is an American iconic brand
+- c. as china's road improving, SUVs model size becoming suitable
+- d. Hummer is an American iconic brand
   - primarily a US-focused brand of rugged SUVs and SUTs,
-- 6. Hummer's parent company long car-development lead times
+- e. struggling financial situation
+- f. Hummer's parent company long car-development lead times
     - slow in responding to customers’ changing preferences for more fuel-efficient cars,
   - low brand differentiation among parent's company core products
   - high salary cost, low work productivity
   - customer lifestyle changes
   - increasing oil prices and tightening government regulations on car emissions prompted rapid growth in compact and subcompact sedans at the expense of larger vehicles, including crossover SUV
-  - The government's supporting for hybrid or fully electric cars and buses
 
 - Meanwhile, China, with 1.3 billion people
 and a booming economy, had experienced strong growth in sales of light vehicles since 2001.
