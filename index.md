@@ -1,5 +1,20 @@
 # what to do next day
 
+- https://letschinese.com/chinese-version-of-youtube/
+- baidu, youku
+- only you can know what something is good or bad for you
+- you must have a good sense of right and wrong
+
+- Tonin, M., & Hasso Poulos, M. (solo) asked 3 groups of 71 undergraduates students to enter basic data in 2 sessions without surveillance,
+  first session without charitable donation introduction. The result show that warm glow motivation is the factor behind workers’ pro-social behavior and it is displayed by woman not man.
+
+- linking words/ transition for presentation <- google more for this
+  - https://www.londonschool.com/blog/30-useful-phrases-presentations-english/
+  - https://www.linkedin.com/pulse/52-phrases-better-flowing-english-presentations-steven-hobson
+  - https://emedia.rmit.edu.au/learninglab/sites/default/files/Oral_presentations_signalling_2014_Accessible.pdf
+  - https://virtualspeech.com/blog/speech-transitions-words-phrases
+- Finding 3: results in be treatments are significantly prove the existance of behavioral models of time preferences (Federick et al., 2002), social preferences, reference dependence, 3 corner stones of behavioral economics(Rabin, 1998, Della Vigna 2009; Koszegi 2014)
+
 - ## yangmingshan planning:
 
 - planning stage
@@ -7,11 +22,11 @@
 - and implementation
 
 Hypothetical Tengzhong SWOT Matrix
-|            | opportunity | threat |
+| | opportunity | threat |
 |------------|-------------|--------|
-|            | 1           | 2      |
-| strength   | \*3         | *4     |
-| weaknesses | 5           | 6      |
+| | 1 | 2 |
+| strength | \*3 | \*4 |
+| weaknesses | 5 | 6 |
 
 - 1. central government policies benefits domestic manufacturers increasing economies of scale and global competitivenes
   - set up a manufacturing base in China to cater to the local market
@@ -23,14 +38,16 @@ Hypothetical Tengzhong SWOT Matrix
 - 6. no prior experience in the light vehicle industry or in managing a major auto brand
 
 Hypothetical GM's Hummer SWOT Matrix
-  - Hummer was primarily a US-focused brand of rugged SUVs and SUTs
+
+- Hummer was primarily a US-focused brand of rugged SUVs and SUTs
 
 |            | opportunity | threat |
-|------------|-------------|--------|
+| ---------- | ----------- | ------ |
 |            | 1           | 2      |
 | strength   | 3           | 4      |
 | weaknesses | 5           | 6      |
-- 1. opportunity for Hummer in China: 
+
+- 1. opportunity for Hummer in China:
   - China's infrastructure of roads and buildings have been improving lately
   - China had been building its infrastructure of roads and buildings at an unprecedented rate
 - 2. competition from new & foreign automaker
@@ -43,7 +60,8 @@ Hypothetical GM's Hummer SWOT Matrix
 - 4. Hummer is an American iconic brand
   - primarily a US-focused brand of rugged SUVs and SUTs,
 - 6. Hummer's parent company long car-development lead times
-    - slow in responding to customers’ changing preferences for more fuel-efficient cars,
+
+  - slow in responding to customers’ changing preferences for more fuel-efficient cars,
   - low brand differentiation among parent's company core products
   - high salary cost, low work productivity
   - customer lifestyle changes
@@ -51,13 +69,14 @@ Hypothetical GM's Hummer SWOT Matrix
   - The government's supporting for hybrid or fully electric cars and buses
 
 - Meanwhile, China, with 1.3 billion people
-and a booming economy, had experienced strong growth in sales of light vehicles since 2001.
+  and a booming economy, had experienced strong growth in sales of light vehicles since 2001.
 - highly fragmented auto industry with manufacturers of all sizes auto
 - New entrants were discouraged from entering the industry due to government control in issuing new vehicle-production licences, though a company could get around this by buying a small auto manufacturer that already had a valid licence. Therefore Tengzhong acquiring Hummer could be a strategy to get around the government discouragement.
 
 - objective:
   - transform Hummer from a US-focused brand into a global icon and expand its presence in China.
-  - 
+  -
+
 ---
 
 - everytime read something you must have a at-the-time purpose: for first time reading textbook: to navigate, to know what's there; reading tengzhong acquire Hummer case study - to find information to fill in SWOT matrix
