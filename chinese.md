@@ -1,5 +1,5 @@
 # Chinese
-
+- [hackingchinese](hackingchinese)
 - study grammar and grammar important words, then watch videos to learn vocab
 - textbook:
   - [Practical Audio Visual Chinese 1](Practical-Audio-Visual-Chinese-1)

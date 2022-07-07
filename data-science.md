@@ -1,5 +1,7 @@
-# data sciencce
-
+# data science
+- OLS: a method for estimating the regression line
+- get some certificate: GMAT Quant
+- write CV course
 - [research](research)
 - currently https://gft.udemy.com/course/chatbot/learn/lecture/8778732#overview
 - https://www.tfcertification.com/pages/deep-learning-chatbot

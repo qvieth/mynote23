@@ -134,3 +134,38 @@
 
 - crisis management -> research on what is this -> how to do it systematically
 - framework for crisis management
+- x
+
+## FINAL
+about the promotion mix
+
+So in Louissa's promotion mix there will be advertising, sale promotion, direct marketing, personal selling, and PR. 
+
+[NEXT SLIDE PLEASE]
+# 8.1 Advertising
+
+Louissa connect with customer through social media like Facebook, instagram or tiktok by having its own channel, also through email to reach their customer and inform about their offer or promotion
+
+
+The forms of advertising will banner ads in front of physical coffee shop or on the online channels
+[NEXT SLIDE PLEASE]
+
+# 8.2 Sale Promotion
+offer promotion during seasons, special events like customer’s birthday. also it has a loyalty program by using card or app, the customer can receive points for each of their purchase later, and later they can use the point to receive reward or coupon.
+
+[NEXT SLIDE PLEASE]
+# 8.3 Direct marketing
+on direct marketing, it will use email, web or apps to reach the customer 
+
+[NEXT SLIDE PLEASE]
+# 8.4 PR
+We increase sales through nonpaid media coverage and enhance the company's image.
+Louissa create a positive brand image by showing that they care about environment, they remove plastic by using paper straw and paper cup.
+The company will use the earned media to showcase its recycling program to the public and important stakeholders.
+Also , Louissa will distribute press releases for every new product or announcement and archived on the site
+
+[NEXT SLIDE PLEASE]
+# 8.5 Personal selling
+Personal selling uses in-person interaction to sell products and services. So, Louisa will ultilize its baristas or cashiers interact with their customer directly to sell its products
+
+When new customers are going to the store and unsure what to drink. The baristas or cashiers can make suggestions based on the feedback from the customers, also show that they care about the customer. for this strategy to be effective, there must be a training program for customer interaction for each of the cashiers and baristas employees.

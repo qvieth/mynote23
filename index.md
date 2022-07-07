@@ -1,109 +1,80 @@
 # what to do next day
+- do not react to people's mistake with emotion you will create another mistake
+- skim textbook on dialogue & vocab part
+- a course in contempary chiense 6 volume -> audio https://mtc.ntnu.edu.tw/eng/book/A_Course_in_Contemporary_Chinese.html
+- chinese study plan:
+  - study reading on website + 2 book in calibre
+  - for every hard to learn vocab -> Remember Hanzi book
+- classify, categorize, organize : discrete bits -> larger blocks
+- https://screencraft.org/blog/plot-vs-story-whats-the-difference/
+  - i need to study screen writing 
+- stop at lesson 25
+- [data science](data-science)
+- 
+- in IPO: Companies hire investment banks to market, gauge demand, set the IPO price and date, and more.
+- Overpricing is much worse than underpricing. A stock that closes its first day below its IPO price will be labeled a failure
+- adds to literature on the short-run performance of IPO firms
+- short run performance
+- selection bias -> matched sample through propensity score method -> treatment effect model using inverse Mills ratio
+  - two explaination: high uncertainty + grandstanding hypothesis
+- explore the result of the above study by: exploring changes in governance structure: composition and characteristics of board
+- Include analysis on underpricing of Fintech during direct listings or Special Purpose Acquisition Companies(SPACS)
+- 
+- Short run: Quantity of labor is variable but the quantity of capital and production processes are fixed (i.e. taken as a given).
+- Long run: Quantity of labor, the quantity of capital, and production processes are all variable (i.e. changeable).
+- 
+  - unconditional love
+  - work on yourself
+- [chinese](chinese) 
+- https://mychinesereading.com/
+- https://www.hackingchinese.com/10-best-free-chinese-reading-resources-beginner-intermediate-advanced/
+- Important -> put into principles
+  - Critical incident technique:-> IOP3 -> use to define variables -> very good
+  - Critical incident technique:-> IOP3 -> use to define variables -> very good
+  - Critical incident technique:-> IOP3 -> use to define variables -> very good
+- Critical incident technique:-> IOP3 -> use to define variables -> very good
 
+that IOP lesson about criteria -> already forget, look back the old PPT
+IOP
+- research
+  - have big question then **narrow it down by doing literature review-**
+
+
+research question: do different goal setting leads to/correlate with different work job related well-being(workaholism, work engagement and burnout)
+- cIV: differnt kinds of setting goals(this need to clarified by reading some literature review to see if some one has define it)
+- cDV: workaholism, work engagement, burnout
+
+literature review part will include:
+- Workaholism, work engagement, and burnout are three different kinds of
+job-related well-being (Schaufeli et al., 2008) 
+- Three major contributors to the study of goals and motivation from the field of social cognition are introduced and their work summarized. They include: (i) Deci and Ryan's Self-Determination Model; (ii) Emmons' work on goals and personal strivings, and (iii) Karniol and Ross' discussion of temporal influences on goal-setting.
+- -> currently i need to read these work to see how goal setting are defined... -> i'm planning to add these works to my literature review
+
+method: i have found that structural equation model would help me to solve this question as it:"measure and analyze the relationships of observed and latent variables", but i'm not sure how to exactly do it yet
+
+- my idea is based on the work by Ilona van Beek* :"For Fun, Love, or Money: What Drives Workaholic, Engaged, and Burned-Out Employees at Work?", the author research tried to link how differnt kinds of motivation(defined by Ryan and Deci, 4 kinds of motivation ranged from autonomy to controlled spectrum) linked with diffferent kind of job related well-being
+
+
+
+- Locke and Latham provide a well-developed goal-setting theory of motivation. The theory emphasizes the important relationship between goals and performance.
+- Research supports predictions that the most effective performance seems to result when goals are specific and challenging, when they are used to evaluate performance and linked to feedback on results, and create commitment and acceptance
+- 
 - https://letschinese.com/chinese-version-of-youtube/
 - baidu, youku
 - only you can know what something is good or bad for you
 - you must have a good sense of right and wrong
-
-- Tonin, M., & Hasso Poulos, M. (solo) asked 3 groups of 71 undergraduates students to enter basic data in 2 sessions without surveillance,
-  first session without charitable donation introduction. The result show that warm glow motivation is the factor behind workers’ pro-social behavior and it is displayed by woman not man.
 
 - linking words/ transition for presentation <- google more for this
   - https://www.londonschool.com/blog/30-useful-phrases-presentations-english/
   - https://www.linkedin.com/pulse/52-phrases-better-flowing-english-presentations-steven-hobson
   - https://emedia.rmit.edu.au/learninglab/sites/default/files/Oral_presentations_signalling_2014_Accessible.pdf
   - https://virtualspeech.com/blog/speech-transitions-words-phrases
-- Finding 3: results in be treatments are significantly prove the existance of behavioral models of time preferences (Federick et al., 2002), social preferences, reference dependence, 3 corner stones of behavioral economics(Rabin, 1998, Della Vigna 2009; Koszegi 2014)
-
-- ## yangmingshan planning:
-
-- planning stage
-  - development of business and acquisition plans
-- and implementation
-
-Hypothetical Tengzhong SWOT Matrix
-| | opportunity | threat |
-|------------|-------------|--------|
-| | 1 | 2 |
-| strength | \*3 | \*4 |
-| weaknesses | 5 | 6 |
-
-- 1. central government policies benefits domestic manufacturers increasing economies of scale and global competitivenes
-  - set up a manufacturing base in China to cater to the local market
-  - China's infrastructure of roads and buildings have been improving
-  - special-use vehicles division manufactured heavy-duty of tengzhong vehicles used in construction, mining, oil and gas industry, and garbage disposal.
-  - rapid growth in China benefit tengzhong all division.
-- 2. competition from emerging & foreign automaker who focused on fuel efficient and sedans
-- 5. management team spoke little english
-- 6. no prior experience in the light vehicle industry or in managing a major auto brand
-
-Hypothetical GM's Hummer SWOT Matrix
-
-- Hummer was primarily a US-focused brand of rugged SUVs and SUTs
-
-|            | opportunity | threat |
-| ---------- | ----------- | ------ |
-|            | 1           | 2      |
-| strength   | 3           | 4      |
-| weaknesses | 5           | 6      |
-
-- 1. opportunity for Hummer in China:
-  - China's infrastructure of roads and buildings have been improving lately
-  - China had been building its infrastructure of roads and buildings at an unprecedented rate
-- 2. competition from new & foreign automaker
-  - demand is limited in china due to premium pricing and taxes of 100% from chinese government imposed on foreign-produce-vehicles
-  - model size differcult to get through narrow and congested roads
-  - government polices were not favourable to Hummer
-  - Attack by Environmentalists
-  - Oil Spike
-- 3. as china's road improving, SUVs model size becoming suitable
-- 4. Hummer is an American iconic brand
-  - primarily a US-focused brand of rugged SUVs and SUTs,
-- 6. Hummer's parent company long car-development lead times
-
-  - slow in responding to customers’ changing preferences for more fuel-efficient cars,
-  - low brand differentiation among parent's company core products
-  - high salary cost, low work productivity
-  - customer lifestyle changes
-  - increasing oil prices and tightening government regulations on car emissions prompted rapid growth in compact and subcompact sedans at the expense of larger vehicles, including crossover SUV
-  - The government's supporting for hybrid or fully electric cars and buses
-
-- Meanwhile, China, with 1.3 billion people
-  and a booming economy, had experienced strong growth in sales of light vehicles since 2001.
-- highly fragmented auto industry with manufacturers of all sizes auto
-- New entrants were discouraged from entering the industry due to government control in issuing new vehicle-production licences, though a company could get around this by buying a small auto manufacturer that already had a valid licence. Therefore Tengzhong acquiring Hummer could be a strategy to get around the government discouragement.
-
-- objective:
-  - transform Hummer from a US-focused brand into a global icon and expand its presence in China.
-  -
-
----
 
 - everytime read something you must have a at-the-time purpose: for first time reading textbook: to navigate, to know what's there; reading tengzhong acquire Hummer case study - to find information to fill in SWOT matrix
-- next week: Final exam on TEAM : trade-practice
-- [What Is A Promotional Mix And Integrated Marketing Communications](https://www.youtube.com/watch?v=sJVf5S3FDdw)
-  - 5 tools:
-    1. advertising
-    2. personal selling
-    3. sale promotion
-    4. PR
-    5. direct marketing
-    - combination of 1 of these tools is called **promotional mix**:
-      - 3 main goals:
-        - inform prospective buyer
-        - persuade them to try
-        - remind them of the benefits
-- [chinese](chinese)
-- market value https://www.investopedia.com/terms/m/marketvalue.asp
 
-  - Market value (also known as OMV, or "open market valuation")
-  - is the price an asset would fetch in the marketplace,
-  - or the value that the **investment community** gives to a particular equity or business
-  - is also commonly used to refer to the **market capitalization** of a publicly traded company
-  - calculated by multiplying the number of its outstanding shares by the current share price.
+- [chinese](chinese)
 
 - 3 things to focus:
-
   - [research](research) -> iop, thesis, data science job
     - [thesis](thesis)
   - [job](job)
@@ -113,8 +84,7 @@ Hypothetical GM's Hummer SWOT Matrix
 - phai chiu trach nhiem, khong duoc tre con, watch your emotion
 - https://www.quora.com/What-is-the-simplest-explanation-of-Bayesian-statistics
 - investment made by investor to a country outside of their own
-- online game that teach data science https://analyticsindiamag.com/8-online-games-that-can-teach-kids-data-science-amid-this-lockdown/
-- [data sciencce](data-sciencce)
+- [data sciencce](data-science)
 - FOCUS current task - look for syllubus/book name of asset management - i'm losing concentration
 
 ```python
@@ -123,7 +93,6 @@ if a > b:
     pass
 ```
 
-- tips to learn things faster https://www.youtube.com/watch?v=9rGweuLdook
 - good coursera ML course https://www.coursera.org/learn/machine-learning/home/week/1
 - data science video
   - youtube keyword: how to learn data science by kaggle

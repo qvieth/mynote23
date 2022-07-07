@@ -198,3 +198,18 @@ We will use mix-approach which is use quantitative and qualitative method: we wi
 - page 14 SDT
 - consider the varied effects of different types of motivation on such relevant outcomes
 - a **central dimension** used within SDT to differentiate types of motivation is the autonomous-control continuum
+
+## goal setting - job related well-being
+
+literature review part will include:
+- Workaholism, work engagement, and burnout are three different kinds of
+job-related well-being (Schaufeli et al., 2008) 
+- Three major contributors to the study of goals and motivation from the field of social cognition are introduced and their work summarized. They include: (i) Deci and Ryan's Self-Determination Model; (ii) Emmons' work on goals and personal strivings, and (iii) Karniol and Ross' discussion of temporal influences on goal-setting.
+- -> currently i need to read these work to see how goal setting are defined... -> i'm planning to add these works to my literature review
+
+- PROF JOE
+  - I guess you could have different groups use different goal setting techniques
+  - randomly assign them to different groups based on the goal setting technique they are instructed to use try to verify that they really use the goal setting technique
+  - monitor them through some period of time
+  - try to verify that they really use the goal setting technique
+  - then measure the outcome variables

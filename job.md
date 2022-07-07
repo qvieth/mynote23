@@ -1,6 +1,6 @@
 # job
 
-- [data sciencce](data-sciencce)
+- [data science](data-science)
   - [research](research)
   - [research design](research-design)
 - [ ] linked in
