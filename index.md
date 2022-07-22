@@ -1,4 +1,11 @@
 # what to do next day
+- jobfair
+- [part time](part-time)
+- 
+- [mcu](mcu)
+- [graduation](graduation)
+- [supply chain](supply-chain)
+- [econometrics](econometrics) 
 - do not react to people's mistake with emotion you will create another mistake
 - skim textbook on dialogue & vocab part
 - a course in contempary chiense 6 volume -> audio https://mtc.ntnu.edu.tw/eng/book/A_Course_in_Contemporary_Chinese.html
