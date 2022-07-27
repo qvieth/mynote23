@@ -1,4 +1,6 @@
 # what to do next day
+- internship in a tech company - as programmer
+[japanese](japanese)
 - jobfair
 - [part time](part-time)
 - 
