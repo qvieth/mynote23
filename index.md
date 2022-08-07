@@ -1,9 +1,22 @@
 # what to do next day
+- [job](job)
+- cake
+  - https://lescargots.eatingout.com.tw/
+  - https://www.beape.com.tw/beape/zh/booking.html
+  - http://www.paultaiwan.com/%e7%94%9c%e9%bb%9e/%e7%b9%bd%e7%b4%9b%e5%a4%8f%e6%b4%9b%e7%89%b9%e6%95%b4%e4%bb%bd/
+  - https://paps-restaurant-brasserie.business.site/?utm_source=gmb&utm_medium=referral
+  - [法式派翠克餐廳](https://www.google.com/search?q=%E6%B0%A3%E6%B0%9B%E7%86%B1%E9%AC%A7%E7%9A%84%E6%B3%95%E5%9C%8B%E9%A4%90%E5%BB%B3&biw=1229&bih=541&tbm=lcl&sxsrf=ALiCzsaQua9DePIoFVC8gL-8x3j9TII_Jw%3A1659344784331&ei=kJfnYt7qE5Le2roP64SO8AY&oq=%E6%B0%A3%E6%B0%9B%E7%86%B1%E9%AC%A7%E7%9A%84%E6%B3%95%E5%9C%8B%E9%A4%90%E5%BB%B3&gs_l=psy-ab.3..0i546k1l2.104757.105185.0.105495.4.3.1.0.0.0.85.250.3.3.0....0...1c.1j4.64.psy-ab..2.2.87....0.rV-o9q8LG4k#rlfi=hd:;si:17086846140786157105,l,ChvmsKPmsJvnhrHprKfnmoTms5XlnIvppJDlu7MiKlIoL2dlby90eXBlL2VzdGFibGlzaG1lbnRfcG9pL2ZlZWxzX2xpdmVseUiIv-LT5YCAgAhaNRAAEAEQAhADEAQYAxgEIh_msKPmsJsg54ax6aynIOeahCDms5XlnIsg6aSQ5buzKgQIAxAEkgERZnJlbmNoX3Jlc3RhdXJhbnSaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUkhlWE5mTTE5UlJSQUKqAScQASojIh_msKPmsJsg54ax6aynIOeahCDms5XlnIsg6aSQ5buzKEU,y,RQyBf0SqBk0;mv:[[25.127560499999998,121.57112509999999],[25.016479,121.50568740000001]])
+
+    - https://www.patrick-atelier.com/order.php?page=1&msg=errRealtime
+    - Tel: (02)2707-9586
+  - 
+- dingwei france res
 - internship in a tech company - as programmer
-[japanese](japanese)
+[japanese](japanese) 
 - jobfair
 - [part time](part-time)
-- 
+ 
+- thang 9 sn a Vinh, 12 Hieu, 3 Thuy Anh, 20/4 a Huy, 
 - [mcu](mcu)
 - [graduation](graduation)
 - [supply chain](supply-chain)
