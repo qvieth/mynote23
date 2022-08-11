@@ -1,26 +1,31 @@
 # what to do next day
-- [job](job)
-- cake
-  - https://lescargots.eatingout.com.tw/
-  - https://www.beape.com.tw/beape/zh/booking.html
-  - http://www.paultaiwan.com/%e7%94%9c%e9%bb%9e/%e7%b9%bd%e7%b4%9b%e5%a4%8f%e6%b4%9b%e7%89%b9%e6%95%b4%e4%bb%bd/
-  - https://paps-restaurant-brasserie.business.site/?utm_source=gmb&utm_medium=referral
-  - [法式派翠克餐廳](https://www.google.com/search?q=%E6%B0%A3%E6%B0%9B%E7%86%B1%E9%AC%A7%E7%9A%84%E6%B3%95%E5%9C%8B%E9%A4%90%E5%BB%B3&biw=1229&bih=541&tbm=lcl&sxsrf=ALiCzsaQua9DePIoFVC8gL-8x3j9TII_Jw%3A1659344784331&ei=kJfnYt7qE5Le2roP64SO8AY&oq=%E6%B0%A3%E6%B0%9B%E7%86%B1%E9%AC%A7%E7%9A%84%E6%B3%95%E5%9C%8B%E9%A4%90%E5%BB%B3&gs_l=psy-ab.3..0i546k1l2.104757.105185.0.105495.4.3.1.0.0.0.85.250.3.3.0....0...1c.1j4.64.psy-ab..2.2.87....0.rV-o9q8LG4k#rlfi=hd:;si:17086846140786157105,l,ChvmsKPmsJvnhrHprKfnmoTms5XlnIvppJDlu7MiKlIoL2dlby90eXBlL2VzdGFibGlzaG1lbnRfcG9pL2ZlZWxzX2xpdmVseUiIv-LT5YCAgAhaNRAAEAEQAhADEAQYAxgEIh_msKPmsJsg54ax6aynIOeahCDms5XlnIsg6aSQ5buzKgQIAxAEkgERZnJlbmNoX3Jlc3RhdXJhbnSaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUkhlWE5mTTE5UlJSQUKqAScQASojIh_msKPmsJsg54ax6aynIOeahCDms5XlnIsg6aSQ5buzKEU,y,RQyBf0SqBk0;mv:[[25.127560499999998,121.57112509999999],[25.016479,121.50568740000001]])
 
-    - https://www.patrick-atelier.com/order.php?page=1&msg=errRealtime
-    - Tel: (02)2707-9586
-  - 
-- dingwei france res
+- [8 must know arrays method](https://www.youtube.com/watch?v=R8rmfD9Y5-c&t=4s)
+- https://www.youtube.com/watch?v=vYquumk4nWw&t=58s
+  [leetcode](leetcode)
+
+```
+      ▲
+ number
+of    │
+steps │
+      ├───────────►
+        elements
+```
+
+- [binary tree](binary-tree)
+- [job](job)
 - internship in a tech company - as programmer
-[japanese](japanese) 
+  [japanese](japanese)
 - jobfair
 - [part time](part-time)
- 
-- thang 9 sn a Vinh, 12 Hieu, 3 Thuy Anh, 20/4 a Huy, 
+
+- Tai 6, Khuong 10
+- thang 9 sn a Vinh, 12 Hieu, 3 Thuy Anh, 20/4 a Huy,
 - [mcu](mcu)
 - [graduation](graduation)
 - [supply chain](supply-chain)
-- [econometrics](econometrics) 
+- [econometrics](econometrics)
 - do not react to people's mistake with emotion you will create another mistake
 - skim textbook on dialogue & vocab part
 - a course in contempary chiense 6 volume -> audio https://mtc.ntnu.edu.tw/eng/book/A_Course_in_Contemporary_Chinese.html
@@ -29,10 +34,10 @@
   - for every hard to learn vocab -> Remember Hanzi book
 - classify, categorize, organize : discrete bits -> larger blocks
 - https://screencraft.org/blog/plot-vs-story-whats-the-difference/
-  - i need to study screen writing 
+  - i need to study screen writing
 - stop at lesson 25
 - [data science](data-science)
-- 
+-
 - in IPO: Companies hire investment banks to market, gauge demand, set the IPO price and date, and more.
 - Overpricing is much worse than underpricing. A stock that closes its first day below its IPO price will be labeled a failure
 - adds to literature on the short-run performance of IPO firms
@@ -41,13 +46,12 @@
   - two explaination: high uncertainty + grandstanding hypothesis
 - explore the result of the above study by: exploring changes in governance structure: composition and characteristics of board
 - Include analysis on underpricing of Fintech during direct listings or Special Purpose Acquisition Companies(SPACS)
-- 
+-
 - Short run: Quantity of labor is variable but the quantity of capital and production processes are fixed (i.e. taken as a given).
 - Long run: Quantity of labor, the quantity of capital, and production processes are all variable (i.e. changeable).
-- 
-  - unconditional love
+- - unconditional love
   - work on yourself
-- [chinese](chinese) 
+- [chinese](chinese)
 - https://mychinesereading.com/
 - https://www.hackingchinese.com/10-best-free-chinese-reading-resources-beginner-intermediate-advanced/
 - Important -> put into principles
@@ -58,35 +62,36 @@
 
 that IOP lesson about criteria -> already forget, look back the old PPT
 IOP
+
 - research
   - have big question then **narrow it down by doing literature review-**
 
-
 research question: do different goal setting leads to/correlate with different work job related well-being(workaholism, work engagement and burnout)
+
 - cIV: differnt kinds of setting goals(this need to clarified by reading some literature review to see if some one has define it)
 - cDV: workaholism, work engagement, burnout
 
 literature review part will include:
+
 - Workaholism, work engagement, and burnout are three different kinds of
-job-related well-being (Schaufeli et al., 2008) 
+  job-related well-being (Schaufeli et al., 2008)
 - Three major contributors to the study of goals and motivation from the field of social cognition are introduced and their work summarized. They include: (i) Deci and Ryan's Self-Determination Model; (ii) Emmons' work on goals and personal strivings, and (iii) Karniol and Ross' discussion of temporal influences on goal-setting.
 - -> currently i need to read these work to see how goal setting are defined... -> i'm planning to add these works to my literature review
 
 method: i have found that structural equation model would help me to solve this question as it:"measure and analyze the relationships of observed and latent variables", but i'm not sure how to exactly do it yet
 
-- my idea is based on the work by Ilona van Beek* :"For Fun, Love, or Money: What Drives Workaholic, Engaged, and Burned-Out Employees at Work?", the author research tried to link how differnt kinds of motivation(defined by Ryan and Deci, 4 kinds of motivation ranged from autonomy to controlled spectrum) linked with diffferent kind of job related well-being
-
-
+- my idea is based on the work by Ilona van Beek\* :"For Fun, Love, or Money: What Drives Workaholic, Engaged, and Burned-Out Employees at Work?", the author research tried to link how differnt kinds of motivation(defined by Ryan and Deci, 4 kinds of motivation ranged from autonomy to controlled spectrum) linked with diffferent kind of job related well-being
 
 - Locke and Latham provide a well-developed goal-setting theory of motivation. The theory emphasizes the important relationship between goals and performance.
 - Research supports predictions that the most effective performance seems to result when goals are specific and challenging, when they are used to evaluate performance and linked to feedback on results, and create commitment and acceptance
-- 
+-
 - https://letschinese.com/chinese-version-of-youtube/
 - baidu, youku
 - only you can know what something is good or bad for you
 - you must have a good sense of right and wrong
 
 - linking words/ transition for presentation <- google more for this
+
   - https://www.londonschool.com/blog/30-useful-phrases-presentations-english/
   - https://www.linkedin.com/pulse/52-phrases-better-flowing-english-presentations-steven-hobson
   - https://emedia.rmit.edu.au/learninglab/sites/default/files/Oral_presentations_signalling_2014_Accessible.pdf
@@ -97,6 +102,7 @@ method: i have found that structural equation model would help me to solve this 
 - [chinese](chinese)
 
 - 3 things to focus:
+
   - [research](research) -> iop, thesis, data science job
     - [thesis](thesis)
   - [job](job)
