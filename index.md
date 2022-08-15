@@ -1,5 +1,7 @@
 # what to do next day
 
+- https://www.artezio.com/pressroom/blog/can-digitalization-traffic-management-systems-solve-traffic-congestion-problem/
+  - good article mentioned packaged software, Iot, train AI, smart city -> read again near interview
 - Congestion comes from an inefficient use of a limited resource: public space in this case
 - question for tomtom:
   - do you treat this intership as an extended interview or what qualities the intern should have to receive the return offer
