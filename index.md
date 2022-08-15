@@ -1,8 +1,57 @@
 # what to do next day
 
+- Congestion comes from an inefficient use of a limited resource: public space in this case
+- question for tomtom:
+  - do you treat this intership as an extended interview or what qualities the intern should have to receive the return offer
+  - do you have any concerns about me or my qualification that may prevent you from selecting me from the job
+  - how would you describe your communication style with your staff
+  -
+  - what excite you about working in navigation technology
+  - tomtom believes in the strength of diversity and will
+- safer roads, free from congestion and emissions.
+- mitac, here, garmin,
+- solve what matters
+- tomtom
+  - automotive
+    - The firm's automotive segment sells location technology components to carmakers.
+    - enterprise: sell to tech companies, government bodies, traffic management entities
+  - consume: sell portable, personal satellit navigation devices
+- [fibonacci](https://www.youtube.com/watch?v=dDokMfPpfu4)
+- PRD,DTDM
+- linked list made of many **node**
+  - array must be store contiguously in the memories
+  - while linked list
+- merge sort, quick sort
+  - code the main function and leave helper functions there, code helper function later -> watch [video](https://www.youtube.com/watch?v=TGveA1oFhrc) at9:17 to see
+- https://www.youtube.com/watch?v=bNvIQI2wAjk&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=4
+- in python: pointer is the index
+- function programming concepts: I-P-DT-H-R-C
+- learn react book big idea:
+  - declarative vs imperative
+  - The declarative approach is more readable
+    - and, thus, easier to reason about.
+    - The details of how each of these functions
+      - is implemented are abstracted away
+    - declarative programming produces applications that are easier to reason about, and when it’s easier to reason about an application, that application is easier to scale.
+    - **these functions make our code less imperative**
+    - predicate: function that always return a Boolean value
+- REACT
+  - most atomic unit: React elements
+  - component : function definition
+  - element: function call
+  - useState: state and changestate => **trigger render**
+  - useEffect: call the function **after render**
 - [8 must know arrays method](https://www.youtube.com/watch?v=R8rmfD9Y5-c&t=4s)
 - https://www.youtube.com/watch?v=vYquumk4nWw&t=58s
   [leetcode](leetcode)
+- [top 6 interview concepts- DSA](https://www.youtube.com/watch?v=ft0owvS5tQA)
+  - heaps
+  - Sliding Window
+  - binary search
+  - dfs&bfs
+    - search for tree & graph playlist on the channel
+  - recursion
+  - hashmap
 
 ```
       ▲
