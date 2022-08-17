@@ -1,5 +1,19 @@
 # what to do next day
-
+- interview idea:
+  - me tell about progject that i have to do things from scratch: figure out how and what each concept is
+  - the job require some one with a wide expertise from back end to front end and operation
+- dynamic programming - staircase https://www.youtube.com/watch?v=5o-kdjv7FD0
+- Best case is the function which performs the minimum number of steps on input data of n elements.
+- Worst case is the function which performs the maximum number of steps on input data of n elements
+- Average case is the function which performs an average number of steps on input data of n elements.
+- interesting topic - arrow function, prototype https://www.google.com/search?q=why+arrow+function+can+not+prototype+js&sxsrf=ALiCzsbY297WVM6e6UH7QMdxVlj_Kt0X1A%3A1660645185391&ei=QW_7YuOzF4bG-Qbu0ZGgCQ&ved=0ahUKEwij2P2ykcv5AhUGY94KHe5oBJQQ4dUDCA4&uact=5&oq=why+arrow+function+can+not+prototype+js&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsANKBAhBGABKBAhGGABQqQVY4AdgzQtoAXABeACAAV-IAcACkgEBNJgBAKABAcgBCMABAQ&sclient=gws-wiz
+- [ ] ALWAYS WRITE PSEUDOCODE UNTIL IT COMPLETE THEN START WRITING ACTUAL CODE
+- computer science roadmap
+- OOP
+- graph, tree, linkedlist, heap
+- graph = node(vertex) + edges
+  - implement in code: adjacency list
+- linkedlist = node
 - https://www.artezio.com/pressroom/blog/can-digitalization-traffic-management-systems-solve-traffic-congestion-problem/
   - good article mentioned packaged software, Iot, train AI, smart city -> read again near interview
 - Congestion comes from an inefficient use of a limited resource: public space in this case
