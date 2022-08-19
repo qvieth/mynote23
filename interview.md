@@ -3,7 +3,11 @@
 # tell me about yourself
 
 - first of all thank you very much for giving me the oportunity to be interviewd for your company today
-- my name is Jason, I'm a student of MingChuan university and i'm currently pursuing Bachelor degree in Finance. Although I have chosen Finance as my major. I later found that computer science or working as a software engineer would be the career i will truly be passionate about. Therefore i'm seeking this intership as an opportunity for me to advance this career. In the past have learn many computer science subject, also programming in my free time. I have learn the skills and done myself many projects that i things that would help me being able to perform this job well and be a good fit for your company. I'm very willing to share them with you today.
+- my name is Jason, I'm a student of MingChuan university and i'm currently pursuing Bachelor degree in Finance. Although I have chosen Finance as my major. I later found that computer science or working as a software engineer would be the career i will truly be passionate about. Therefore i'm seeking this intership as an opportunity for me to advance this career. In the past have learn many computer science subject, also programming in my free time. I have learn the skills and done myself many projects that i thinks will help me being able to perform this job well and be a good fit for your company. I'm very willing to share them with you today.
+
+# what to mention
+
+3 projects
 
 - how you’d add to the company and get along with the team already in place,
 - tomtom product:
