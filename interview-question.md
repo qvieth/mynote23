@@ -1,9 +1,16 @@
 # interview question
 
+# tell me about yourself
+
 - first of all thank you very much for giving me the oportunity to be interviewd for your company today
 - my name is Jason, I'm a student of MingChuan university and i'm currently pursuing Bachelor degree in Finance. Although I have chosen Finance as my major. I later found that computer science or working as a software engineer would be the career i will truly be passionate about. Therefore i'm seeking this intership as an opportunity for me to advance in my career. In the past have learn a lot of computer science subjecvct in my free time. I would like to learn programming in my free time. I have learn the skills and done myself many projects that i things that would help me being able to perform this job well and be a good fit for your company. I'm very willing to share them with you today.
 
-note taking system
+# mention 3 projects
+
+- optimize my environment, i can replicate my current settings or important files and easily run it on another computer,note taking system
+- note taking system, i want to create a mini wikipedia for myself, write down what i have learn
+- contribute to opensource project by pull request or issue, Lunar vim, 10k star, written in lua
+
 - what hiring manager are looking for https://www.indeed.com/career-advice/interviewing/hiring-manager-interview
   - culture fit
   - managerial fit: how you like to be managed and whether it aligns with the management style
