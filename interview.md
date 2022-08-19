@@ -9,6 +9,10 @@
 
 3 projects
 
+- a script that help me to optimize my working enviroment, replicate the settings from one computer to another computer
+- create wikipedia a note taking system- also like a wikipedia for me: quickly write any ideas and i can quickly push it to my website so that i can later view it with my phone or any other computer
+- i have contributed to an opensource project by opening pull request or issues, the biggest project is that one named Lunarvim, written in Lua and have 10 thousand star on github
+
 - how you’d add to the company and get along with the team already in place,
 - tomtom product:
   - maps
