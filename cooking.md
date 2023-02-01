@@ -12,6 +12,12 @@
   - dice
   - chop
 
+## good recipe
+
+bo ca rong
+heo uop nuoc + hat nem+ muoi tay ninh + toi
+pizza
+
 ## fleeting notes
 
 - To achieve a simmer, first bring water to the boiling point and then lower the temperature.

@@ -1,5 +1,181 @@
 # thesis
 
+## - methodology
+
+- var, 3.2 garch, 3.5 covar model
+-
+
+### - var
+
+Vector autoregression (VAR) is a statistical model used to capture the relationship between multiple quantities as they change over time. VAR is a type of stochastic process model. VAR models generalize the single-variable (univariate) autoregressive model by allowing for multivariate time series.
+
+Like the autoregressive model, each variable has an equation modelling its evolution over time. This equation includes the variable's lagged (past) values, the lagged values of the other variables in the model, and an error term. VAR models do not require as much knowledge about the forces influencing a variable as do structural models with simultaneous equations. The only prior knowledge required is a list of variables which can be hypothesized to affect each other over time.
+
+### granger causality test
+
+As this paper investigate whether fintech(X) is useful in forcasting real economy(Y), it use Granger causality test to judge the promotion between one time series (fintech) and another(real economy).
+
+A time series X is said to Granger-cause Y if it can be shown, usually through a series of t-tests and F-tests on lagged values of X (and with lagged values of Y also included), that those X values provide statistically significant information about future values of Y.
+
+- provided X and Y's past information, variable X is useful to explain Y and considered to be the Granger cause of Y only if the prediction effect of Y is greater than that of Y alone.
+- the test results are divided into 4 cases:
+  - there is a one-way causal relationship from Y to X
+  - there is a one-way causal relationship from X to Y
+  - X and Y are cause and effect
+  - there is no causal relationship between X and Y
+
+where u1t and u2t are white noise; q and s are the lagging periods.
+If the past information of X and Y is included, the prediction effect of variable Y is
+better than that of Y alone, that is, variable X is helpful to explain the change of variable Y.
+Therefore, variable X is considered to be the Granger cause of variable Y. The test results
+are divided into the following four cases: (1) There is a one-way causal relationship from Y
+to X; (2) There is a one-way causal relationship from X to Y; (3) X and Y are cause and effect;
+(4) There is no causal relationship between X and Y
+
+### - 3.2 garch
+
+Generalized AutoRegressive Conditional Heteroskedasticity (GARCH) is a statistical model used in analyzing time-series data where the variance error is believed to be serially autocorrelated. GARCH models assume that the variance of the error term follows an autoregressive moving average process.
+
+GARCH (p, q) model (where p is the order of the GARCH terms σ^2
+and q is the order of the ARCH terms ϵ^2
+) is a model which ϵ*t , the error terms, can be split into a stochastic piece z_t
+and a time-dependent standard deviation σ_t characterizing the typical size of the terms so that ϵ_t = σ_t\*z_t
+. The random variable z t is a strong white noise process while σ^2_t
+is an ARMA process, i.e., σ^2_t = α_0 + ∑^q*(i = 1)α*i\*ϵ^2*(t−i)+∑^p*(i=1)β_i σ^2*(t−i)
+
+### covar model
+
+Karimalis et al. and Jiang et al. mentioned that given time
+series X_A, X_B, the joint density function f(xA , xB ), the edge density function
+f(xA ) and f(xB ), and the copula connection function between two nodes c, then the
+conditional density function of time series X is
+
+formula (11)
+
+The joint distribution of the return series of the Fintech index and various real economy can be obtained using r-vine copula model. Later systematic risk between Fintech and industries will be measured based on the obtained joint distribution. the specific method are as follow
+
+```latex
+CoVaR^(A|B)_(alpha) = F^(A|B)_(1)*(alpha|VaR^beta_alpha), then solve the equation
+formula (12)
+```
+
+the obtained x_A is the desired CoVar^(A|B)\_alpha
+addtionally, deltaCoVaR^(A|B)\_alpha indicates the change of VaR in market A when market B is in extreme risk condition to is useful to improve the measurement of the risk spillover effect between A and B, . the specific expression is
+deltaCoVaR^(A|B)\_alpha = CoVar(A|B)\_alpha - VaR^A_alpha
+
+To remove the influence of dimension, it is necessary to standardize DCoVaR↵ to
+obtain the accurate value of spillover risk more clearly and accurately, as follows.
+
+formula(14)
+
+### r-vine copula
+
+As discussed by Hernandez et al. [39] and He and Li [40], the idea of the vine–copula
+is to decompose the traditional multivariate copula into multiple pair copulas in the form
+of vine graphic structure, making the model fit more simple and feasible, improving the
+fitting accuracy, and making the model dispose of the limitation of only one copula function
+in describing the dependent structure.
+Before giving the definition of the vine, the tree is defined as a graph in which every
+two nodes are connected by different edges. Based on this, the vine can be called a vine on
+an n-dimensional variable when the following conditions are satisfied:
+Condition 1: Vine = (T1 , . . . , Tm ).
+Condition 2: T1 is a tree with N1 nodes and E1 edges on the vine structure. N1 = {1, 2, . . . , n}
+is all nodes on the tree. The connection between nodes is the edge, and E1 represents
+the set of all edges on the first layer tree.
+Condition 3: Ti (i = 2, . . . , m) represents the ith tree on the vine except T1 , and N1 is the
+node on T1 , which meets Ni 2 N1 [ E1 [ E2 [ E3 [ · · · [ Ei 1 .
+The vine structure of an n-dimensional variable consists of n 1 trees. The ith tree
+has n i + 1 nodes and n i edges, and the edge of one tree is used as a new node in the
+next tree. Using the idea of rattan structure, high dimensional Copula functions can be
+decomposed in different two-dimensional Copula to form different correlation structures,
+in which R-vine is described as the actual dependency state between variables.
+The R-vine structure of an n-dimensional variable can be composed of n 1 tree Ti
+(i = 1, . . . , n 1). Assuming that there are n i + 1 nodes and n i edges on T1 , for the
+remaining n 2 trees, the edges on Ti are transformed into new nodes of Ti+1 .
+
+- The probability probabilitydensity densityfunction function of of the the R-vine R-vine Copula is
+
+formula(9)
+
+whereEEi iisisthe
+theset
+setof
+alledges
+edges on
+on each
+each layer
+layer of
+of the tree, e = jሺሻǡ
+(e), k
+(e)|D(e) is
+edges,
+edges,j(e),
+j(e),k(e)
+k(e)are
+arethe
+thecondition
+conditionnodes
+nodesat
+atboth
+both ends
+ends of
+of the
+the edge,
+edge, D(e) is the condition set,
+and c୨ሺୣሻǡ୩ሺୣሻȁୈሺୣሻ
+theconnection
+connectionfunction
+functionbetween
+betweenthe
+the two
+two nodes.
+nodes.
+and
+j(e),k(e)|D(eሺήǡήሻ
+) (·, ·)isisthe
+Figure11shows
+showsan
+anexample
+exampleof
+ofaasix-dimensional
+six-dimensional R-vine
+R-vine Copula
+Copula tree
+Figure
+tree structure.
+structure. In
+In this
+this
+study,
+the
+R-vine
+Copula
+model
+is
+used
+to
+describe
+the
+dynamic
+dependency
+structure
+study, the R-vine Copula model is used to describe the dynamic dependency structure
+betweenindustries
+industriesin
+inthe
+thereal
+realeconomy
+economy and
+and Fintech.
+Fintech. The
+The steps
+between
+steps are
+are as
+as follows
+
+- co phieu IT, consumer staples, financial
+  - DGW, FPT, CMG, ELC
 - create a graph, write words
 - literature review
 - big goals, mini goal

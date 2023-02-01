@@ -1,5 +1,34 @@
 # interview question
 
+Recently in my thesis, which is about using statistical models to calculate the risk spillover effect of fintech on other industries. Many problems appear and knowledge gaps I have to fill. Eventually, I have to deal with a problem that needs me to collect data on all stock companies in my country. I was using my research skill and finally complete the collecting data task using python to request data and process them.
+https://www.sparkamplify.com/
+circle AI
+pic collage
+appier
+SHL medical https://www.shl-medical.com/ drug delivery system
+
+# Cover letter
+
+Jason Huynh
+
+(+886) 928334809
+
+hhq.viet@email.com
+
+Wed August 24, 2022
+
+Dear Hiring Manager,
+
+My name is Jason. I'm excited to be applying for the Front-End Intern position at Preteeth AI. I am someone who is highly focused and attentive to detail, I am passionate about working in the software industry and love to thrive on building quality systems that surpass end users' expectations. I have contributed to an open source project named LunarVim, an IDE written in Lua programming language, by opening pull requests to address their issues.
+
+I am also attentive to the need for continuous process improvements. I have programmed in a Linux environment and made an adjustment to the system so that it fits and works as efficiently as possible for my workflow.
+
+Thank you for your time and consideration. I'm looking forward to learning more details about this position at your company.
+
+Sincerely,
+
+Jason
+
 # tell me about yourself
 
 - first of all thank you very much for giving me the oportunity to be interviewd for your company today

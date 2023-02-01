@@ -1,21 +1,101 @@
 # what to do next day
+
+reference:
+
+- Mills, T. C. (1991). Time Series Techniques for Economists. Cambridge University Press
+- Heston, S. L., & Nandi, S. (2000). A closed-form GARCH option valuation model. The review of financial studies, 13(3), 585-625.
+- Arreola Hernandez, J., Hammoudeh, S., Nguyen, D. K., Al Janabi, M. A., & Reboredo, J. C. (2017). Global financial crisis and dependence risk analysis of sector portfolios: a vine copula approach. Applied Economics, 49(25), 2409-2427.
+  the R-vine Copula model is used to describe the dynamic dependency structure study, the R-vine Copula model is used to describe the dynamic dependency structure betweenindustries industriesin inthe thereal realeconomy economy and and Fintech. Fintech.
+- product
+- marketing
+-
+- [thesis](thesis)
+- [thesis2](thesis2)
+-
+- [vuejs](vuejs)
+- improve UI for juejue sticker, button
+- material icon design
+- [java](java)
+- fix bug youtube cannot be show on some board
+- how to make jboard card more beautiful
+- how to google web-page(static) to back-end
+- https://www.javascripttutorial.net/javascript-dom/javascript-form/
+- study this course - it has subtitle https://gft.udemy.com/course/html-css-learning/learn/lecture/9995554#overview
+- https://www.mysqltutorial.org/mysql-nodejs/connect/
+- finish mern -> tomorrow interview
+- [rails](rails)
+
+- thesis: 2 problems: more outline, answer question whether real econ include all
+- https://www.youtube.com/watch?v=705XCEruZFs
+  - css `animation-fill-mode: backwards` -> so that if you want the image to fade in, it will not appear first then fade
+- transition to animate things
+- media queries for responsive uis
 - [interview question](interview-question)
-- dynamic programming - staircase https://www.youtube.com/watch?v=5o-kdjv7FD0
-- Best case is the function which performs the minimum number of steps on input data of n elements.
-- Worst case is the function which performs the maximum number of steps on input data of n elements
-- Average case is the function which performs an average number of steps on input data of n elements.
-- interesting topic - arrow function, prototype https://www.google.com/search?q=why+arrow+function+can+not+prototype+js&sxsrf=ALiCzsbY297WVM6e6UH7QMdxVlj_Kt0X1A%3A1660645185391&ei=QW_7YuOzF4bG-Qbu0ZGgCQ&ved=0ahUKEwij2P2ykcv5AhUGY94KHe5oBJQQ4dUDCA4&uact=5&oq=why+arrow+function+can+not+prototype+js&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsANKBAhBGABKBAhGGABQqQVY4AdgzQtoAXABeACAAV-IAcACkgEBNJgBAKABAcgBCMABAQ&sclient=gws-wiz
-- [ ] ALWAYS WRITE PSEUDOCODE UNTIL IT COMPLETE THEN START WRITING ACTUAL CODE
-- computer science roadmap
-- OOP
-- graph, tree, linkedlist, heap
-- graph = node(vertex) + edges
+
+* [interview](interview)
+* intervention
+* [cover letter](cover-letter)
+* see table -> if not 4.2 then B, 4.2 and 7.1 -> 7.1
+* anki apkg to txt: import into a new temporary profile and export as text. then delete this temporary profile
+
+* [cooking](cooking)
+
+```
+┌───────────────────────┐
+│   margin(transparent) │
+│  ┌─────border──────┐  │
+│  │     padding     │  │
+│  │   ┌─────────┐   │  │
+│  │   │ content │   │  │
+│  │   └─────────┘   │  │
+│  │                 │  │
+│  └─────────────────┘  │
+│                       │
+└───────────────────────┘
+```
+
+- [smacss](smacss)
+- study pug
+- https://www.webfx.com/blog/web-design/css-methodologies/ reread -> good many examples
+- [draft](draft)
+- always use rem
+- `text-align: center` will algin everything that doesn't has width set, but if it's a block element and has a width set, then you have to set it center using `margin: 0 auto 0 auto;` value
+- https://gft.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12638830#overview
+  - complete this udemy
+- read
+  - https://www.personalfinanceclub.com/how-to-perfectly-time-the-market/
+- rewrite CV
+- [thesis](thesis)
+- https://zety.com/blog/how-to-follow-up-on-a-job-application
+- https://www.youtube.com/watch?v=x_n2FGNsm0o starbuck landing page
+- [promise](promise)
+- convert callback to promise to async
+- asynchronous operation javascript https://www.youtube.com/watch?v=670f71LTWpM
+- google is a skill : css how to center a div
+- https://html.com/resources/free-html-templates/ : download some html code and see
+  - search for top web components
+  - look at a lot component and add them to your website
+- DO A LOT OF SIDE PROJECT
+
+* recreate CV
+* proxy variable https://en.wikipedia.org/wiki/Proxy_(statistics)
+* [interview question](interview-question)
+* dynamic programming - staircase https://www.youtube.com/watch?v=5o-kdjv7FD0
+* Best case is the function which performs the minimum number of steps on input data of n elements.
+* Worst case is the function which performs the maximum number of steps on input data of n elements
+* Average case is the function which performs an average number of steps on input data of n elements.
+* interesting topic - arrow function, prototype https://www.google.com/search?q=why+arrow+function+can+not+prototype+js&sxsrf=ALiCzsbY297WVM6e6UH7QMdxVlj_Kt0X1A%3A1660645185391&ei=QW_7YuOzF4bG-Qbu0ZGgCQ&ved=0ahUKEwij2P2ykcv5AhUGY94KHe5oBJQQ4dUDCA4&uact=5&oq=why+arrow+function+can+not+prototype+js&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsANKBAhBGABKBAhGGABQqQVY4AdgzQtoAXABeACAAV-IAcACkgEBNJgBAKABAcgBCMABAQ&sclient=gws-wiz
+* [ ] ALWAYS WRITE PSEUDOCODE UNTIL IT COMPLETE THEN START WRITING ACTUAL CODE
+* computer science roadmap
+* OOP
+* graph, tree, linkedlist, heap
+* graph = node(vertex) + edges
   - implement in code: adjacency list
-- linkedlist = node
-- https://www.artezio.com/pressroom/blog/can-digitalization-traffic-management-systems-solve-traffic-congestion-problem/
+* linkedlist = node
+* https://www.artezio.com/pressroom/blog/can-digitalization-traffic-management-systems-solve-traffic-congestion-problem/
   - good article mentioned packaged software, Iot, train AI, smart city -> read again near interview
-- Congestion comes from an inefficient use of a limited resource: public space in this case
-- question for tomtom:
+* Congestion comes from an inefficient use of a limited resource: public space in this case
+* question for tomtom:
 
   - do you treat this intership as an extended interview or what qualities the intern should have to receive the return offer
   - do you have any concerns about me or my qualification that may prevent you from selecting me from the job
@@ -23,25 +103,25 @@
   - what excite you about working in navigation technology
   - tomtom believes in the strength of diversity and will
 
-- safer roads, free from congestion and emissions.
-- mitac, here, garmin,
-- solve what matters
-- tomtom
+* safer roads, free from congestion and emissions.
+* mitac, here, garmin,
+* solve what matters
+* tomtom
   - automotive
     - The firm's automotive segment sells location technology components to carmakers.
     - enterprise: sell to tech companies, government bodies, traffic management entities
   - consume: sell portable, personal satellit navigation devices
-- [fibonacci](https://www.youtube.com/watch?v=dDokMfPpfu4)
-- PRD,DTDM
-- linked list made of many **node**
+* [fibonacci](https://www.youtube.com/watch?v=dDokMfPpfu4)
+* PRD,DTDM
+* linked list made of many **node**
   - array must be store contiguously in the memories
   - while linked list
-- merge sort, quick sort
+* merge sort, quick sort
   - code the main function and leave helper functions there, code helper function later -> watch [video](https://www.youtube.com/watch?v=TGveA1oFhrc) at9:17 to see
-- https://www.youtube.com/watch?v=bNvIQI2wAjk&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=4
-- in python: pointer is the index
-- function programming concepts: I-P-DT-H-R-C
-- learn react book big idea:
+* https://www.youtube.com/watch?v=bNvIQI2wAjk&list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf&index=4
+* in python: pointer is the index
+* function programming concepts: I-P-DT-H-R-C
+* learn react book big idea:
   - declarative vs imperative
   - The declarative approach is more readable
     - and, thus, easier to reason about.
@@ -50,16 +130,16 @@
     - declarative programming produces applications that are easier to reason about, and when it’s easier to reason about an application, that application is easier to scale.
     - **these functions make our code less imperative**
     - predicate: function that always return a Boolean value
-- REACT
+* REACT
   - most atomic unit: React elements
   - component : function definition
   - element: function call
   - useState: state and changestate => **trigger render**
   - useEffect: call the function **after render**
-- [8 must know arrays method](https://www.youtube.com/watch?v=R8rmfD9Y5-c&t=4s)
-- https://www.youtube.com/watch?v=vYquumk4nWw&t=58s
+* [8 must know arrays method](https://www.youtube.com/watch?v=R8rmfD9Y5-c&t=4s)
+* https://www.youtube.com/watch?v=vYquumk4nWw&t=58s
   [leetcode](leetcode)
-- [top 6 interview concepts- DSA](https://www.youtube.com/watch?v=ft0owvS5tQA)
+* [top 6 interview concepts- DSA](https://www.youtube.com/watch?v=ft0owvS5tQA)
   - heaps
   - Sliding Window
   - binary search
