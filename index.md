@@ -1,6 +1,15 @@
 # what to do next day
 
-reference:
+- https://github.com/jackMort/ChatGPT.nvim
+- [10 chatGPT tools](https://www.youtube.com/watch?v=YnEUiQE_5RA)
+- Fundamental Methods of Mathematical Economics by A.C.Chiang
+-
+- 2f
+- 3m
+- 4e
+- 5e
+- 6e
+  reference:
 
 - Mills, T. C. (1991). Time Series Techniques for Economists. Cambridge University Press
 - Heston, S. L., & Nandi, S. (2000). A closed-form GARCH option valuation model. The review of financial studies, 13(3), 585-625.
