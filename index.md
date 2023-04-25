@@ -1,9 +1,32 @@
 # what to do next day
+- watch
+  - https://www.youtube.com/watch?v=66tfvFeALBQ 
+  - https://www.youtube.com/watch?v=klTvEwg3oJ4
+  - 10 math concept fireship io
+- how merge 2 variables in a table works?
+
+| stock_code | date     | marketcap | price return |
+|------------|----------|-----------|--------------|
+| ADG        | 3/1/2022 | 110       | 0.1          |
+| ADG        | 2/1/2021 | 210       | 0.1          |
+| ADG        | 1/1/2020 | 310       | -0.6         |
+| ICT        | 3/1/2022 | 100       | 0.1          |
+| ICT        | 2/1/2021 | 200       | 0.5          |
+| ICT        | 1/1/2020 | 300       | 0.1          |
+| SGT        | 3/1/2022 | 100       | 0.1          |
+| SGT        | 2/1/2021 | 400       | 0            |
+| SGT        | 1/1/2020 | 800       | -0.4         |
+| YEG        | 3/1/2022 | 140       | 0            |
+| YEG        | 2/1/2021 | 480       | 0.1          |
+| YEG        | 1/1/2020 | 600       | 0.3          |
+
+- [politics](politics)
+- [int econ](int-econ)
+- [thesis](thesis)
 
 - https://github.com/jackMort/ChatGPT.nvim
 - [10 chatGPT tools](https://www.youtube.com/watch?v=YnEUiQE_5RA)
 - Fundamental Methods of Mathematical Economics by A.C.Chiang
--
 - 2f
 - 3m
 - 4e
@@ -18,8 +41,7 @@
 - product
 - marketing
 -
-- [thesis](thesis)
-- [thesis2](thesis2)
+- [thesis](thesis) [thesis2](thesis2)
 -
 - [vuejs](vuejs)
 - improve UI for juejue sticker, button
