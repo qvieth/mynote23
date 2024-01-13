@@ -1,47 +1,12 @@
 # thesis
-3 points:
-I want report our team  and proposal:
-We did contact the data provider and exchange information, we are ready to buy it
-but before that i want to propose a new method, and make clear some idea:
-
-As what i'm understanding that original paper trying to use Tail risk dependent structure analysis to model the dependence structure between variables in term of time series data, here their variables of interest were the indexes
-the problem with using index is that calculating itselves is a complex method and the part we are facing problems are using market capitalization weighted average and share ratio divisor.
-
-In the old way of calculating the index, we would need to manually divide the new share ratio every time there is a new listing or delisting in the market. Considering the current number of stocks being processed, which is approximately 400 companies,which still didn't count the delisted company. As for our current research knowledge we're still having no way how to find out the missing data for the delisted company. Therefore the process of calculating stock index would be too hard, even if we try to skip some process, the index computed by ourselves is still faulty and has its own limitation. So I propose an alternative approach for replace index using price simple weighted price return percentage.
- 
-Price Return = (Closing Price - Beginning Price) / Beginning Price * 100
-Then we aggregate the price return using equal weighted average.
-
-Price returns can still capture the price movement and volatility of the stock, which may be relevant for tail risk dependent structure analysis. And also it won't be affected by the stock split as in such event ,the adjustment typically affects both the adjusted opening price and the adjusted closing price of a stock. for example:
-Day 1: company A | opening price: 100 | closing price: 120
-Day 2: company A do 10-1 stock split | opening price: 11 closing price 11.3 |
-
-If we do the price return in both date the price return for day 1 will be 20% while day 2 27%
-in my old way of calculate the percentage of change, which you pointed out it would be wrong in the event of stock split as i did the subtract from day 2 closing price and day 1 closing price : 11.3 - 120
-so a small and irrelevant question to what i'm proposing: if we still need market capitalization, can i use the new formular for the percentage of change and proceed to calculate the marketcap that old way?
-
-as long as we carefully consider and describe the implications and limitations of using price returns alone. the end result may still valuable to the research community.
-
-some advantage of this approach are: simplicty and feasibility, representativeness, data availability, time efficiency, the best thing for me is originality
-its limitation: may not be a as robust as stock index for the representativeness.
-
-I believe that using price return percentage as a weighting scheme for industry index calculation in the Vietnam stock market can offer advantages mentioned above despite its limitation. I hope to receive your advice and approval to proceed with this alternative approach for my thesis research dear professor.
-
-## - we calculate marketcapitalization ourselves again but using my modified formula
+- [copula](copula)
 
 
- 
- 
- 
+## chapter 5 conclusion
+interpretation
 
-Advantages of the Proposed Approach:
-
-Simplicity and Feasibility: The proposed approach using price return percentage is simpler and more feasible compared to the original method of using market capitalization-based indexes, as it does not require additional data and complex calculations.
-Representativeness: Price return percentage provides a comprehensive representation of industry performance, without biases towards larger or more established companies. This can give a meaningful measure of the overall dynamics of the industry.
-Data Availability: Price return percentage data is typically available for a longer historical period, including for newer companies, addressing the issue of missing data that may arise with market capitalization-based indexes.
-Time and Resource Efficiency: The proposed approach eliminates the cumbersome process of manually updating the index for new listings or delistings, which can be time-consuming and labor-intensive, especially with a large number of stocks to process (e.g., approximately 400 companies).
-Originality and Innovation: The proposed approach demonstrates originality and innovation in research, showcasing critical thinking and novel solutions to research challenges.
-Conclusion:
+## result
+impulse response: confidence interval include 0, which mean there is no response in that graph
 
 ## variables
 - propse a new method:

@@ -5,6 +5,8 @@
 - [draft3](draft3)
 - [draft trade practice](draft-trade-practice)
 - [draft5](draft5) -> asset management
+- [draft6](draft6) -> strategy management presentation
+
 
 # climate
 

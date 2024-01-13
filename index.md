@@ -1,12 +1,47 @@
 # what to do next day
+
+- [art](art)
+- [report](report)
+- [company](company)
+-
+- search for top textbooks about graphic design
+- Art > designer > graphic designer > interface design > web design / layout design
+- **PSYCHOLOGY ASPECT OF DESIGNS**
+- crf: continuous report and feedback
+  - written report every one hour answer what and why question
+  - receive feedback by the next person in the circle
+- robot mode: do what ever your rational mind told you to do
+- think of the rational mind as your master
+- do what he say
+- must be either black or white - do not compromise - do not be gray
+
+- [exercise](exercise)
+- [human evolution](human-evolution)
+- [strategy](strategy)
+- list of website to makes:
+  - https://www.tasteofhome.com/article/what-is-al-dente/
+- [thesis](thesis)
+- the time of know how to "use" thing. like using a washing machine. you don't have to know how inside the washing machine works.
+- => read manual to know all of the machine's function
+- mention positive negative, how many period will it last
+- cholesky to generalize
+  red line : confidence interval
+  only cs confidence interval include 0 so has no response
+  all others have the response
+  things to do:
+  create a entirely new vimwiki after done thesis
+  stationary data?
+  [var](var)
+- [copula](copula)
 - watch
-  - https://www.youtube.com/watch?v=66tfvFeALBQ 
+- [steak](steak)
+  - https://www.youtube.com/watch?v=66tfvFeALBQ
   - https://www.youtube.com/watch?v=klTvEwg3oJ4
   - 10 math concept fireship io
 - how merge 2 variables in a table works?
 
 | stock_code | date     | marketcap | price return |
-|------------|----------|-----------|--------------|
+| ---------- | -------- | --------- | ------------ |
 | ADG        | 3/1/2022 | 110       | 0.1          |
 | ADG        | 2/1/2021 | 210       | 0.1          |
 | ADG        | 1/1/2020 | 310       | -0.6         |
